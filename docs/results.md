@@ -431,9 +431,9 @@ All results are reproducible using:
 - Scikit-learn: 42
 
 **Hardware:**
-- GPU: NVIDIA Tesla T4 (16 GB)
+- GPU: Goolge Collab A100 40gb Vram
 - CPU: Intel Xeon (8 cores)
-- RAM: 32 GB
+- RAM: 80 GB
 
 ---
 
