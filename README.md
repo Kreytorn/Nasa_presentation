@@ -1,5 +1,5 @@
 # ExoHunter: Multi-Signal Planetary Detection System
-NASA Space Apps Challenge 2025 | Team The Barrel
+NASA Space Apps Challenge 2025 | Team inzva
 Challenge: A World Away: Hunting for Exoplanets with AI
 
 ---
@@ -48,13 +48,13 @@ Each notebook is standalone—run individually.
 ## Methods Overview
 
 ### Transit Detection (Primary)
-Detects periodic brightness dips in stellar light curves caused by planets crossing in front of their host stars. Uses a CNN on Kepler/TESS data.
-Performance: ROC-AUC 0.98, Recall 0.94
+Detects periodic brightness dips in stellar light curves caused by planets crossing in front of their host stars. Uses a CNN/gradient-boosting ensemble on Kepler/TESS data.
+Performance: Accuracy 92.0% (ROC-AUC 0.956, PR-AUC 0.932)
 Location: transit_detection/
 
 ### Astrometry
 Identifies planet-hosting stars via tiny position wobbles using Gaia DR3 orbital solutions. Cross-matched with NASA Exoplanet Archive.
-Performance: ROC-AUC 0.99, PR-AUC 0.86 (139k stars analyzed)
+Performance: ROC-AUC 0.994, PR-AUC 0.861
 Location: supplementary_methods/astrometry.ipynb
 
 ### Microlensing
@@ -64,10 +64,12 @@ Location: supplementary_methods/microlensing.ipynb
 
 ### Radial Velocity
 Analyzes stellar velocity oscillations caused by orbiting planets using spectroscopic data.
+Performance: ROC-AUC 0.870
 Location: supplementary_methods/radial_velocity.ipynb
 
 ### Direct Imaging
-Visual detection of planets in resolved systems.
+Visual detection of planets in resolved systems (high-contrast imaging).
+Performance: 92% accuracy (CNN + Transformer)
 Location: supplementary_methods/direct_imaging.ipynb
 
 ---
@@ -92,16 +94,20 @@ Detailed guides in docs/:
 ---
 
 ## Results Summary
-Method | Dataset Size | Metric   | Score
------- | -------------|----------|------
-Transit | 5,087 curves | ROC-AUC | 0.98
-Astrometry | 139,649 stars | ROC-AUC | 0.99
-Microlensing | 293 events | Accuracy | 93.5%
+| Method         | Dataset Size        | Primary Metric | Score   |
+|----------------|---------------------|----------------|---------|
+| Transit        | 21,000 light curves | Accuracy       | 92.0%   |
+| Astrometry     | 139,649 stars       | ROC-AUC        | 0.994   |
+| Microlensing*  | 293 events          | Accuracy       | 93.5%   |
+| Radial Velocity| 1,200+ stars        | ROC-AUC        | 0.870   |
+| Direct Imaging | ~5,000 patches      | Accuracy       | 92%     |
+
+*Microlensing results use synthetic labels from the Roman 2018 challenge.
 
 ---
 
 ## Team
-The Barrel — NASA Space Apps Challenge 2025
+Team inzva — NASA Space Apps Challenge 2025
 
 ---
 
@@ -115,7 +121,3 @@ If you use this work, please reference:
 ExoHunter: Multi-Signal Planetary Detection System
 NASA Space Apps Challenge 2025, Team inzva
 https://github.com/Kreytorn/Nasa_presentation
-
-
-
-
