@@ -188,6 +188,6 @@ These limitations motivated development of four additional detection approaches 
 
 ## References
 
-- Kepler Mission Data: [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)
-- TESS Mission: [MAST Portal](https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html)
-- K2 Campaign Data: [K2 Mission Page](https://keplerscience.arc.nasa.gov/k2-observing.html)
+- Kepler Mission Data: [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative)
+- TESS Mission: [MAST Portal](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=TOI)
+- K2 Campaign Data: [K2 Mission Page](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=k2pandc)
