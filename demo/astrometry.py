@@ -8,8 +8,8 @@ import numpy as np
 import pandas as pd
 import joblib
 
-MODEL_PATH = "Astrometry/astrometry_model.pkl"
-FEATS_PATH = "Astrometry/astrometry_features.json"
+MODEL_PATH = "astrometry_model.pkl"
+FEATS_PATH = "astrometry_features.json"
 
 def _load_model_and_features(model_path: str = MODEL_PATH, feats_path: str = FEATS_PATH):
     clf = joblib.load(model_path)
