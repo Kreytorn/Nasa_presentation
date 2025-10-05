@@ -110,7 +110,7 @@ This document provides detailed information about all seven datasets used across
 
 **Access:**
 - MAST K2 Archive: https://archive.stsci.edu/k2/
-- K2 Campaign pages: https://keplerscience.arc.nasa.gov/k2-observing.html
+- K2 Campaign pages: https://archive.stsci.edu/k2/
 
 **Citation:**
 - Howell et al. (2014). "The K2 Mission: Characterization and Early Results." PASP 126, 398.
@@ -203,7 +203,7 @@ This document provides detailed information about all seven datasets used across
 - Cross-calibration with HARPS for overlapping targets
 
 **Access:**
-- Keck Observatory Archive: https://www2.keck.hawaii.edu/koa/public/koa.php
+- Keck Observatory Archive: https://koa.ipac.caltech.edu/cgi-bin/KOA/nph-KOAlogin
 - California Planet Search: http://exoplanets.org/
 
 **Citation:**
@@ -267,7 +267,7 @@ This document provides detailed information about all seven datasets used across
 
 **Access:**
 - GitHub repository: https://github.com/microlensing-data-challenge/data-challenge-1
-- Challenge description: https://wfirst.ipac.caltech.edu/sims/Microlensing_Data_Challenge.html
+- Challenge description: https://github.com/microlensing-data-challenge/data-challenge-1
 
 **Supplementary data (production systems would use):**
 - OGLE Early Warning System: http://ogle.astrouw.edu.pl/ogle4/ews/ews.html
