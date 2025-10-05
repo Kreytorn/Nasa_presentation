@@ -10,27 +10,23 @@ Multi-method exoplanet detection system combining transit photometry, astrometry
 ---
 
 ## Repository Structure
-exoplanet-detection-ai/
-│
-├── transit_detection/             # Primary method - Kepler/TESS light curves
-│   ├── notebooks/                 # Training pipeline
-│   ├── models/                    # Saved CNN models
-│   └── results/                   # Performance metrics & plots
-│
-├── supplementary_methods/         # Alternative detection techniques
-│   ├── radial_velocity.ipynb      # Stellar wobble (spectroscopy)
-│   ├── microlensing.ipynb         # Gravitational lensing events
-│   ├── astrometry.ipynb           # Position shifts (Gaia DR3)
-│   └── direct_imaging.ipynb       # Visual detection
-│
-├── docs/                          # Detailed documentation
-│   ├── main_method.md             # Transit detection deep-dive
-│   ├── supplementary_methods.md   # Other techniques explained
-│   ├── datasets.md                # Data sources & preprocessing
-│   └── results.md                 # Performance analysis
-│
-├── demo/                          # Interactive demonstrations
-└── data/                          # Dataset info & download scripts
+- exoplanet-detection-ai/
+  - transit_detection/: Primary method - Kepler/TESS light curves
+    - notebooks/: Training pipeline
+    - models/: Saved CNN models
+    - results/: Performance metrics and plots
+  - supplementary_methods/: Alternative detection techniques
+    - radial_velocity.ipynb: Stellar wobble (spectroscopy)
+    - microlensing.ipynb: Gravitational lensing events
+    - astrometry.ipynb: Position shifts (Gaia DR3)
+    - direct_imaging.ipynb: Visual detection
+  - docs/: Detailed documentation
+    - main_method.md: Transit detection deep-dive
+    - supplementary_methods.md: Other techniques explained
+    - datasets.md: Data sources and preprocessing
+    - results.md: Performance analysis
+  - demo/: Interactive demonstrations
+  - data/: Dataset info and download scripts
 
 ---
 
@@ -119,4 +115,5 @@ If you use this work, please reference:
 ExoHunter: Multi-Signal Planetary Detection System
 NASA Space Apps Challenge 2025, Team inzva
 https://github.com/Kreytorn/Nasa_presentation
+
 
