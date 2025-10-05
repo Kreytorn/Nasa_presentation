@@ -65,3 +65,42 @@ star = {
 }
 
 score = score_astrometry(star)  # returns 0-1 probability
+
+```
+
+# Direct Imaging (High-Contrast) Exoplanet Detection
+
+Detects faint companions in ground-based **ADI** sequences (e.g., VLT/SPHERE IRDIS) by training a CNN on planet/no-planet image **stamps**. The pipeline loads calibrated cubes + parallactic angles, injects synthetic companions using an empirical PSF to create balanced positives, generates negatives from empty regions, trains a small classifier, and provides a heatmap-style scanner for full-frame inference.
+
+## Quick Start
+
+Run the notebook cells in order:
+
+1. **Load data** – reads example SPHERE/IRDIS cubes (shape like `(T, H, W)`), parallactic angles `(T,)`, and a PSF cutout `(h, w)`.  
+2. **Generate dataset** – injects synthetic planets across separations/position angles to create **N positives**; samples **N negatives** from planet-free zones.  
+3. **Train CNN** – fits a lightweight conv net on 64×64 stamps (pos vs neg).  
+4. **Evaluate** – prints ROC/AUC and saves confusion matrix + PR curve.  
+5. **Export** – writes trained weights and preprocessing config to `/processed/imaging`.
+
+All artifacts (stamps, model, metrics, predictions) are saved under `/processed/imaging`.
+
+## Using the Model
+
+Score a single stamp or scan a full ADI cube:
+
+```python
+# Single 64x64 stamp (numpy array)
+prob = score_stamp(stamp)  # returns probability in [0, 1]
+
+# Full-cube scan (produces a probability heatmap and candidate list)
+heatmap, candidates = scan_cube(
+    cube,          # shape (T, H, W)
+    angles,        # shape (T,) in degrees
+    psf,           # shape (h, w) PSF cutout used for training/injection
+    step=4,        # sliding-window stride in pixels
+    aperture=7,    # photometric aperture (pixels) for candidate scoring
+    thr=0.80       # detection threshold for candidate picking
+)
+
+# Each item in `candidates` has: (y, x, prob, separation_arcsec, pa_deg)
+
