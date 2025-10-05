@@ -67,7 +67,7 @@ Analyzes stellar velocity oscillations caused by orbiting planets using spectros
 Location: supplementary_methods/radial_velocity.ipynb
 
 ### Direct Imaging
-Visual detection of planets in resolved systems (under development).
+Visual detection of planets in resolved systems.
 Location: supplementary_methods/direct_imaging.ipynb
 
 ---
@@ -115,6 +115,7 @@ If you use this work, please reference:
 ExoHunter: Multi-Signal Planetary Detection System
 NASA Space Apps Challenge 2025, Team inzva
 https://github.com/Kreytorn/Nasa_presentation
+
 
 
 
