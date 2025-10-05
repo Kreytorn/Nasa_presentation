@@ -320,7 +320,7 @@ Two variants tested:
 **Early stopping at epoch 30** (validation loss plateau)
 
 ### Computational Performance
-- Training time: 90 minutes (NVIDIA T4 GPU)
+- Training time: 90 minutes (Google Collab A100 GPU)
 - Inference speed: ~0.5 seconds per image cube
 - Throughput: ~100 cubes per hour
 - GPU memory: ~8 GB for batch size 16
