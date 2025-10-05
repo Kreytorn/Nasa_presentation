@@ -74,7 +74,7 @@ def _load_model(model_path, device=None):
 # ========= #1: single-event predictor =========
 def predict_single_event(
     source,
-model_path="Microlensing/roman_2018/processed/models/conv1d_gru.pt",
+model_path="conv1d_gru.pt",
     z_normalize=False,
 ):
     """
@@ -107,7 +107,7 @@ model_path="Microlensing/roman_2018/processed/models/conv1d_gru.pt",
 # ========= #2: multi-event predictor =========
 def predict_many_events(
     sources,
-    model_path="Microlensing/roman_2018/processed/models/conv1d_gru.pt",
+    model_path="conv1d_gru.pt",
     z_normalize=False,
     return_dataframe=True
 ):
