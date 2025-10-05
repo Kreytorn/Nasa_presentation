@@ -105,7 +105,7 @@ Microlensing | 293 events | Accuracy | 93.5%
 ---
 
 ## Team
-Team inzva — NASA Space Apps Challenge 2025
+The Barrel — NASA Space Apps Challenge 2025
 
 ---
 
@@ -119,3 +119,4 @@ If you use this work, please reference:
 ExoHunter: Multi-Signal Planetary Detection System
 NASA Space Apps Challenge 2025, Team inzva
 https://github.com/Kreytorn/Nasa_presentation
+
