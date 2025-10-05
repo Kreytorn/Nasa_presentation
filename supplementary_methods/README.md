@@ -33,3 +33,35 @@ prob = predict_single_event("lightcurve.csv")
 probs, df = predict_many_events(["event1.csv", "event2.npy"])
 ```
 Accepts CSV, NPY, or NumPy arrays. Auto-handles different lengths and channels.
+
+# Astrometry Exoplanet Detection
+
+Identifies planet-hosting stars using Gaia DR3 astrometric wobbles - tiny position shifts caused by orbiting companions.
+
+## Quick Start
+
+Run notebook cells in order:
+1. Mount Drive
+2. Process Gaia data with adaptive labels
+3. Cross-match with NASA confirmed hosts (16 positives found)
+4. Train RandomForest classifier
+5. Load inference functions
+
+## Using the Model
+
+Score a star from orbital parameters:
+```python
+star = {
+    "period": 318.6,              # days
+    "eccentricity": 0.26,
+    "inclination": 70.0,          # degrees
+    "parallax_over_error": 1075,
+    "ruwe": 0.84,
+    "astrometric_chi2_al": 250.0,
+    "astrometric_excess_noise": 0.0,
+    "visibility_periods_used": 12,
+    "phot_g_mean_mag": 5.59,
+    "arg_periastron": 120.0
+}
+
+score = score_astrometry(star)  # returns 0-1 probability
