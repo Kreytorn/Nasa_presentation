@@ -1,0 +1,29 @@
+\STAR_ID                                  = "OGLE2-TR-L9"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "8"
+\TIME_REFERENCE_FRAME                     = "HJD"
+\MINIMUM_DATE                             = "2454465.8421"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454496.7703"
+\MINIMUM_VALUE                            = "472.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "2345.00"
+\REFERENCE                                = "Snellen et al. 2009 (A&A, 497, 545)"
+\BIBCODE                                  = "2009A&A...497..545S"
+\TELESCOPE                                = "8.2m Kueyen (UT2)"
+\INSTRUMENT                               = "UVES+FLAMES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO VLT, Paranal Observatory, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          HJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454465.8421           1090.00                        224.00
+  2454466.8583           1204.00                        276.00
+  2454468.7219            842.00                        212.00
+  2454472.7447           1105.00                        231.00
+  2454489.6749           2345.00                        376.00
+  2454490.8382            472.00                        318.00
+  2454493.7697           1187.00                        187.00
+  2454496.7703           1190.00                        272.00

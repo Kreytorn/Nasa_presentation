@@ -1,0 +1,35 @@
+\STAR_ID                            = "CoRoT-27"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "13"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2456092.859270"
+\MAXIMUM_DATE                       = "2456161.618870"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-5415.7"
+\MAXIMUM_VALUE                      = "-2640.7"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Parviainen et al. 2014 (2014, A&A, 562A, 140)"
+\BIBCODE                            = "2014A&A...562A.140P"
+\TELESCOPE                          = "3.6m ESO"
+\INSTRUMENT                         = "HARPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "ESO La Silla, Chile"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2456092.859270          -5415.70                         97.10
+  2456094.806470          -2889.60                         75.60
+  2456096.851660          -5022.10                        208.80
+  2456097.848330          -2985.20                        182.40
+  2456098.670830          -3245.40                        143.90
+  2456099.710550          -5346.10                        246.60
+  2456100.594900          -4578.60                        161.40
+  2456101.598730          -2640.70                        157.10
+  2456102.841700          -4564.20                        104.40
+  2456118.676580          -4180.70                         77.10
+  2456119.583470          -2934.20                        167.50
+  2456121.607480          -5334.40                        131.30
+  2456161.618870          -4020.40                         83.30

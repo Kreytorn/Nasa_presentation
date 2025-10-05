@@ -1,0 +1,41 @@
+\STAR_ID                                  = "Gl 581"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "20"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2453152.71289"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453592.46481"
+\MINIMUM_VALUE                            = "-9231.90"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-9197.00"
+\REFERENCE                                = "Bonfils et al. 2005 (A&A, 443, L15)"
+\BIBCODE                                  = "2005A&A...443L..15B"
+\TELESCOPE                                = "3.6m"
+\INSTRUMENT                               = "HARPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453152.71289          -9223.50                          1.20
+  2453158.66336          -9231.90                          1.40
+  2453511.77355          -9220.20                          1.40
+  2453520.74475          -9199.90                          1.60
+  2453574.52223          -9202.40                          1.30
+  2453575.48075          -9206.90                          1.10
+  2453576.53646          -9220.20                          1.10
+  2453577.59250          -9222.10                          1.40
+  2453578.51061          -9210.80                          1.00
+  2453578.62960          -9209.20                          1.30
+  2453579.46256          -9199.10                          1.10
+  2453579.62115          -9197.00                          1.20
+  2453585.46167          -9203.40                          1.30
+  2453586.46516          -9214.10                          1.00
+  2453587.46481          -9226.90                          2.00
+  2453588.53827          -9217.90                          3.60
+  2453589.46202          -9205.10                          1.00
+  2453590.46379          -9199.00                          1.00
+  2453591.46638          -9203.40                          1.00
+  2453592.46481          -9217.50                          1.00

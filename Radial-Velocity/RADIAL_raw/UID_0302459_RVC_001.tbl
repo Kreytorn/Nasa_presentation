@@ -1,0 +1,28 @@
+\STAR_ID                            = "HATS-1"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "6"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455932.134800"
+\MAXIMUM_DATE                       = "2455943.223900"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-265.2"
+\MAXIMUM_VALUE                      = "271.6"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Penev et al. 2013 (2013, AJ, 145, 5)"
+\BIBCODE                            = "2013AJ....145....5P"
+\TELESCOPE                          = "3.9m AAT"
+\INSTRUMENT                         = "CYCLOPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = ""
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455932.134800             -2.80                         39.60
+  2455933.097690           -104.80                        115.00
+  2455933.188120            208.10                         33.62
+  2455938.169790           -265.20                         21.28
+  2455939.192240            -22.00                         15.65
+  2455943.223900            271.60                         17.65

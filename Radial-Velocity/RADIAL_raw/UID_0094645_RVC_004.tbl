@@ -1,0 +1,25 @@
+\STAR_ID                                  = "HD 179949"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "3"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2451792.751"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2451795.803"
+\MINIMUM_VALUE                            = "-80.7"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "122.2"
+\REFERENCE                                = "Tinney et al. 2001 (ApJ, 551, 507)"
+\BIBCODE                                  = "2001ApJ...551..507T"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|      double |          double |                      double |
+|        days |             m/s |                         m/s |
+  2451792.751             122.2                           2.6
+  2451793.798             -80.7                           2.5
+  2451795.803             115.6                           2.5

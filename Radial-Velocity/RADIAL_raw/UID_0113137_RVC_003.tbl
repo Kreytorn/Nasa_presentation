@@ -1,0 +1,42 @@
+\STAR_ID                                  = "HD 216437"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "21"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2451391.7813"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2452796.8976"
+\MINIMUM_VALUE                            = "-2313.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-2241.00"
+\REFERENCE                                = "Mayor et al. 2004 (A&A, 415, 391)"
+\BIBCODE                                  = "2004A&A...415..391M"
+\TELESCOPE                                = "1.2m Euler Swiss telescope"
+\INSTRUMENT                               = "CORALIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2451391.7813          -2275.00                          5.00
+  2451399.8090          -2276.00                          5.00
+  2451400.7909          -2290.00                          4.00
+  2451786.7326          -2241.00                          7.00
+  2452099.8637          -2301.00                          6.00
+  2452142.8090          -2300.00                          4.00
+  2452173.7605          -2302.00                          4.00
+  2452186.6532          -2313.00                          4.00
+  2452224.5946          -2311.00                          4.00
+  2452437.8963          -2298.00                          6.00
+  2452438.9534          -2306.00                          6.00
+  2452439.8363          -2288.00                          6.00
+  2452443.9049          -2310.00                          6.00
+  2452446.8994          -2296.00                          6.00
+  2452448.8971          -2308.00                          7.00
+  2452453.9209          -2283.00                          5.00
+  2452590.6170          -2286.00                          4.00
+  2452592.5623          -2303.00                          6.00
+  2452596.5608          -2291.00                          6.00
+  2452609.5594          -2289.00                          6.00
+  2452796.8976          -2263.00                          5.00

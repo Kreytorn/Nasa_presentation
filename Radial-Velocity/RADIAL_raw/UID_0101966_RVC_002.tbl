@@ -1,0 +1,31 @@
+\STAR_ID                                  = "HD 196885"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "9"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2445150.629000"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2450663.490000"
+\MINIMUM_VALUE                            = "-34460.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-30230.00"
+\REFERENCE                                = "Correia et al. 2008 (A&A, 479, 271)"
+\BIBCODE                                  = "2008A&A...479..271C"
+\TELESCOPE                                = "1.0m"
+\INSTRUMENT                               = "CORAVEL"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Not Given"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|             JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2445150.629000         -34460.00                        390.00
+  2445258.356000         -34070.00                        350.00
+  2445527.557000         -34430.00                        360.00
+  2447039.387000         -31890.00                        330.00
+  2447381.526000         -31910.00                        340.00
+  2448920.259000         -30850.00                        410.00
+  2450308.461000         -30370.00                        380.00
+  2450659.505000         -30230.00                        390.00
+  2450663.490000         -30440.00                        390.00

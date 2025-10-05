@@ -1,0 +1,44 @@
+\STAR_ID                                  = "HD 81040"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "23"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2452308.63310"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453518.35250"
+\MINIMUM_VALUE                            = "49100.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "49462.00"
+\REFERENCE                                = "Sozzetti et al. 2006 (A&A, 449, 417)"
+\BIBCODE                                  = "2006A&A...449..417S"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "ELODIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2452308.63310          49399.00                         12.00
+  2452356.41490          49412.00                         21.00
+  2452359.45970          49363.00                         12.00
+  2452360.42310          49391.00                         11.00
+  2452615.71400          49119.00                         11.00
+  2452649.66360          49126.00                         11.00
+  2452649.67630          49129.00                         13.00
+  2452719.40970          49100.00                          8.00
+  2452722.49520          49118.00                         12.00
+  2452993.63610          49204.00                         12.00
+  2453034.56760          49293.00                         15.00
+  2453094.36570          49308.00                         10.00
+  2453101.39950          49285.00                         10.00
+  2453359.69070          49389.00                         16.00
+  2453361.66000          49412.00                         21.00
+  2453421.52680          49459.00                         19.00
+  2453428.48940          49462.00                         26.00
+  2453461.36050          49414.00                         16.00
+  2453463.41260          49458.00                         20.00
+  2453464.39850          49408.00                         11.00
+  2453486.35380          49359.00                         11.00
+  2453491.32410          49348.00                         10.00
+  2453518.35250          49234.00                         13.00

@@ -1,0 +1,33 @@
+\STAR_ID                            = "HATS-P-30"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "11"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455338.771420"
+\MAXIMUM_DATE                       = "2455340.796040"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-63.42"
+\MAXIMUM_VALUE                      = "68.96"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Johnson et al. 2011 (arXiv, 1103, 3825)"
+\BIBCODE                            = "2011ApJ...735...24J"
+\TELESCOPE                          = "Subaru"
+\INSTRUMENT                         = "HSD"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Gas Cell Absorption (Iodine)"
+\OBSERVATORY_SITE                   = "Mauna Kea, Hawaii"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455338.771420            -63.42                         15.02
+  2455338.773610            -41.42                         13.48
+  2455338.776470            -61.91                         10.11
+  2455338.780030            -43.23                         10.80
+  2455339.732040            -28.01                         15.95
+  2455339.737570            -24.22                         10.72
+  2455339.743900             -8.72                         11.41
+  2455339.750240            -22.31                         10.37
+  2455340.781730             68.96                          8.10
+  2455340.788300             64.70                          9.16
+  2455340.796040             53.51                         12.62

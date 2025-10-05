@@ -1,0 +1,26 @@
+\STAR_ID                                  = "XO-1"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "4"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2453770.947"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453775.936"
+\MINIMUM_VALUE                            = "-107"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "122"
+\REFERENCE                                = "McCullough et al. 2006 (ApJ, 648, 1228)"
+\BIBCODE                                  = "2006ApJ...648.1228M"
+\TELESCOPE                                = "2.7m Harlan J. Smith (HJS) telescope"
+\INSTRUMENT                               = "2d coude spectrograph (2dCS)"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "McDonald Observatory, Texas"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|      double |          double |                      double |
+|        days |             m/s |                         m/s |
+  2453770.947               -99                            63
+  2453771.945                93                            70
+  2453773.924              -107                            63
+  2453775.936               122                            64

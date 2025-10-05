@@ -1,0 +1,45 @@
+\STAR_ID                                  = "OGLE-TR-182"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "24"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2453791.7441"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454209.6534"
+\MINIMUM_VALUE                            = "22161.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "22504.00"
+\REFERENCE                                = "Pont et al. 2008 (A&A, 487, 749)"
+\BIBCODE                                  = "2008A&A...487..749P"
+\TELESCOPE                                = "8.2m Keuyen (UT2)"
+\INSTRUMENT                               = "FLAMES+UVES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "ESO VLT, Paranal Observatory, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2453791.7441          22433.00                         56.00
+  2453793.6623          22297.00                        118.00
+  2453793.7635          22209.00                         67.00
+  2453794.7132          22325.00                         56.00
+  2453794.8735          22293.00                         58.00
+  2453853.5400          22161.00                         62.00
+  2453853.5753          22238.00                         57.00
+  2453854.4999          22374.00                         56.00
+  2453856.6192          22500.00                         60.00
+  2453858.6166          22430.00                         57.00
+  2453859.7276          22488.00                         70.00
+  2454143.7804          22191.00                         62.00
+  2454144.7438          22325.00                         61.00
+  2454144.7730          22256.00                         57.00
+  2454145.7741          22504.00                         82.00
+  2454148.6511          22330.00                         60.00
+  2454149.7774          22454.00                         64.00
+  2454150.7396          22452.00                         57.00
+  2454203.5920          22368.00                         46.00
+  2454204.5496          22259.00                         70.00
+  2454205.5464          22407.00                         70.00
+  2454207.6555          22229.00                         43.00
+  2454208.5372          22260.00                         50.00
+  2454209.6534          22457.00                         54.00

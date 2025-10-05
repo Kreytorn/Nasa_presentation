@@ -1,0 +1,32 @@
+\STAR_ID                                  = "WASP-14"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "11"
+\TIME_REFERENCE_FRAME                     = "HJD"
+\MINIMUM_DATE                             = "2454885.65165"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454915.57681"
+\MINIMUM_VALUE                            = "-5844.20"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-4045.10"
+\REFERENCE                                = "Husnoo et al. 2010 (arXiv, 1004, 1809)"
+\BIBCODE                                  = "2010arXiv1004.1809H"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           HJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2454885.65165          -5584.70                         10.70
+  2454886.57106          -4767.80                         11.10
+  2454886.68397          -4445.30                         10.60
+  2454888.61655          -5391.00                         10.40
+  2454888.68715          -5166.00                         10.70
+  2454889.65818          -4491.40                         10.70
+  2454890.66568          -5844.20                         10.60
+  2454911.59331          -4045.10                         11.60
+  2454912.55658          -5523.80                         11.40
+  2454913.57244          -4527.10                          6.10
+  2454915.57681          -5232.50                         12.20

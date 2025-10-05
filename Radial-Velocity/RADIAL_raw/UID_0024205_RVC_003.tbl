@@ -1,0 +1,34 @@
+\STAR_ID                                  = "HD 33636"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "12"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2450831.735671"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2452162.004016"
+\MINIMUM_VALUE                            = "-64."
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "184."
+\REFERENCE                                = "Butler et al. 2006 (ApJ, 646, 505)"
+\BIBCODE                                  = "2006ApJ...646..505B"
+\TELESCOPE                                = "3.0m Shane and 0.6m CAT"
+\INSTRUMENT                               = "Hamilton echelle spectograph"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Lick Observatory, California"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|             JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2450831.735671              -64.                           29.
+  2451154.792454              184.                           11.
+  2451447.032303              133.                           10.
+  2451607.685218               44.                           13.
+  2451628.628935               55.                           12.
+  2451859.944699             -33.1                           9.3
+  2451860.906771              -33.                           10.
+  2451913.781828             -52.8                           6.1
+  2451914.844259             -54.2                           7.7
+  2451915.801100             -48.4                           8.1
+  2451945.717841             -49.8                           5.5
+  2452162.004016             -49.4                           8.3

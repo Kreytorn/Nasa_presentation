@@ -1,0 +1,52 @@
+\STAR_ID                                  = "TrES-4"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "31"
+\TIME_REFERENCE_FRAME                     = "HJD"
+\MINIMUM_DATE                             = "2454294.7715"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454616.8309"
+\MINIMUM_VALUE                            = "-77.1"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "44.1"
+\REFERENCE                                = "Narita et al. 2010 (arXiv, 1003, 2268)"
+\BIBCODE                                  = "2010arXiv1003.2268N"
+\TELESCOPE                                = "8.2m Subaru"
+\INSTRUMENT                               = "HDS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          HJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454294.7715              -5.1                          18.6
+  2454294.7901             -12.7                          16.2
+  2454294.7991              -7.3                          16.7
+  2454294.8081               4.5                          15.8
+  2454294.8171              44.1                          16.3
+  2454294.8261              22.5                          17.8
+  2454294.8351              20.7                          15.4
+  2454294.8441              26.8                          16.1
+  2454294.8531              -0.2                          16.6
+  2454294.8621             -10.2                          13.7
+  2454294.8711             -20.9                          14.6
+  2454294.8801             -39.3                          13.8
+  2454294.8891             -52.5                          12.8
+  2454294.8981             -51.6                          14.5
+  2454294.9071             -45.5                          15.2
+  2454294.9161             -77.1                          14.6
+  2454294.9252             -70.0                          12.2
+  2454294.9342             -43.9                          13.0
+  2454294.9432             -41.3                          11.9
+  2454294.9522             -16.5                          14.0
+  2454295.0289             -31.6                          14.2
+  2454295.0379             -36.5                          13.1
+  2454295.0559             -33.5                          13.6
+  2454317.7434             -38.4                          15.8
+  2454317.9553              12.6                          19.6
+  2454535.1010             -10.9                          19.3
+  2454535.1225             -28.2                          17.3
+  2454535.1440             -18.4                          18.0
+  2454616.8015               3.0                          18.8
+  2454616.8162             -24.2                          19.6
+  2454616.8309             -16.4                          20.3

@@ -1,0 +1,35 @@
+\STAR_ID                                  = "HAT-P-16"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "14"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2455107.58955"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2455126.47958"
+\MINIMUM_VALUE                            = "-989.4"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "1008.8"
+\REFERENCE                                = "Buchhave et al. 2010 (arXiv, 1005, 2009)"
+\BIBCODE                                  = "2010arXiv1005.2009B"
+\TELESCOPE                                = "2.5m Nordic Optical Telescope (NOT)"
+\INSTRUMENT                               = "FIES (medium resolution)"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "La Palma, Spain"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2455107.58955               0.7                           5.2
+  2455108.62791            -965.2                           5.3
+  2455109.56094            -310.4                           7.0
+  2455110.54715            -128.9                           7.5
+  2455111.56509            -989.4                           4.1
+  2455112.60304             -53.7                           5.5
+  2455113.50725            -294.7                           4.7
+  2455114.53303            -924.1                           4.5
+  2455116.52227            -558.0                           5.3
+  2455122.51752            -941.1                           7.5
+  2455123.46870            -262.4                           4.7
+  2455124.48749            -161.9                           7.9
+  2455125.44928            1008.8                           5.9
+  2455126.47958             -29.8                           5.2

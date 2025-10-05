@@ -1,0 +1,46 @@
+\STAR_ID                                  = "HD 17156"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "25"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454417.11678"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454423.13311"
+\MINIMUM_VALUE                            = "-140.28"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "119.28"
+\REFERENCE                                = "Narita et al. 2008 (PASJ, 60L, 1)"
+\BIBCODE                                  = "2008PASJ...60L...1N"
+\TELESCOPE                                = "1.88m"
+\INSTRUMENT                               = "HIDES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Okayama Astrophysical Observatory (OAO), Japan"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2454417.11678             94.98                         25.53
+  2454417.13164            108.60                         16.24
+  2454417.14398            119.28                         16.71
+  2454417.16256             78.87                         19.01
+  2454417.17275             99.93                         15.94
+  2454417.18389             75.77                         16.24
+  2454417.19495             90.34                         16.74
+  2454417.20621             64.90                         16.37
+  2454417.21594             59.26                         15.77
+  2454417.22968             84.55                         21.55
+  2454417.23773             45.40                         19.12
+  2454417.25048             54.91                         14.57
+  2454417.26162             39.53                         16.10
+  2454417.27249              6.80                         13.14
+  2454417.28340             18.77                         13.29
+  2454417.29502             21.32                         19.48
+  2454417.30549              5.71                         15.86
+  2454417.31692             -6.74                         14.82
+  2454417.32796             33.70                         14.45
+  2454417.33911             28.36                         15.27
+  2454417.34993              5.32                         16.25
+  2454419.08778           -140.28                         10.18
+  2454421.92713             36.65                         10.99
+  2454422.17592             66.31                         18.30
+  2454423.13311             88.78                         12.96

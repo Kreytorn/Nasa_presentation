@@ -1,0 +1,37 @@
+\STAR_ID                            = "HAT-P-21"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "15"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2454954.923070"
+\MAXIMUM_DATE                       = "2455229.123220"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-469.62"
+\MAXIMUM_VALUE                      = "509.76"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Bakos et al. 2010 (arXiv, 1008, 3388)"
+\BIBCODE                            = "2011ApJ...742..116B"
+\TELESCOPE                          = "10m Keck"
+\INSTRUMENT                         = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Gas Cell Absorption (Iodine)"
+\OBSERVATORY_SITE                   = "Manua Kea, Hawaii"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2454954.923070            221.51                          2.88
+  2454955.865320           -274.01                          2.48
+  2454955.988490           -314.29                          2.76
+  2454957.000060           -378.18                          3.00
+  2454963.955730           -197.70                          2.68
+  2454983.856380            212.70                          2.72
+  2454985.879880           -406.23                          2.46
+  2454986.856450            509.76                          3.01
+  2454987.864800            270.66                          2.92
+  2455174.145890           -145.85                          3.13
+  2455191.141190           -391.67                          2.75
+  2455192.123020           -457.57                          2.67
+  2455193.110010            496.07                          2.58
+  2455197.150570            459.61                          2.59
+  2455229.123220           -469.62                          2.81

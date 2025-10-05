@@ -1,0 +1,55 @@
+\STAR_ID                            = "Pr 201"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "33"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455932.841253"
+\MAXIMUM_DATE                       = "2456033.638578"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-90.5"
+\MAXIMUM_VALUE                      = "139.4"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Quinn et al. 2012 (2012, ApJ, 756L, 33)"
+\BIBCODE                            = "2012ApJ...756L..33Q"
+\TELESCOPE                          = "1.5m FLWO"
+\INSTRUMENT                         = "TRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "Fred L. Whipple Observatory, Mt. Hopkins, Arizona"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455932.841253            -34.70                         18.60
+  2455933.821938             67.30                         23.90
+  2455934.857994             48.00                         21.80
+  2455939.945964            -42.60                         20.20
+  2455941.020182            -49.50                         27.00
+  2455957.905296             -8.20                         21.40
+  2455958.785164            -29.30                         20.10
+  2455959.818953              0.00                         12.00
+  2455960.759119             30.10                         17.00
+  2455970.971372            -18.70                         24.60
+  2455971.796286            -51.70                         42.50
+  2455972.970059             13.50                         29.80
+  2455981.771272              8.60                         23.50
+  2455982.697156             87.50                         15.90
+  2455984.894042            -90.50                         18.90
+  2455986.805010             27.00                         19.60
+  2455987.644768            102.10                         19.60
+  2455994.824805             19.00                         20.20
+  2455996.733645            139.40                         18.70
+  2455997.744411            -66.60                         17.70
+  2455998.649923            -63.60                         29.60
+  2456021.701500             -7.30                         22.90
+  2456022.646374             81.90                         17.30
+  2456023.637192             49.50                         16.10
+  2456024.646740             -6.30                         14.00
+  2456025.693014             -4.10                         16.40
+  2456026.718364             47.80                         30.40
+  2456028.683648              7.10                         18.30
+  2456029.690867             13.70                         18.40
+  2456030.724779             89.90                         23.60
+  2456031.705049             85.20                         20.70
+  2456032.735355             48.40                         24.80
+  2456033.638578            -18.20                         12.00

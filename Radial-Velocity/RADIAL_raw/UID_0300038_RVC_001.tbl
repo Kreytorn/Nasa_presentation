@@ -1,0 +1,38 @@
+\STAR_ID                                  = "XO-2"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "16"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2454127.6626"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454168.7572"
+\MINIMUM_VALUE                            = "-78.5"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "99.5"
+\REFERENCE                                = "Burke et al. 2007 (ApJ, 671, 2115)"
+\BIBCODE                                  = "2007ApJ...671.2115B"
+\TELESCOPE                                = "9.2m Hobby Eberly Telescope (HET)"
+\INSTRUMENT                               = "HRS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "McDonald Observatory, Texas"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454127.6626             -60.6                            22
+  2454128.6459              99.5                            18
+  2454133.6383             -21.6                            18
+  2454134.6257              -1.5                            15
+  2454134.8318             -34.0                            15
+  2454135.8366             -57.8                            19
+  2454135.8481             -32.4                            20
+  2454136.6494              71.0                            19
+  2454136.8477              64.6                            20
+  2454136.8599              -7.6                            17
+  2454158.7782             -78.5                            19
+  2454158.7932              30.6                            17
+  2454159.7882              73.6                            20
+  2454160.5891              27.3                            23
+  2454160.7715              37.0                            26
+  2454168.7572              16.7                            17

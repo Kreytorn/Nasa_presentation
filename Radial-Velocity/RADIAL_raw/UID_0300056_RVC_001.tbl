@@ -1,0 +1,28 @@
+\STAR_ID                                  = "WASP-3"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "7"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454286.5225"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454343.4825"
+\MINIMUM_VALUE                            = "-5751.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-5254.00"
+\REFERENCE                                = "Pollacco et al. 2008 (MNRAS, 385, 1576)"
+\BIBCODE                                  = "2008MNRAS.385.1576P"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454286.5225          -5751.00                         18.00
+  2454287.4563          -5254.00                         20.00
+  2454289.3662          -5259.00                         18.00
+  2454340.3251          -5648.00                         13.00
+  2454341.3989          -5406.00                         15.00
+  2454342.3198          -5544.00                         19.00
+  2454343.4825          -5638.00                         13.00

@@ -1,0 +1,32 @@
+\STAR_ID                                  = "TrES-2"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "11"
+\TIME_REFERENCE_FRAME                     = "HJD"
+\MINIMUM_DATE                             = "2453949.76054"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453952.02736"
+\MINIMUM_VALUE                            = "-204.8"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "145.6"
+\REFERENCE                                = "O'Donovan et al. 2006 (ApJ, 651, L61)"
+\BIBCODE                                  = "2006ApJ...651L..61O"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           HJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453949.76054             135.5                           6.1
+  2453949.91993              96.8                           6.1
+  2453950.00216              58.9                           7.7
+  2453950.79018            -201.0                           8.1
+  2453950.93491            -204.8                           9.0
+  2453950.98051            -201.7                           9.0
+  2453951.02136            -198.5                           7.2
+  2453951.75032              91.7                           6.0
+  2453951.84863             136.7                           7.0
+  2453951.95209             140.5                           7.1
+  2453952.02736             145.6                           8.4

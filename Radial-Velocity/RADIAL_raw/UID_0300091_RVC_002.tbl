@@ -1,0 +1,24 @@
+\STAR_ID                                  = "WASP-17"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "3"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454564.8195"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454567.8516"
+\MINIMUM_VALUE                            = "-49536.80"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-49435.60"
+\REFERENCE                                = "Anderson et al. 2010 (ApJ, 709, 159)"
+\BIBCODE                                  = "2010ApJ...709..159A"
+\TELESCOPE                                = "3.6m"
+\INSTRUMENT                               = "HARPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454564.8195         -49488.40                         10.80
+  2454565.8731         -49435.60                          9.20
+  2454567.8516         -49536.80                         10.50

@@ -1,0 +1,24 @@
+\STAR_ID                            = "CoRoT-19"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "2"
+\TIME_REFERENCE_FRAME               = "HJD-UTC"
+\MINIMUM_DATE                       = "2455585.763800"
+\MAXIMUM_DATE                       = "2455587.732100"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-107.0"
+\MAXIMUM_VALUE                      = "114.0"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Guenther et al. 2012 (2012, A&A, 537A, 136)"
+\BIBCODE                            = "2012A&A...537A.136G"
+\TELESCOPE                          = "2.1m McDonald"
+\INSTRUMENT                         = "Sandiford"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Gas Cell Absorption (Iodine)"
+\OBSERVATORY_SITE                   = "McDonald Observatory, Texas"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455585.763800           -107.00                         75.00
+  2455587.732100            114.00                         68.00

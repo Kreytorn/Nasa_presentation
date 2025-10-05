@@ -1,0 +1,41 @@
+\STAR_ID                            = "WASP-67"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "19"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455765.729600"
+\MAXIMUM_DATE                       = "2455851.505000"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-626.0"
+\MAXIMUM_VALUE                      = "-495.0"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Hellier et al. 2012 (2012, MNRAS, 426, 739)"
+\BIBCODE                            = "2012MNRAS.426..739H"
+\TELESCOPE                          = "1.2m Euler/ESO"
+\INSTRUMENT                         = "CORALIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "ESO La Silla, Chile"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455765.729600           -610.00                         13.00
+  2455767.702700           -507.00                         15.00
+  2455768.673600           -544.00                         11.00
+  2455769.685000           -613.00                         11.00
+  2455770.711900           -610.00                         13.00
+  2455777.799600           -511.00                         14.00
+  2455793.532400           -605.00                         17.00
+  2455794.528500           -548.00                         17.00
+  2455795.524700           -528.00                         14.00
+  2455798.505800           -586.00                         26.00
+  2455803.514500           -567.00                         18.00
+  2455804.542500           -495.00                         13.00
+  2455805.486700           -532.00                         12.00
+  2455806.621000           -600.00                         15.00
+  2455807.681500           -607.00                         14.00
+  2455819.530500           -540.00                         10.00
+  2455820.579000           -626.00                         10.00
+  2455826.501500           -570.00                         14.00
+  2455851.505000           -548.00                         13.00

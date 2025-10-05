@@ -1,0 +1,33 @@
+\STAR_ID                            = "Kepler-40"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "11"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455392.508500"
+\MAXIMUM_DATE                       = "2455453.418400"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "6320.0"
+\MAXIMUM_VALUE                      = "6850.0"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Santerne et al. 2011 (arXiv, 1101, 0196)"
+\BIBCODE                            = "2011A&A...528A..63S"
+\TELESCOPE                          = "1.93m OHP"
+\INSTRUMENT                         = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "Observatoire de Haute Provence, France"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455392.508500           6320.00                         36.00
+  2455395.518800           6755.00                         69.00
+  2455396.442200           6627.00                         29.00
+  2455398.503400           6411.00                         27.00
+  2455400.538900           6549.00                        138.00
+  2455401.493200           6850.00                        166.00
+  2455425.487200           6489.00                         49.00
+  2455431.348900           6695.00                         86.00
+  2455441.326100           6582.00                         84.00
+  2455442.443500           6634.00                         34.00
+  2455453.418400           6417.00                         53.00

@@ -1,0 +1,38 @@
+\STAR_ID                                  = "HD 132406"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "17"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2453152.4773"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453900.4376"
+\MINIMUM_VALUE                            = "-37928.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-37727.00"
+\REFERENCE                                = "da Silva et al. 2007 (A&A, 473, 323)"
+\BIBCODE                                  = "2007A&A...473..323D"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "ELODIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2453152.4773         -37821.00                         10.00
+  2453154.4825         -37837.00                          8.00
+  2453218.3605         -37858.00                         10.00
+  2453520.4238         -37928.00                         13.00
+  2453536.4140         -37875.00                         10.00
+  2453576.3681         -37859.00                         12.00
+  2453596.3805         -37818.00                         14.00
+  2453807.6666         -37727.00                         25.00
+  2453808.6537         -37755.00                         11.00
+  2453809.6643         -37742.00                         11.00
+  2453869.5117         -37779.00                         11.00
+  2453870.4406         -37771.00                          7.00
+  2453873.4386         -37768.00                          9.00
+  2453895.4251         -37757.00                          9.00
+  2453896.4387         -37745.00                         12.00
+  2453899.4286         -37743.00                         19.00
+  2453900.4376         -37770.00                         13.00

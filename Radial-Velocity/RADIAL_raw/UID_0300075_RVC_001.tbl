@@ -1,0 +1,34 @@
+\STAR_ID                                  = "CoRoT-4"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "13"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454423.8430"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454486.6509"
+\MINIMUM_VALUE                            = "32234.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "32381.00"
+\REFERENCE                                = "Moutou et al. 2008 (A&AL, 488, 47)"
+\BIBCODE                                  = "2008A&A...488L..47M"
+\TELESCOPE                                = "3.6m"
+\INSTRUMENT                               = "HARPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454423.8430          32352.00                         22.00
+  2454424.8273          32344.00                         19.00
+  2454428.8091          32234.00                         14.00
+  2454442.7618          32381.00                         12.00
+  2454443.7161          32361.00                         21.00
+  2454445.7748          32270.00                         12.00
+  2454447.7813          32239.00                         13.00
+  2454448.7990          32268.00                         14.00
+  2454449.7871          32272.00                         17.00
+  2454450.7729          32373.00                         13.00
+  2454481.6668          32287.00                         16.00
+  2454482.6719          32287.00                         15.00
+  2454486.6509          32290.00                         15.00

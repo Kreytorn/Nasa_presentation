@@ -1,0 +1,46 @@
+\STAR_ID                            = "24 Sextanis"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "24"
+\TIME_REFERENCE_FRAME               = "JD-UTC"
+\MINIMUM_DATE                       = "2454806.150000"
+\MAXIMUM_DATE                       = "2455312.791000"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-40.47"
+\MAXIMUM_VALUE                      = "69.74"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Johnson et al. 2010 (arXiv, 1007, 4552)"
+\BIBCODE                            = "2011AJ....141...16J"
+\TELESCOPE                          = "10m Keck"
+\INSTRUMENT                         = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Gas Cell Absorption (Iodine)"
+\OBSERVATORY_SITE                   = "Manua Kea, Hawaii"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2454806.150000            -22.03                          1.98
+  2454807.075000            -18.78                          1.83
+  2454808.057000            -13.83                          1.96
+  2454809.069000            -21.81                          1.88
+  2454810.149000            -15.43                          1.88
+  2454811.122000            -12.80                          1.65
+  2454847.038000              3.99                          1.80
+  2454929.814000             59.40                          1.63
+  2454955.878000             69.74                          1.60
+  2454963.915000             68.12                          1.49
+  2454983.770000             64.81                          1.59
+  2454984.827000             48.72                          1.53
+  2454987.759000             63.15                          1.54
+  2454988.750000             63.85                          1.60
+  2455014.741000             57.09                          1.72
+  2455015.750000             61.18                          1.58
+  2455164.112000            -21.86                          1.83
+  2455172.150000            -26.29                          2.05
+  2455173.097000            -31.15                          1.93
+  2455189.119000            -40.47                          1.85
+  2455260.941000            -26.13                          1.65
+  2455285.854000            -12.17                          1.75
+  2455311.810000             -5.48                          1.43
+  2455312.791000              2.81                          1.56

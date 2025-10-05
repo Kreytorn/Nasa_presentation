@@ -1,0 +1,28 @@
+\STAR_ID                            = "HATS-1"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "6"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455701.469660"
+\MAXIMUM_DATE                       = "2455702.490460"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "53.78"
+\MAXIMUM_VALUE                      = "229.78"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Penev et al. 2013 (2013, AJ, 145, 5)"
+\BIBCODE                            = "2013AJ....145....5P"
+\TELESCOPE                          = "1.2m Euler/ESO"
+\INSTRUMENT                         = "CORALIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "ESO La Silla, Chile"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455701.469660             64.78                         24.00
+  2455701.492180             53.78                         25.00
+  2455701.673970            132.78                         28.00
+  2455701.698580            132.78                         29.00
+  2455702.466760            229.78                         23.00
+  2455702.490460            209.78                         23.00

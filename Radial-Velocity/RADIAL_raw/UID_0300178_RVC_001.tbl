@@ -1,0 +1,29 @@
+\STAR_ID                            = "Kepler-44"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "7"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455801.389000"
+\MAXIMUM_DATE                       = "2455814.485200"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-36006.0"
+\MAXIMUM_VALUE                      = "-35760.0"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Bonomo et al. 2011 (arXiv, 1110, 5462)"
+\BIBCODE                            = "2012A&A...538A..96B"
+\TELESCOPE                          = "1.93m OHP"
+\INSTRUMENT                         = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "Observatoire de Haute Provence, France"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455801.389000         -35989.00                         36.00
+  2455802.487200         -35881.00                         16.00
+  2455804.526600         -36006.00                         19.00
+  2455806.438300         -35760.00                         23.00
+  2455809.453300         -35785.00                         21.00
+  2455810.315300         -35834.00                         46.00
+  2455814.485200         -36002.00                         30.00

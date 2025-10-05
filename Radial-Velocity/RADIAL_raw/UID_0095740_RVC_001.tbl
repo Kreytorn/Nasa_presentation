@@ -1,0 +1,56 @@
+\STAR_ID                                  = "HD 183263"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "34"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2452094.891736"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453693.685428"
+\MINIMUM_VALUE                            = "-98.5"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "89.6"
+\REFERENCE                                = "Butler et al. 2006 (ApJ, 646, 505)"
+\BIBCODE                                  = "2006ApJ...646..505B"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|             JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2452094.891736             -35.1                           3.4
+  2452098.018588             -30.7                           2.9
+  2452099.041632             -27.6                           3.3
+  2452100.981053             -30.4                           3.4
+  2452127.876447              14.9                           3.1
+  2452160.809572              72.4                           3.4
+  2452363.131829              85.1                           3.1
+  2452364.140475              89.6                           2.8
+  2452390.120787              73.9                           3.0
+  2452445.963669              59.1                           3.6
+  2452486.801968              31.7                           3.1
+  2452535.758565              12.2                           3.2
+  2452572.697998             -17.8                           3.3
+  2452574.713542             -17.1                           3.3
+  2452600.688704             -33.0                           3.0
+  2452713.135127             -98.5                           3.0
+  2452778.085984              -2.5                           3.2
+  2452804.114282              30.1                           3.2
+  2452832.826586              47.6                           3.0
+  2452848.907407              47.7                           4.2
+  2452855.981366              56.3                           3.9
+  2452897.738808              68.1                           3.6
+  2452924.737199              46.3                           2.9
+  2452987.696470              33.3                           5.0
+  2452988.701759              35.0                           2.5
+  2452989.700324              34.4                           2.9
+  2453072.155116               0.4                           2.9
+  2453074.150000               3.7                           2.9
+  2453077.137512               4.0                           3.4
+  2453153.954340             -41.0                           3.1
+  2453179.856991             -53.3                           3.1
+  2453195.864954             -58.9                           3.0
+  2453546.954722              33.0                           3.0
+  2453693.685428              -5.8                           3.0

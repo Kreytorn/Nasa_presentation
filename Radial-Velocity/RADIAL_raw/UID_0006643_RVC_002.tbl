@@ -1,0 +1,38 @@
+\STAR_ID                                  = "HD 8574"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "16"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2451026.942917"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2452160.899560"
+\MINIMUM_VALUE                            = "-67."
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "104."
+\REFERENCE                                = "Butler et al. 2006 (ApJ, 646, 505)"
+\BIBCODE                                  = "2006ApJ...646..505B"
+\TELESCOPE                                = "3.0m Shane and 0.6m CAT"
+\INSTRUMENT                               = "Hamilton echelle spectrograph"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Lick Observatory, California"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|             JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2451026.942917               25.                           16.
+  2451069.904097              -28.                           19.
+  2451130.826198              -39.                           16.
+  2451131.778727              -23.                           17.
+  2451154.645752              -34.                           14.
+  2451174.698333              -67.                           22.
+  2451175.727975               -3.                           18.
+  2451206.654873               26.                           15.
+  2451213.638067                1.                           16.
+  2451445.944502               11.                           11.
+  2451533.671516              -33.                           11.
+  2451535.684537              -18.                           11.
+  2451775.969618              -14.                           12.
+  2452157.888148              104.                           11.
+  2452159.890000              100.                           11.
+  2452160.899560               95.                           11.

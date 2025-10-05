@@ -1,0 +1,38 @@
+\STAR_ID                            = "Kepler-12"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "16"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455014.912340"
+\MAXIMUM_DATE                       = "2455761.824900"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-69.3"
+\MAXIMUM_VALUE                      = "68.3"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Fortney et al. 2011 (ApJS, 197, 9)"
+\BIBCODE                            = "2011ApJS..197....9F"
+\TELESCOPE                          = "10m Keck"
+\INSTRUMENT                         = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Gas Cell Absorption (Iodine)"
+\OBSERVATORY_SITE                   = "Manua Kea, Hawaii"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455014.912340            -12.50                         19.30
+  2455016.791040             45.90                         19.30
+  2455017.105680              5.00                         19.10
+  2455019.111550             36.70                         19.40
+  2455027.056310            -57.90                         19.40
+  2455041.998550             -5.10                         19.70
+  2455042.794490             44.00                         19.60
+  2455073.831650             50.00                         19.10
+  2455075.830910            -49.80                         19.00
+  2455080.875640            -69.30                         19.00
+  2455084.862540            -41.40                         18.90
+  2455134.826060              1.70                         19.20
+  2455437.780120             68.30                          6.10
+  2455439.753820            -29.60                          6.00
+  2455759.866170            -36.60                          6.00
+  2455761.824900             48.50                          6.40

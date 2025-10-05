@@ -1,0 +1,46 @@
+\STAR_ID                                  = "HD 205739"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "24"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2453189.8080"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454398.5065"
+\MINIMUM_VALUE                            = "-77.0"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "71.4"
+\REFERENCE                                = "Lopez-Morales et al. 2008 (AJ, 136, 1901)"
+\BIBCODE                                  = "2008AJ....136.1901L"
+\TELESCOPE                                = "6.5m Magellan II (Clay)"
+\INSTRUMENT                               = "MIKE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Las Campanas Observatory, Chile"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2453189.8080             -33.3                           4.0
+  2453190.8643             -27.7                           4.4
+  2453191.8243             -31.7                           4.0
+  2453254.6094             -77.0                           3.6
+  2453550.8993             -39.0                           4.3
+  2453551.8692             -57.0                           3.9
+  2453655.6332             -27.5                           3.2
+  2453657.5999             -10.4                           3.6
+  2453658.6117             -11.9                           3.4
+  2453685.5468              23.8                           3.3
+  2453872.8832             -46.8                           3.5
+  2453982.7455              38.4                           4.0
+  2453988.7200              38.7                           3.9
+  2454013.6776              23.1                           3.6
+  2454066.5152             -13.4                           3.7
+  2454067.5231              -2.7                           3.6
+  2454216.9394              19.3                           4.0
+  2454277.8176              71.4                           5.6
+  2454299.8091              55.8                           3.9
+  2454300.7959              37.7                           3.6
+  2454338.7675              18.7                           4.6
+  2454339.7078              30.7                           4.4
+  2454397.5266              -2.0                           4.7
+  2454398.5065              -2.2                           3.3

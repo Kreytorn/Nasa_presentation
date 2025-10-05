@@ -1,0 +1,39 @@
+\STAR_ID                                  = "HD 129445"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "17"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2452864.5311"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2455017.6200"
+\MINIMUM_VALUE                            = "-40.3"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "44.2"
+\REFERENCE                                = "Arriagada et al. 2010 (ApJ, 711, 1229)"
+\BIBCODE                                  = "2010ApJ...711.1229A"
+\TELESCOPE                                = "6.5m Magellan II (Clay)"
+\INSTRUMENT                               = "MIKE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Las Campanas Observatory, Chile"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2452864.5311              26.1                           8.2
+  2453042.8730             -15.2                           8.7
+  2453127.8240             -35.8                           4.2
+  2453480.8541              15.7                           5.7
+  2453574.5786              22.5                           4.8
+  2453575.5511              29.4                           4.4
+  2453872.6777              43.7                           4.2
+  2454217.7257              33.3                           4.3
+  2454277.5928              37.5                           4.8
+  2454299.7993              31.6                           4.3
+  2454501.8506              44.2                           4.1
+  2454522.8417              32.9                           4.4
+  2454925.8091             -31.9                           3.9
+  2454963.7305             -40.3                           4.2
+  2454993.6537             -10.8                           4.0
+  2455001.6458             -21.4                           4.2
+  2455017.6200             -14.4                           3.9

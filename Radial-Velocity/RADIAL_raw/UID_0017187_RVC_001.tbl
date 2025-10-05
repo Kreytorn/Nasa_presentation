@@ -1,0 +1,54 @@
+\STAR_ID                            = "HD 22781"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "32"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2454079.416900"
+\MAXIMUM_DATE                       = "2455444.643600"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "7990.0"
+\MAXIMUM_VALUE                      = "9297.0"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Diaz et al. 2012 (2012, A&A, 538A, 113)"
+\BIBCODE                            = "2012A&A...538A.113D"
+\TELESCOPE                          = "1.93m OHP"
+\INSTRUMENT                         = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "Observatoire de Haute Provence, France"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2454079.416900           8154.00                          5.00
+  2454080.412500           8162.00                          4.00
+  2454081.384300           8156.00                          4.00
+  2454087.454300           8142.00                          5.00
+  2454097.434200           8134.00                          4.00
+  2454125.359200           8096.00                          5.00
+  2454127.314400           8107.00                          5.00
+  2454133.289900           8085.00                          4.00
+  2454138.355200           8095.00                          4.00
+  2454141.315800           8085.00                          4.00
+  2454148.344600           8083.00                          5.00
+  2454152.359600           8086.00                          6.00
+  2454173.308100           8063.00                          4.00
+  2454344.662000           8297.00                          4.00
+  2454372.642700           8994.00                          5.00
+  2454375.632100           8905.00                          3.00
+  2454376.614400           8899.00                          3.00
+  2454381.495500           8816.00                          5.00
+  2454406.466800           8604.00                          4.00
+  2454407.503800           8571.00                          4.00
+  2454409.572100           8577.00                          4.00
+  2454855.306700           7990.00                          5.00
+  2454873.273100           8363.00                          5.00
+  2454877.271800           8715.00                          5.00
+  2454878.302000           8831.00                          5.00
+  2454890.271100           9297.00                          4.00
+  2454893.324300           9211.00                          5.00
+  2455079.662800           8248.00                          7.00
+  2455088.663800           8239.00                          5.00
+  2455214.393800           8101.00                          5.00
+  2455409.596700           9222.00                          4.00
+  2455444.643600           8752.00                          4.00

@@ -1,0 +1,34 @@
+\STAR_ID                                  = "GJ 777 A"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "13"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2450233.9220"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2452159.8382"
+\MINIMUM_VALUE                            = "-45374.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-45309.00"
+\REFERENCE                                = "Naef et al. 2003 (A&A, 410, 1051)"
+\BIBCODE                                  = "2003A&A...410.1051N"
+\TELESCOPE                                = "1.5m Tillinghast"
+\INSTRUMENT                               = "AFOE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Fred L. Whhipple Observatory (FLWO), Mt. Hopkins, Arizona"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2450233.9220         -45342.00                          5.00
+  2450235.9114         -45320.00                          7.00
+  2450236.8773         -45337.00                          7.00
+  2450262.8718         -45345.00                          6.00
+  2450263.8871         -45340.00                         11.00
+  2450265.9091         -45343.00                         10.00
+  2450294.8766         -45341.00                         15.00
+  2450413.6031         -45316.00                          7.00
+  2450418.5752         -45309.00                          9.00
+  2450762.6222         -45309.00                         14.00
+  2450944.9822         -45347.00                          9.00
+  2451099.7332         -45341.00                          9.00
+  2452159.8382         -45374.00                         18.00

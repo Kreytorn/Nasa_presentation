@@ -1,0 +1,28 @@
+\STAR_ID                            = "Kepler-15"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "6"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455378.649300"
+\MAXIMUM_DATE                       = "2455432.470200"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "0.0"
+\MAXIMUM_VALUE                      = "148.5"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Endl et al. 2011 (2011, ApJS, 197, 13)"
+\BIBCODE                            = "2011ApJS..197...13E"
+\TELESCOPE                          = "2.5m NOT"
+\INSTRUMENT                         = "FIES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "Observatorio del Roque de los Muchachos, La Palma, Spain"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455378.649300            148.50                         19.00
+  2455384.700600             58.00                         20.10
+  2455423.403600            136.40                         26.20
+  2455425.457200              0.00                         19.00
+  2455427.440800            130.90                         20.80
+  2455432.470200            130.70                         24.50

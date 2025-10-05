@@ -1,0 +1,57 @@
+\STAR_ID                                  = "HD 117207"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "35"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2450463.162"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453017.147"
+\MINIMUM_VALUE                            = "-42.9408"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "40.0828"
+\REFERENCE                                = "Marcy et al. 2005 (ApJ, 619, 570)"
+\BIBCODE                                  = "2005ApJ...619..570M"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|      double |          double |                      double |
+|        days |             m/s |                         m/s |
+  2450463.162           19.0318                           3.1
+  2450546.977           5.82358                           2.7
+  2450838.124          -9.81886                           2.7
+  2450954.891          -28.2798                           2.7
+  2450955.851          -29.0574                           2.8
+  2451227.056          -30.6795                           2.9
+  2451311.883          -42.9408                           8.2
+  2451342.817          -32.0488                           2.7
+  2451367.765          -35.0539                           2.3
+  2451371.749          -32.8409                           2.8
+  2451372.752          -33.4615                           2.7
+  2451373.754          -39.5277                           3.0
+  2451582.050          -19.9703                           3.6
+  2451679.882          -22.6980                           2.9
+  2451702.883          -26.0960                           2.7
+  2451972.083          -9.16290                           3.3
+  2451982.117          -9.58160                           2.9
+  2452002.967           0.00000                           3.5
+  2452008.953          -6.13087                           3.3
+  2452062.773          -6.79053                           3.0
+  2452094.758          -6.95602                           3.0
+  2452100.765          -3.43360                           3.3
+  2452128.738          -5.66888                           3.6
+  2452334.092           8.65721                           3.6
+  2452364.010           17.3127                           2.3
+  2452390.947           4.55621                           3.1
+  2452445.785           11.8581                           3.0
+  2452681.156           22.4985                           3.2
+  2452712.025           21.4198                           3.2
+  2452777.876           26.7895                           3.1
+  2452804.778           40.0828                           3.6
+  2452850.740           19.0017                           2.7
+  2453015.162           23.8500                           2.8
+  2453016.158           21.8146                           3.0
+  2453017.147           23.4381                           2.9

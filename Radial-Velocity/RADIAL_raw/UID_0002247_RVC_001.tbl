@@ -1,0 +1,48 @@
+\STAR_ID                                  = "BD -17 0063"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "26"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2452943.610509"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454703.858883"
+\MINIMUM_VALUE                            = "2813.36"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "3147.47"
+\REFERENCE                                = "Moutou et al. 2009 (A&A, 496, 513)"
+\BIBCODE                                  = "2009A&A...496..513M"
+\TELESCOPE                                = "3.6m"
+\INSTRUMENT                               = "HARPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|             JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2452943.610509           3035.85                          2.58
+  2453295.753206           3048.76                          1.74
+  2453945.903440           3076.11                          1.11
+  2453946.823277           3067.12                          1.41
+  2453951.864680           3040.30                          2.52
+  2453979.874025           2885.51                          1.94
+  2454082.599768           2900.11                          1.74
+  2454084.574580           2907.35                          1.92
+  2454346.836046           3078.82                          1.07
+  2454349.792760           3076.41                          1.32
+  2454427.598625           3122.06                          1.49
+  2454430.603057           3125.02                          1.40
+  2454437.605063           3128.20                          1.37
+  2454446.614295           3134.80                          1.64
+  2454478.592373           3147.47                          1.55
+  2454486.529176           3144.68                          1.74
+  2454609.910593           3035.12                          1.55
+  2454637.911547           2857.40                          1.36
+  2454641.924906           2853.39                          1.15
+  2454646.887252           2835.17                          1.30
+  2454657.823636           2822.95                          1.01
+  2454670.790307           2813.36                          1.39
+  2454672.838582           2817.70                          1.83
+  2454698.807055           2846.64                          1.49
+  2454701.823517           2852.11                          1.77
+  2454703.858883           2850.25                          1.62

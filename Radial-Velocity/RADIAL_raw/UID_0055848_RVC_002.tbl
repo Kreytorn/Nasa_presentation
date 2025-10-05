@@ -1,0 +1,57 @@
+\STAR_ID                                  = "HD 99492"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "35"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2450462.114"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453076.984"
+\MINIMUM_VALUE                            = "-16.2984"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "14.6471"
+\REFERENCE                                = "Marcy et al. 2005 (ApJ, 619, 570)"
+\BIBCODE                                  = "2005ApJ...619..570M"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|      double |          double |                      double |
+|        days |             m/s |                         m/s |
+  2450462.114          -5.30884                           2.2
+  2450546.988           1.70639                           3.2
+  2450837.933          -10.3165                           2.8
+  2450862.899          -11.8881                           2.9
+  2450955.877          -6.08888                           3.0
+  2451172.102           0.00000                           2.4
+  2451228.036          -10.9208                           2.9
+  2451311.816           7.45052                           3.3
+  2451544.173          -9.21701                           2.8
+  2451582.975          0.668655                           2.6
+  2451704.806           4.55197                           3.8
+  2451898.154          -13.6692                           2.9
+  2451973.053           2.68497                           2.9
+  2452095.752           7.68890                           3.7
+  2452097.754           3.21675                           3.7
+  2452333.139           6.33837                           2.9
+  2452334.080           14.6471                           3.7
+  2452334.968           4.63973                           3.0
+  2452364.068           3.88087                           3.7
+  2452445.768          -2.76016                           3.6
+  2452654.010           7.32495                           3.0
+  2452681.123          -12.1425                           3.1
+  2452711.859         -0.502421                           2.9
+  2452804.766          -2.67384                           4.0
+  2452805.876           9.40203                           4.1
+  2452806.764           2.64147                           3.5
+  2452989.171          -10.8823                           2.7
+  2453015.119           11.6840                           3.0
+  2453016.134           7.43558                           2.8
+  2453017.122           6.23335                           2.7
+  2453044.128          -6.25624                           2.9
+  2453045.999         -0.223535                           2.8
+  2453071.871          -1.83468                           2.8
+  2453073.941          -16.2984                           2.8
+  2453076.984          -6.92136                           2.6

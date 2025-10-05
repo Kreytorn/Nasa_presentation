@@ -1,0 +1,49 @@
+\STAR_ID                                  = "HD 164427"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "27"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2450917.287"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2451855.921"
+\MINIMUM_VALUE                            = "-1071.2"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "2791.5"
+\REFERENCE                                = "Tinney et al. 2001 (ApJ, 551, 507)"
+\BIBCODE                                  = "2001ApJ...551..507T"
+\TELESCOPE                                = "3.9m Anglo-Australian Telescope (AAT)"
+\INSTRUMENT                               = "UCLES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Siding Spring Observatory, Australia"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|      double |          double |                      double |
+|        days |             m/s |                         m/s |
+  2450917.287           -1071.2                           7.5
+  2451002.091            -897.7                          10.2
+  2451118.891           -1026.5                           9.8
+  2451119.905           -1025.7                           8.3
+  2451236.281           -1065.7                           6.4
+  2451274.300              -3.9                           5.3
+  2451385.868             347.2                           6.8
+  2451386.879             513.8                           4.9
+  2451410.911             703.9                           4.2
+  2451413.034             378.0                           3.6
+  2451413.904             286.7                           5.6
+  2451472.893            -914.8                           4.6
+  2451630.300             391.3                           4.9
+  2451683.096           -1014.7                           5.6
+  2451684.147           -1006.3                           6.4
+  2451706.112            -217.9                           4.9
+  2451717.923            1718.7                           5.3
+  2451718.123            1775.8                           4.9
+  2451742.913             -44.6                           5.5
+  2451743.933            -126.6                           7.0
+  2451745.067            -218.7                           4.6
+  2451766.942            -968.3                           5.2
+  2451767.992            -985.4                           8.4
+  2451827.914            2169.0                           5.5
+  2451828.890            2480.8                           6.3
+  2451829.894            2791.5                           7.0
+  2451855.921            -371.0                           8.0

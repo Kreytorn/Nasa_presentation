@@ -1,0 +1,135 @@
+================================================================================
+                    NASA EXOPLANET CLASSIFICATION MODEL
+                        UI FEATURE LIST
+================================================================================
+
+📊 TOTAL FEATURES: 25 FEATURES
+🎯 MODEL: XGBoost + LightGBM + CatBoost (Soft Voting Ensemble)
+📅 DATE: 2025-10-05
+
+================================================================================
+🌟 STELLAR PROPERTIES - 10 FEATURES
+================================================================================
+
+| Technical Name     | UI Name                   | Description                           | Unit             |
+|--------------------|---------------------------|---------------------------------------|------------------|
+| logg_cgs           | Stellar Surface Gravity   | Stellar surface gravitational acceleration | log(cgs)     |
+| teff_k             | Stellar Temperature       | Effective temperature of the star     | Kelvin           |
+| radius_solar       | Stellar Radius            | Stellar radius (in solar units)      | Solar radius     |
+| mass_solar         | Stellar Mass              | Stellar mass (in solar units)         | Solar mass       |
+| feh_dex            | Metallicity               | Stellar metal content                | dex              |
+| ra_deg             | Right Ascension           | Stellar position in sky (RA)         | degrees          |
+| dec_deg            | Declination               | Stellar position in sky (Dec)        | degrees          |
+| stellar_pmra       | Stellar Motion (RA)       | Stellar proper motion in RA direction | mas/year        |
+| stellar_pmdec      | Stellar Motion (Dec)      | Stellar proper motion in Dec direction | mas/year        |
+| stellar_distance   | Stellar Distance          | Distance to the star                 | parsecs          |
+
+================================================================================
+🪐 PLANETARY PROPERTIES - 5 FEATURES
+================================================================================
+
+| Technical Name     | UI Name                   | Description                           | Unit             |
+|--------------------|---------------------------|---------------------------------------|------------------|
+| rp_re              | Planet Radius             | Planetary radius (in Earth units)    | Earth radius     |
+| period_days        | Orbital Period            | Planet's orbital period around star   | days             |
+| ecc                | Orbital Eccentricity      | Eccentricity of the orbit             | 0-1 range        |
+| teq_k              | Equilibrium Temperature   | Planetary equilibrium temperature    | Kelvin           |
+| insolation         | Insolation Flux           | Stellar flux received by planet       | Earth units      |
+
+================================================================================
+🔍 TRANSIT PROPERTIES - 5 FEATURES
+================================================================================
+
+| Technical Name     | UI Name                   | Description                           | Unit             |
+|--------------------|---------------------------|---------------------------------------|------------------|
+| transit_depth_ppm  | Transit Depth             | How much the planet dims the star     | ppm              |
+| duration_hours     | Transit Duration          | Duration of the transit event         | hours            |
+| impact_param       | Impact Parameter          | Transit impact parameter              | 0-1 range        |
+| t0_bjd             | First Transit Time        | Time of first observed transit       | BJD              |
+| num_transits       | Number of Transits        | Total number of observed transits    | count            |
+
+================================================================================
+📊 RATIOS & COMPARISONS - 2 FEATURES
+================================================================================
+
+| Technical Name     | UI Name                   | Description                           | Unit             |
+|--------------------|---------------------------|---------------------------------------|------------------|
+| dor_ratio          | Planet-Star Ratio         | Ratio of planet to star radius       | ratio            |
+| ror_ratio          | Radius Ratio              | Alternative radius ratio calculation  | ratio            |
+
+================================================================================
+✨ BRIGHTNESS & SIGNAL - 3 FEATURES
+================================================================================
+
+| Technical Name     | UI Name                   | Description                           | Unit             |
+|--------------------|---------------------------|---------------------------------------|------------------|
+| mag_tess           | TESS Magnitude            | Apparent magnitude in TESS telescope  | magnitude        |
+| mag_kepler         | Kepler Magnitude          | Apparent magnitude in Kepler telescope | magnitude       |
+| snr                | Signal-to-Noise Ratio     | Quality of detection signal           | ratio            |
+
+================================================================================
+🎨 UI DESIGN RECOMMENDATIONS
+================================================================================
+
+1. CATEGORY GROUPING:
+   🌟 Stellar Information (10 features)
+   🪐 Planetary Properties (5 features)  
+   🔍 Transit Information (5 features)
+   📊 Ratios (2 features)
+   ✨ Brightness & Signal (3 features)
+
+2. USER-FRIENDLY DESCRIPTIONS:
+   - Short descriptions: "Stellar temperature"
+   - Unit information: "In Kelvin"
+   - Importance level: "Very Important", "Important", "Less Important"
+
+3. UI DESIGN:
+   ```
+   🌟 STELLAR INFORMATION
+   ├── Stellar Temperature: [input] Kelvin
+   ├── Stellar Radius: [input] Solar radius
+   └── ...
+   
+   🪐 PLANETARY INFORMATION  
+   ├── Planet Radius: [input] Earth radius
+   ├── Orbital Period: [input] days
+   └── ...
+   ```
+
+4. IMPORTANCE RANKING (Based on Model Feature Importance):
+   🥇 Very Important: rp_re, num_transits, stellar_distance, dor_ratio
+   🥈 Important: t0_bjd, teq_k, radius_solar, insolation, period_days
+   🥉 Medium: transit_depth_ppm, teff_k, mass_solar, duration_hours
+   📝 Less: Other features
+
+================================================================================
+📋 TECHNICAL INFORMATION
+================================================================================
+
+Model Performance:
+- Soft Voting Accuracy: ~0.91
+- High Confidence: 81%+ (>0.8)
+- Overfitting: Under control
+
+Model Parameters:
+- XGBoost: 200 estimators, depth=6, lr=0.08
+- LightGBM: 250 estimators, depth=7, lr=0.08  
+- CatBoost: 300 iterations, depth=7, lr=0.08
+
+Saved Files:
+- ensemble_soft_voting.pkl
+- feature_columns_soft.json
+- xgb_exoplanet_model_soft.pkl
+- lgb_exoplanet_model_soft.pkl
+- cat_exoplanet_model_soft.pkl
+
+================================================================================
+🎯 RESULT
+================================================================================
+
+With these 25 features, we can classify NASA exoplanet data with 91%+ accuracy.
+Users can input these features in the UI to get "Confirmed" or "False Positive" 
+predictions. Thanks to soft voting, confidence levels can also be displayed 
+for each prediction.
+
+================================================================================

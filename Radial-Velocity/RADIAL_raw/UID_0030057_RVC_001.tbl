@@ -1,0 +1,44 @@
+\STAR_ID                                  = "HD 43691"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "22"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2453333.6255"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453872.3456"
+\MINIMUM_VALUE                            = "-29123.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-28840.00"
+\REFERENCE                                = "da Silva et al. 2007 (A&A, 473, 323)"
+\BIBCODE                                  = "2007A&A...473..323D"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "ELODIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2453333.6255         -29123.00                         11.00
+  2453337.6057         -29098.00                         12.00
+  2453398.4118         -29015.00                         12.00
+  2453690.6694         -28945.00                         13.00
+  2453692.6430         -28962.00                         13.00
+  2453693.6240         -28983.00                         14.00
+  2453714.5653         -28912.00                         14.00
+  2453715.5590         -28903.00                         15.00
+  2453718.5549         -28904.00                         13.00
+  2453719.5681         -28885.00                         10.00
+  2453720.5323         -28853.00                         17.00
+  2453721.5123         -28892.00                         18.00
+  2453722.5237         -28907.00                         15.00
+  2453728.4315         -28969.00                         18.00
+  2453749.5333         -28989.00                         14.00
+  2453750.4982         -28958.00                         14.00
+  2453756.4444         -28840.00                         18.00
+  2453808.2808         -29091.00                         12.00
+  2453809.2850         -29087.00                          9.00
+  2453839.3031         -28960.00                         19.00
+  2453870.3405         -28881.00                         17.00
+  2453872.3456         -28923.00                         20.00

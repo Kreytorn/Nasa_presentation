@@ -1,0 +1,51 @@
+\STAR_ID                                  = "WASP-16"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "30"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454535.864842"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454985.694776"
+\MINIMUM_VALUE                            = "-2046.77"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-1785.90"
+\REFERENCE                                = "Lister et al. 2009 (ApJ, 703, 752)"
+\BIBCODE                                  = "2009ApJ...703..752L"
+\TELESCOPE                                = "1.2m Euler Swiss telescope"
+\INSTRUMENT                               = "CORALIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2454535.864842          -1997.72                         15.91
+  2454537.849158          -1966.88                          8.53
+  2454538.858364          -2007.34                          8.99
+  2454558.780835          -1833.36                          7.23
+  2454560.709473          -2005.13                          7.25
+  2454561.688137          -1827.30                          7.85
+  2454589.705102          -1842.55                          8.75
+  2454591.706755          -2035.71                          8.92
+  2454652.495906          -1824.93                          8.08
+  2454656.551645          -2024.21                          7.87
+  2454657.577293          -1966.40                          9.57
+  2454663.539741          -2029.61                          9.69
+  2454664.616769          -1785.90                         11.08
+  2454682.521501          -1981.18                          7.54
+  2454881.869213          -2022.45                          8.13
+  2454882.801025          -1832.89                          8.23
+  2454884.737094          -2045.65                          7.78
+  2454891.805707          -1900.43                          7.98
+  2454892.723980          -1834.13                          8.91
+  2454941.728231          -1887.37                          7.48
+  2454943.730102          -2046.77                          7.53
+  2454944.739293          -1913.59                          8.60
+  2454945.799895          -1858.15                          8.07
+  2454947.745317          -1939.60                          7.41
+  2454948.673112          -1829.92                          7.43
+  2454972.707323          -1931.23                          8.54
+  2454975.733486          -1931.44                         11.00
+  2454982.647535          -1834.33                         10.36
+  2454984.642389          -2042.10                          8.92
+  2454985.694776          -1815.61                          8.02

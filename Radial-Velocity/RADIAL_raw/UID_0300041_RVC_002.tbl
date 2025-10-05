@@ -1,0 +1,39 @@
+\STAR_ID                                  = "NGC 2423 No. 3"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "18"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2453669.846074"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454122.715930"
+\MINIMUM_VALUE                            = "18256.82"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "18449.17"
+\REFERENCE                                = "Lovis & Mayor 2007 (A&A, 472, 657)"
+\BIBCODE                                  = "2007A&A...472..657L"
+\TELESCOPE                                = "3.6m"
+\INSTRUMENT                               = "HARPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2453669.846074          18280.06                          1.42
+  2453674.796790          18278.05                          1.47
+  2453692.862406          18277.38                          1.42
+  2453699.842505          18295.94                          1.40
+  2453721.855948          18310.43                          1.27
+  2453728.752368          18310.82                          1.29
+  2453758.656840          18367.99                          1.89
+  2453764.700939          18342.64                          1.07
+  2453784.639213          18382.99                          1.29
+  2453817.563693          18437.27                          1.42
+  2453831.568277          18419.25                          1.32
+  2453861.565109          18449.17                          2.27
+  2454050.825005          18292.13                          1.48
+  2454054.864340          18316.15                          1.30
+  2454078.820633          18297.99                          1.29
+  2454082.782093          18262.91                          1.83
+  2454114.702923          18265.73                          2.96
+  2454122.715930          18256.82                          1.55

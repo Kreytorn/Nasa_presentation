@@ -1,0 +1,26 @@
+\STAR_ID                                  = "HD 40979"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "4"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2453636.00527"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454020.94453"
+\MINIMUM_VALUE                            = "-46.2"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "78.9"
+\REFERENCE                                = "Wittenmyer et al. 2009 (ApJS, 182, 97)"
+\BIBCODE                                  = "2009ApJS..182...97W"
+\TELESCOPE                                = "2.7m Harlan J. Smith (HJS) telescope"
+\INSTRUMENT                               = "2d coude spectrograph (2dCS)"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "McDonald Observatory, Texas"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453636.00527              78.9                           8.9
+  2453787.77595             -46.2                           8.3
+  2453864.61096             -23.4                           7.6
+  2454020.94453              -9.2                           6.7

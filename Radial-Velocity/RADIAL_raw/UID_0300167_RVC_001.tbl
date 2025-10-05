@@ -1,0 +1,27 @@
+\STAR_ID                            = "CoRoT-19"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "5"
+\TIME_REFERENCE_FRAME               = "HJD-UTC"
+\MINIMUM_DATE                       = "2455568.501200"
+\MAXIMUM_DATE                       = "2455581.421700"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-122.0"
+\MAXIMUM_VALUE                      = "118.0"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Guenther et al. 2012 (2012, A&A, 537A, 136)"
+\BIBCODE                            = "2012A&A...537A.136G"
+\TELESCOPE                          = "2.5m NOT"
+\INSTRUMENT                         = "FIES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "Observatorio del Roque de los Muchachos, La Palma, Spain"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455568.501200            118.00                         28.00
+  2455569.589800            -63.00                         35.00
+  2455570.431400           -122.00                         32.00
+  2455580.427800             76.00                         34.00
+  2455581.421700            -77.00                         36.00

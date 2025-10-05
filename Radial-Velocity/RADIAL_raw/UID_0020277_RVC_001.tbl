@@ -1,0 +1,42 @@
+\STAR_ID                                  = "HD 27894"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "20"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2452941.8267"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453378.6536"
+\MINIMUM_VALUE                            = "82845.50"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "82959.90"
+\REFERENCE                                = "Moutou et al. 2005 (A&A, 439, 367)"
+\BIBCODE                                  = "2005A&A...439..367M"
+\TELESCOPE                                = "3.6m"
+\INSTRUMENT                               = "HARPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2452941.8267          82935.40                       3270.00
+  2453273.8782          82891.20                       1610.00
+  2453274.8819          82870.60                       2210.00
+  2453289.8592          82943.90                       1360.00
+  2453294.8268          82851.70                       2250.00
+  2453297.8608          82861.40                       2740.00
+  2453340.7619          82959.90                       1530.00
+  2453341.7050          82955.60                       1250.00
+  2453342.7165          82942.30                       2040.00
+  2453344.7422          82909.20                       1490.00
+  2453345.6558          82892.50                       2280.00
+  2453366.6739          82845.50                        910.00
+  2453369.6850          82856.60                       1140.00
+  2453371.6842          82890.80                       2670.00
+  2453372.6429          82912.20                        980.00
+  2453374.6813          82942.00                       1850.00
+  2453375.6820          82950.30                       1750.00
+  2453376.6256          82958.70                       1800.00
+  2453377.6168          82956.20                       1850.00
+  2453378.6536          82949.10                       2000.00

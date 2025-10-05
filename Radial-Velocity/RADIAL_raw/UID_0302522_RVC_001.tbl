@@ -1,0 +1,38 @@
+\STAR_ID                            = "KELT-6"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "16"
+\TIME_REFERENCE_FRAME               = "BJD-TDB"
+\MINIMUM_DATE                       = "2456163.733467"
+\MAXIMUM_DATE                       = "2456345.026477"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-62.66"
+\MAXIMUM_VALUE                      = "69.62"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Collins et al. 2014 (AJ, 147, 39)"
+\BIBCODE                            = "2014AJ....147...39C"
+\TELESCOPE                          = "10m Keck"
+\INSTRUMENT                         = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Gas Cell Absorption (Iodine)"
+\OBSERVATORY_SITE                   = "Manua Kea, Hawaii"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2456163.733467             19.38                          3.90
+  2456164.729771             61.75                          3.76
+  2456165.727060             46.70                          3.76
+  2456172.720200             64.03                          3.36
+  2456173.720971             69.62                          3.31
+  2456175.727980             -5.05                          5.06
+  2456177.719323            -14.71                          3.56
+  2456178.716548              2.82                          3.57
+  2456179.715151             43.05                          3.67
+  2456290.173359             29.64                          3.81
+  2456318.978815            -46.73                          3.50
+  2456320.088103            -35.17                          3.48
+  2456326.175000            -62.66                          3.50
+  2456327.103147            -49.24                          3.52
+  2456328.106726            -11.70                          3.32
+  2456345.026477              8.71                          3.58

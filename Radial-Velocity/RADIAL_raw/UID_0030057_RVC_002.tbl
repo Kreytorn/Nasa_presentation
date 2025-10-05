@@ -1,0 +1,36 @@
+\STAR_ID                                  = "HD 43691"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "14"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2454044.6274"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454155.4284"
+\MINIMUM_VALUE                            = "-29089.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-28830.00"
+\REFERENCE                                = "da Silva et al. 2007 (A&A, 473, 323)"
+\BIBCODE                                  = "2007A&A...473..323D"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454044.6274         -28980.00                          3.00
+  2454051.6411         -28830.00                          4.00
+  2454053.5968         -28854.00                          3.00
+  2454078.6009         -29059.00                          4.00
+  2454079.4859         -29040.00                          4.00
+  2454080.4572         -29018.00                          4.00
+  2454081.4440         -28993.00                          3.00
+  2454087.4744         -28858.00                          4.00
+  2454088.5858         -28872.00                          4.00
+  2454089.6137         -28846.00                          4.00
+  2454142.4798         -29064.00                          4.00
+  2454148.4607         -29089.00                          4.00
+  2454151.4010         -29065.00                          4.00
+  2454155.4284         -28981.00                          4.00

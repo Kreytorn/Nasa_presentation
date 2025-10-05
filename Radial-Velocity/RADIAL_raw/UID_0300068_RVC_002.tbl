@@ -1,0 +1,50 @@
+\STAR_ID                                  = "WASP-12"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "29"
+\TIME_REFERENCE_FRAME                     = "HJD"
+\MINIMUM_DATE                             = "2454849.41844"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2455283.35164"
+\MINIMUM_VALUE                            = "18891.90"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "19305.00"
+\REFERENCE                                = "Husnoo et al. 2010 (arXiv, 1004, 1809)"
+\BIBCODE                                  = "2010arXiv1004.1809H"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           HJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2454849.41844          19217.20                         11.90
+  2454849.42764          19202.80                         11.20
+  2454849.43654          19181.10                         11.10
+  2454849.44552          19180.70                         11.10
+  2454849.45469          19167.80                         10.80
+  2454849.46419          19168.50                         10.60
+  2454849.47405          19144.40                         10.60
+  2454849.48469          19135.30                         10.80
+  2454849.49611          19098.40                         11.80
+  2454849.50751          19085.70                         12.10
+  2454849.51895          19081.20                         12.30
+  2454849.53036          19053.20                         12.30
+  2454849.54177          19016.30                         12.10
+  2454849.55319          19007.60                         12.90
+  2454849.56461          19008.30                         11.90
+  2454849.57603          18996.60                         13.20
+  2454889.37950          19129.50                          4.00
+  2454890.44193          19079.50                          4.70
+  2454912.37616          19179.30                          8.50
+  2454914.36671          18975.00                          4.40
+  2454926.34294          18929.50                          4.30
+  2454935.32914          19268.40                         11.80
+  2454936.31657          19164.40                          6.80
+  2455269.37102          19305.00                          3.80
+  2455271.33688          19071.90                          3.90
+  2455272.38229          19043.00                          3.90
+  2455273.33965          18891.90                          3.90
+  2455282.31904          19174.90                          4.50
+  2455283.35164          19110.90                          4.90

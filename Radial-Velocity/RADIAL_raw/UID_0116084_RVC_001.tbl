@@ -1,0 +1,47 @@
+\STAR_ID                                  = "HD 221287"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "26"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2452851.8534"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453980.7273"
+\MINIMUM_VALUE                            = "-21942.80"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-21795.60"
+\REFERENCE                                = "Naef et al. 2007 (A&A, 470, 721)"
+\BIBCODE                                  = "2007A&A...470..721N"
+\TELESCOPE                                = "3.6m"
+\INSTRUMENT                               = "HARPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2452851.8534         -21910.10                          1.20
+  2452853.8544         -21920.10                          2.10
+  2452858.7810         -21925.20                          1.90
+  2453264.7097         -21861.70                          2.10
+  2453266.6805         -21885.20                          2.00
+  2453268.7030         -21859.50                          3.40
+  2453273.6951         -21888.80                          3.10
+  2453274.7129         -21871.80                          2.10
+  2453292.6284         -21904.90                          2.00
+  2453294.6239         -21899.80                          1.90
+  2453295.6781         -21901.70                          2.40
+  2453296.6388         -21918.60                          2.60
+  2453339.6009         -21928.90                          1.50
+  2453340.5974         -21922.50                          1.30
+  2453342.5955         -21917.20                          1.30
+  2453344.5961         -21942.80                          1.40
+  2453345.5923         -21929.10                          1.30
+  2453346.5566         -21928.40                          1.30
+  2453546.9385         -21802.20                          3.90
+  2453550.9121         -21829.40                          2.20
+  2453551.9479         -21795.60                          1.80
+  2453723.5707         -21867.90                          3.30
+  2453727.5302         -21881.50                          2.10
+  2453862.9297         -21920.50                          2.30
+  2453974.7327         -21824.00                          2.10
+  2453980.7273         -21819.20                          2.20

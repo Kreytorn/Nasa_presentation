@@ -1,0 +1,25 @@
+\STAR_ID                            = "WASP-21"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "3"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2454462.336000"
+\MAXIMUM_DATE                       = "2454466.364000"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-89504.0"
+\MAXIMUM_VALUE                      = "-89409.0"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Bouchy et al. 2010 (A&A, 2010, in press)"
+\BIBCODE                            = "2010A&A...519A..98B"
+\TELESCOPE                          = "2.5m NOT"
+\INSTRUMENT                         = "FIES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "Observatorio del Roque de los Muchachos, La Palma, Spain"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2454462.336000         -89504.00                         27.00
+  2454465.371000         -89409.00                         36.00
+  2454466.364000         -89444.00                         29.00

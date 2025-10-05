@@ -1,0 +1,35 @@
+\STAR_ID                                  = "HAT-P-2"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "14"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454216.95938"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454603.93210"
+\MINIMUM_VALUE                            = "-670.9"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "784.8"
+\REFERENCE                                = "Pal et al. 2010 (MNRAS, 401, 2665)"
+\BIBCODE                                  = "2010MNRAS.401.2665P"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2454216.95938             747.7                           8.1
+  2454279.87688             402.0                           8.3
+  2454285.82384             168.3                           5.7
+  2454294.87869             756.8                           6.5
+  2454304.86497             615.5                           6.2
+  2454305.87010             764.2                           6.3
+  2454306.86520             761.4                           7.6
+  2454307.91236             479.1                           6.5
+  2454335.81260             574.7                           6.8
+  2454546.09817            -670.9                          10.1
+  2454547.11569             554.6                           7.4
+  2454549.05046             784.8                           9.2
+  2454602.91654             296.3                           7.0
+  2454603.93210             688.0                           5.9

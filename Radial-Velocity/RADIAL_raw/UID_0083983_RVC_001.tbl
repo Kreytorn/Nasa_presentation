@@ -1,0 +1,27 @@
+\STAR_ID                                  = "HD 154672"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "6"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454248.713853"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454581.870548"
+\MINIMUM_VALUE                            = "-3808.85"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-3651.00"
+\REFERENCE                                = "Jenkins et al. 2009 (MNRAS, 398, 911)"
+\BIBCODE                                  = "2009MNRAS.398..911J"
+\TELESCOPE                                = "3.6m"
+\INSTRUMENT                               = "HARPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2454248.713853          -3796.59                          4.79
+  2454250.731312          -3794.42                          2.25
+  2454367.595129          -3653.29                          2.15
+  2454368.618599          -3651.00                          2.22
+  2454578.811238          -3797.81                          2.14
+  2454581.870548          -3808.85                          2.13

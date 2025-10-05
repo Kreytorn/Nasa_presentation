@@ -1,0 +1,36 @@
+\STAR_ID                            = "GJ 179"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "14"
+\TIME_REFERENCE_FRAME               = "JD-UTC"
+\MINIMUM_DATE                       = "2453297.855070"
+\MAXIMUM_DATE                       = "2455206.775690"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-32.31"
+\MAXIMUM_VALUE                      = "28.29"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Howard et al. 2010 (2010, ApJ, 721, 1467)"
+\BIBCODE                            = "2010ApJ...721.1467H"
+\TELESCOPE                          = "9m HET"
+\INSTRUMENT                         = "HRS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Gas Cell Absorption (Iodine)"
+\OBSERVATORY_SITE                   = "McDonald Observatory, Texas"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2453297.855070             -1.09                         10.33
+  2453299.848620             14.31                          5.54
+  2453314.807540              8.21                          4.36
+  2453340.724000              2.54                          5.09
+  2453631.929880             10.84                         15.59
+  2453644.900170             25.11                         12.87
+  2453686.921710              9.61                          6.64
+  2453719.831420             28.29                         12.94
+  2454411.937120             17.96                         14.13
+  2454771.803030             22.44                          4.48
+  2455084.949430             -1.33                          7.22
+  2455175.707400            -15.10                          8.34
+  2455180.835370            -32.31                          5.00
+  2455206.775690             -3.89                          4.39

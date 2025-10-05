@@ -1,0 +1,47 @@
+\STAR_ID                                  = "Iota Hor"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "26"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2451021.929706"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2451625.504824"
+\MINIMUM_VALUE                            = "16830.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "16996.00"
+\REFERENCE                                = "Naef et al. 2001 (A&A, 375, 205)"
+\BIBCODE                                  = "2001A&A...375..205N"
+\TELESCOPE                                = "1.2m Euler Swiss telescope"
+\INSTRUMENT                               = "CORALIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2451021.929706          16844.00                          8.00
+  2451043.890765          16861.00                         11.00
+  2451060.882466          16830.00                         13.00
+  2451078.811570          16846.00                         11.00
+  2451121.722919          16868.00                          8.00
+  2451140.747746          16881.00                         12.00
+  2451389.929034          16849.00                          9.00
+  2451392.919955          16855.00                         11.00
+  2451451.832663          16900.00                          9.00
+  2451463.776754          16946.00                          9.00
+  2451480.759674          16935.00                         12.00
+  2451485.693233          16939.00                         10.00
+  2451490.661137          16944.00                          9.00
+  2451495.675192          16937.00                          9.00
+  2451496.627776          16955.00                          9.00
+  2451501.714021          16956.00                          9.00
+  2451538.598255          16963.00                          8.00
+  2451544.565093          16996.00                          9.00
+  2451548.569111          16986.00                         11.00
+  2451551.569833          16966.00                          9.00
+  2451570.564788          16965.00                          9.00
+  2451576.554722          16963.00                          9.00
+  2451620.505746          16939.00                         11.00
+  2451622.516189          16950.00                         12.00
+  2451624.501775          16950.00                         12.00
+  2451625.504824          16948.00                         11.00

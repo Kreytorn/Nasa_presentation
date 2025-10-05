@@ -1,0 +1,26 @@
+\STAR_ID                                  = "WASP-14"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "5"
+\TIME_REFERENCE_FRAME                     = "HJD"
+\MINIMUM_DATE                             = "2454667.80421"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2455015.91393"
+\MINIMUM_VALUE                            = "-1008.4"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "965.8"
+\REFERENCE                                = "Johnson et al. 2009 (PASP, 121, 1104)"
+\BIBCODE                                  = "2009PASP..121.1104J"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           HJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2454667.80421            -139.4                           1.0
+  2454672.81824           -1008.4                           1.3
+  2454673.83349             955.3                           1.3
+  2455014.86287             965.8                           1.4
+  2455015.91393            -812.7                           1.7

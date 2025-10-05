@@ -1,0 +1,24 @@
+\STAR_ID                                  = "CoRoT-3"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "3"
+\TIME_REFERENCE_FRAME                     = "HJD"
+\MINIMUM_DATE                             = "2454607.8861"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454613.8684"
+\MINIMUM_VALUE                            = "-57786.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-53187.00"
+\REFERENCE                                = "Deleuil et al. 2008 (A&A, 491, 889)"
+\BIBCODE                                  = "2008A&A...491..889D"
+\TELESCOPE                                = "2.1m Otto Struve telescope"
+\INSTRUMENT                               = "SANDIFORD"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Calibration Spectra"
+\OBSERVATORY_SITE                         = "McDonald Observatory, Texas"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          HJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454607.8861         -57786.00                        163.00
+  2454609.8528         -53187.00                        100.00
+  2454613.8684         -53308.00                        157.00

@@ -1,0 +1,35 @@
+\STAR_ID                            = "HATS-P-37"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "13"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455646.927990"
+\MAXIMUM_DATE                       = "2455698.794640"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-238.57"
+\MAXIMUM_VALUE                      = "172.53"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Bakos et al. 2012 (arXiv, 1201, 0659)"
+\BIBCODE                            = "2012AJ....144...19B"
+\TELESCOPE                          = "1.5m FLWO"
+\INSTRUMENT                         = "TRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "Fred L. Whipple Observatory, Mt. Hopkins, Arizona"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455646.927990            146.43                         35.50
+  2455648.012780           -111.17                         24.60
+  2455648.913420            -88.77                         23.20
+  2455649.898700            172.53                         29.40
+  2455650.962410           -102.97                         17.50
+  2455652.926380            128.33                         26.30
+  2455656.987380           -238.57                         12.80
+  2455658.963380            -19.87                         20.90
+  2455663.905690            169.23                         20.60
+  2455664.911400           -163.77                         25.40
+  2455665.919610             62.93                         32.60
+  2455671.849330            125.23                         35.30
+  2455698.794640           -143.97                         25.00

@@ -1,0 +1,24 @@
+\STAR_ID                                  = "BD +20 1790"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "2"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2453331.6400"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453332.6800"
+\MINIMUM_VALUE                            = "8160.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "8710.00"
+\REFERENCE                                = "Hernan-Obispo et al. 2010 (A&A, 512A, 45)"
+\BIBCODE                                  = "2010A&A...512A..45H"
+\TELESCOPE                                = "3.58m Telescopio Nazionale Galileo (TNG)"
+\INSTRUMENT                               = "SARG"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatorio del Roque de los Muchachos in La Palma, Spain"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2453331.6400           8710.00                         30.00
+  2453332.6800           8160.00                         30.00

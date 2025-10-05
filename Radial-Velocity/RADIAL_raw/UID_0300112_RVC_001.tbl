@@ -1,0 +1,28 @@
+\STAR_ID                                  = "HAT-P-16"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "7"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2455048.64476"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2455054.71713"
+\MINIMUM_VALUE                            = "-911.9"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "66.2"
+\REFERENCE                                = "Buchhave et al. 2010 (arXiv, 1005, 2009)"
+\BIBCODE                                  = "2010arXiv1005.2009B"
+\TELESCOPE                                = "2.5m Nordic Optical Telescope (NOT)"
+\INSTRUMENT                               = "FIES (high resolution)"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "La Palma, Spain"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2455048.64476            -137.7                           4.6
+  2455049.70638            -339.5                          10.5
+  2455050.68239            -911.9                           6.1
+  2455051.73142              60.3                           5.8
+  2455052.68956            -579.8                           4.4
+  2455053.71751            -674.7                          11.3
+  2455054.71713              66.2                           5.7

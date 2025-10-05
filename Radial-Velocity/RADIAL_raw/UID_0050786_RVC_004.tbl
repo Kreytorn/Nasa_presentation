@@ -1,0 +1,31 @@
+\STAR_ID                                  = "HD 89744"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "9"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2453690.03080"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454068.94214"
+\MINIMUM_VALUE                            = "-240.7"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "262.2"
+\REFERENCE                                = "Wittenmyer et al. 2009 (ApJS, 182, 97)"
+\BIBCODE                                  = "2009ApJS..182...97W"
+\TELESCOPE                                = "2.7m Harlan J. Smith (HJS) telescope"
+\INSTRUMENT                               = "2d coude spectrograph (2dCS)"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "McDonald Observatory, Texas"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453690.03080             262.2                           7.7
+  2453805.87856            -129.3                           7.1
+  2453806.73923            -130.0                           8.9
+  2453807.83562            -188.4                          10.8
+  2453809.79691            -198.1                           7.8
+  2453840.78664             168.0                           9.8
+  2453864.76543             203.8                           8.9
+  2453911.61226             252.5                           9.3
+  2454068.94214            -240.7                           8.7

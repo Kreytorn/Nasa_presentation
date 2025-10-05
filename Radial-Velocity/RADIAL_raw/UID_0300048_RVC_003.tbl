@@ -1,0 +1,32 @@
+\STAR_ID                                  = "CoRoT-2"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "11"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454295.48408"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454314.44185"
+\MINIMUM_VALUE                            = "22585.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "23820.00"
+\REFERENCE                                = "Alonso et al. 2008 (A&AL, 482, 21)"
+\BIBCODE                                  = "2008A&A...482L..21A"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2454295.48408          22667.00                         17.00
+  2454296.49214          23700.00                         15.00
+  2454298.46418          23341.00                         26.00
+  2454298.48626          23285.00                         27.00
+  2454298.58797          23023.00                         30.00
+  2454303.44629          23706.00                         48.00
+  2454304.51991          23005.00                         63.00
+  2454308.55172          23820.00                         19.00
+  2454309.53356          22585.00                         20.00
+  2454313.45013          23461.00                         19.00
+  2454314.44185          22684.00                         27.00

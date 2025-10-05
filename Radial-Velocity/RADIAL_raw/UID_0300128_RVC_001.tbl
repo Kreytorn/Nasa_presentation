@@ -1,0 +1,34 @@
+\STAR_ID                            = "HAT-P-22"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "12"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2454928.949340"
+\MAXIMUM_DATE                       = "2455193.934350"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-326.24"
+\MAXIMUM_VALUE                      = "284.38"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Bakos et al. 2010 (arXiv, 1008, 3388)"
+\BIBCODE                            = "2011ApJ...742..116B"
+\TELESCOPE                          = "10m Keck"
+\INSTRUMENT                         = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Gas Cell Absorption (Iodine)"
+\OBSERVATORY_SITE                   = "Manua Kea, Hawaii"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2454928.949340            187.55                          1.12
+  2454954.881370            284.38                          1.12
+  2454955.799620             77.44                          1.46
+  2454956.963830           -273.80                          1.30
+  2454963.921570            -14.63                          1.33
+  2454983.827100            282.58                          0.98
+  2454985.810640           -298.55                          1.14
+  2454986.841240            239.74                          1.39
+  2454988.830250           -300.15                          1.31
+  2455191.148660           -326.24                          1.32
+  2455193.101700            255.62                          1.30
+  2455193.934350           -192.43                          1.38

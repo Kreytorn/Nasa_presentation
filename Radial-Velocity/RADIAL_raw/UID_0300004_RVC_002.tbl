@@ -1,0 +1,26 @@
+\STAR_ID                                  = "OGLE-TR-132"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "5"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2453081.72913"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453085.64253"
+\MINIMUM_VALUE                            = "39491.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "39760.00"
+\REFERENCE                                = "Pont et al. 2005 (A&A, 438, 1123)"
+\BIBCODE                                  = "2005A&A...438.1123P"
+\TELESCOPE                                = "8.2m Keuyen (UT2)"
+\INSTRUMENT                               = "FLAMES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "ESO VLT, Paranal Observatory, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453081.72913          39690.00                         49.00
+  2453082.64054          39676.00                         55.00
+  2453083.70038          39517.00                         47.00
+  2453084.61585          39760.00                         52.00
+  2453085.64253          39491.00                         49.00

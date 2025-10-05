@@ -1,0 +1,33 @@
+\STAR_ID                            = "WASP-21"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "11"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2454659.587200"
+\MAXIMUM_DATE                       = "2454688.547900"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-89495.0"
+\MAXIMUM_VALUE                      = "-89381.0"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Bouchy et al. 2010 (A&A, 2010, in press)"
+\BIBCODE                            = "2010A&A...519A..98B"
+\TELESCOPE                          = "1.93m OHP"
+\INSTRUMENT                         = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "Observatoire de Haute Provence, France"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2454659.587200         -89409.00                         18.00
+  2454662.594700         -89418.00                         18.00
+  2454663.574900         -89392.00                         17.00
+  2454665.582600         -89449.00                         19.00
+  2454666.577300         -89458.00                         17.00
+  2454667.579000         -89387.00                         17.00
+  2454668.592500         -89381.00                         20.00
+  2454679.594000         -89474.00                         18.00
+  2454683.624200         -89495.00                         18.00
+  2454685.559100         -89393.00                         18.00
+  2454688.547900         -89445.00                         18.00

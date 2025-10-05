@@ -1,0 +1,26 @@
+\STAR_ID                                  = "OGLE-TR-113"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "5"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2453081.72913"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453085.64254"
+\MINIMUM_VALUE                            = "39493.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "39822.00"
+\REFERENCE                                = "Bouchy et al. 2004 (A&A, 421, L13)"
+\BIBCODE                                  = "2004A&A...421L..13B"
+\TELESCOPE                                = "8.2m Kueyen (UT2)"
+\INSTRUMENT                               = "UVES+FLAMES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "ESO VLT, Paranal Observatory, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453081.72913          39724.00                         45.00
+  2453082.64054          39700.00                         49.00
+  2453083.70038          39564.00                         44.00
+  2453084.61585          39822.00                         47.00
+  2453085.64254          39493.00                         45.00

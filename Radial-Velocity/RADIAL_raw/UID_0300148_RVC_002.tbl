@@ -1,0 +1,30 @@
+\STAR_ID                            = "WASP-39"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "8"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455304.470400"
+\MAXIMUM_DATE                       = "2455368.395500"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-58565.0"
+\MAXIMUM_VALUE                      = "-58418.0"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Faedi et al. 2011 (arXiv, 1102, 1375)"
+\BIBCODE                            = "2011A&A...531A..40F"
+\TELESCOPE                          = "1.93m OHP"
+\INSTRUMENT                         = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "Observatoire de Haute Provence, France"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455304.470400         -58475.00                         13.00
+  2455305.437400         -58429.00                         15.00
+  2455323.438900         -58565.00                         17.00
+  2455329.418400         -58472.00                         16.00
+  2455331.430100         -58522.00                         14.00
+  2455334.462400         -58418.00                         17.00
+  2455336.447700         -58503.00                         16.00
+  2455368.395500         -58514.00                         17.00

@@ -1,0 +1,26 @@
+\STAR_ID                                  = "HD 3651"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "4"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2453633.86853"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454020.84477"
+\MINIMUM_VALUE                            = "-3.4"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "6.6"
+\REFERENCE                                = "Wittenmyer et al. 2009 (ApJS, 182, 97)"
+\BIBCODE                                  = "2009ApJS..182...97W"
+\TELESCOPE                                = "2.7m Harlan J. Smith (HJS) telescope"
+\INSTRUMENT                               = "2d coude spectrograph (2dCS)"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "McDonald Observatory, Texas"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453633.86853              -3.3                           5.0
+  2453654.79777               6.6                           6.6
+  2453690.69920              -3.4                           6.5
+  2454020.84477               0.1                           5.8

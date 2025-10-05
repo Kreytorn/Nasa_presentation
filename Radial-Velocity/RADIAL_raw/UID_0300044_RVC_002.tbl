@@ -1,0 +1,32 @@
+\STAR_ID                                  = "XO-3"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "11"
+\TIME_REFERENCE_FRAME                     = "HJD"
+\MINIMUM_DATE                             = "2454005.8587"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454162.6193"
+\MINIMUM_VALUE                            = "-1271"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "1454"
+\REFERENCE                                = "Johns-Krull et al. 2008 (ApJ, 667, 657)"
+\BIBCODE                                  = "2008ApJ...677..657J"
+\TELESCOPE                                = "9.2m Hobby Eberly Telescope (HET)"
+\INSTRUMENT                               = "HRS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "McDonald Observatory, Texas"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          HJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454005.8587              1454                           129
+  2454006.8597              -976                           122
+  2454113.5842               -71                           184
+  2454121.7100              -981                           188
+  2454121.7190              -965                           204
+  2454122.5635             -1152                           182
+  2454127.7046              -240                           195
+  2454128.7048             -1271                           183
+  2454158.6220              1191                           144
+  2454159.6091              -278                           132
+  2454162.6193               -30                           194

@@ -1,0 +1,42 @@
+\STAR_ID='HD 23249'
+\DATA_CATEGORY='Planet Radial Velocity Curve'
+\NUMBER_OF_POINTS='20'
+\TIME_REFERENCE_FRAME='HJD'
+\MINIMUM_DATE='2450462.69711'
+\DATE_UNITS='days'
+\MAXIMUM_DATE='2452987.88862'
+\MINIMUM_VALUE='-7.84020978312'
+\VALUE_UNITS='m/s'
+\MAXIMUM_VALUE='9.26346605916'
+\REFERENCE='Howard & Fulton, 2016'
+\BIBCODE='2016arXiv160603134H'
+\TELESCOPE='10m Keck I'
+\INSTRUMENT='k: pre-upgrade Keck HIRES (on or before August 19 2004)'
+\WAVELENGTH_CALIBRATION_TECHNIQUE='Iodine'
+\OBSERVATORY_SITE='Mauna Kea, Hawaii'
+\COLUMN_RADIAL_VELOCITY='Relative radial velocity'
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY='Uncertainty in RADIAL_VELOCITY'
+|          HJD|Radial_Velocity|Radial_Velocity_Uncertainty|
+|       double|         double|                     double|
+|         days|          m / s|                      m / s|
+|         null|           null|                       null|
+ 2450462.69711  -3.85144025187                   1.1214142 
+ 2450715.14363   4.29519671102                   1.2457398 
+ 2450806.91659 -0.452995122479                   1.1471783 
+ 2450838.80473  -2.01866132121                    1.122282 
+ 2451043.11523   3.65922564168                   1.0811239 
+ 2451072.03477   2.29518145223                   1.1753591 
+ 2451072.99815 -0.763000310468                   1.4077528 
+ 2451170.87495  -1.29923993449                    1.248474 
+ 2451229.74955  -7.84020978312                   1.2635962 
+ 2451410.14125 -0.748092473554                     1.39633 
+  2451550.8147 -0.398841680097                   1.2950718 
+ 2451551.69159   2.57878130574                   1.3095658 
+ 2451552.68965   3.69168871541                   1.4465089 
+ 2451793.14672   9.26346605916                   1.1867911 
+ 2451899.94287   6.72554796834                   0.9874449 
+ 2452188.06206  -5.16283398967                   1.4387407 
+ 2452536.04994  -2.43089401277                   0.8839024 
+ 2452601.98361   4.27851122518                   1.2276362 
+ 2452851.13568  -2.13793927531                     1.35637 
+ 2452987.88862  0.185699640704                   1.1495062 

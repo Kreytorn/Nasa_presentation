@@ -1,0 +1,60 @@
+\STAR_ID                                  = "HD 185269"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "38"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2453551.55350"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453934.42560"
+\MINIMUM_VALUE                            = "502.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "716.00"
+\REFERENCE                                = "Moutou et al. 2006 (A&A, 458, 327)"
+\BIBCODE                                  = "2006A&A...458..327M"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "ELODIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453551.55350            535.00                          0.01
+  2453552.57440            639.00                          0.01
+  2453553.54090            697.00                          0.01
+  2453554.55910            690.00                          0.01
+  2453555.54490            663.00                          0.01
+  2453574.55610            687.00                          0.01
+  2453576.51360            631.00                          0.01
+  2453577.53300            532.00                          0.01
+  2453587.46980            672.00                          0.01
+  2453588.45620            677.00                          0.01
+  2453589.46500            606.00                          0.01
+  2453590.45090            631.00                          0.01
+  2453591.48810            530.00                          0.01
+  2453592.41560            543.00                          0.01
+  2453594.47180            672.00                          0.01
+  2453596.43110            677.00                          0.01
+  2453610.43430            652.00                          0.01
+  2453613.41040            593.00                          0.01
+  2453624.43320            630.00                          0.01
+  2453625.37140            551.00                          0.01
+  2453626.37360            508.00                          0.01
+  2453627.36100            597.00                          0.01
+  2453628.32940            672.00                          0.01
+  2453667.33630            502.00                          0.01
+  2453720.25140            617.00                          0.01
+  2453723.22240            603.00                          0.01
+  2453808.68270            640.00                          0.01
+  2453869.60890            672.00                          0.01
+  2453871.55960            538.00                          0.01
+  2453872.61180            538.00                          0.01
+  2453873.56570            589.00                          0.02
+  2453875.60370            716.00                          0.01
+  2453894.58770            648.00                          0.01
+  2453896.56560            683.00                          0.01
+  2453897.56800            681.00                          0.01
+  2453901.58760            661.00                          0.01
+  2453932.46560            609.00                          0.02
+  2453934.42560            518.00                          0.01

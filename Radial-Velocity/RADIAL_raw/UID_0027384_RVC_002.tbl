@@ -1,0 +1,33 @@
+\STAR_ID                                  = "HD 38801"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "11"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2453695.0902"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454787.0288"
+\MINIMUM_VALUE                            = "-159.0"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "145.0"
+\REFERENCE                                = "Harakawa et al. 2010 (ApJ, 715, 550)"
+\BIBCODE                                  = "2010ApJ...715..550H"
+\TELESCOPE                                = "8.2m Subaru"
+\INSTRUMENT                               = "HDS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2453695.0902            -159.0                           4.2
+  2453695.9883            -151.3                           4.0
+  2453727.0304            -115.4                           4.8
+  2454081.9436             105.9                           4.0
+  2454082.9788             101.9                           4.7
+  2454085.9284              92.2                           4.8
+  2454087.0406              89.0                           4.1
+  2454470.9194             -19.9                           4.6
+  2454523.7729              59.0                           3.5
+  2454744.0407             145.0                           4.1
+  2454787.0288              89.6                           3.9

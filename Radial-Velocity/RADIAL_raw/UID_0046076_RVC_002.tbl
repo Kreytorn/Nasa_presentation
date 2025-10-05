@@ -1,0 +1,24 @@
+\STAR_ID                                  = "HD 81040"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "3"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2451291.36542"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2451545.63921"
+\MINIMUM_VALUE                            = "49088.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "49319.00"
+\REFERENCE                                = "Sozzetti et al. 2006 (A&A, 449, 417)"
+\BIBCODE                                  = "2006A&A...449..417S"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2451291.36542          49319.00                         12.00
+  2451293.37376          49312.00                         14.00
+  2451545.63921          49088.00                          9.00

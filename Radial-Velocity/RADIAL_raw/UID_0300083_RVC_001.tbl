@@ -1,0 +1,24 @@
+\STAR_ID                                  = "CoRot-7"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "2"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2454514.32514"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454517.40230"
+\MINIMUM_VALUE                            = "31139.20"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "31144.40"
+\REFERENCE                                = "Leger et al. 2009 (A&A, 506, 287)"
+\BIBCODE                                  = "2009A&A...506..287L"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2454514.32514          31144.40                          9.50
+  2454517.40230          31139.20                          7.30

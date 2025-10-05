@@ -1,0 +1,30 @@
+\STAR_ID                                  = "WASP-2"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "9"
+\TIME_REFERENCE_FRAME                     = "HJD"
+\MINIMUM_DATE                             = "2453981.5065"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453998.3415"
+\MINIMUM_VALUE                            = "-28125.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-27711.00"
+\REFERENCE                                = "Collier Cameron et al. 2007 (MNRAS, 375, 951)"
+\BIBCODE                                  = "2007MNRAS.375..951C"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          HJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2453981.5065         -28125.00                        186.00
+  2453982.3786         -27711.00                         12.00
+  2453982.4962         -27736.00                         13.00
+  2453991.3817         -27780.00                         11.00
+  2453991.5102         -27812.00                         11.00
+  2453996.3529         -28037.00                         11.00
+  2453996.4301         -28020.00                         12.00
+  2453997.3824         -27723.00                         12.00
+  2453998.3415         -27987.00                         11.00

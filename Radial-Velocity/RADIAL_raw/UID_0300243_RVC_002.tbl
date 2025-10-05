@@ -1,0 +1,26 @@
+\STAR_ID                            = "Kepler-77"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "4"
+\TIME_REFERENCE_FRAME               = "HJD-UTC"
+\MINIMUM_DATE                       = "2455701.825950"
+\MAXIMUM_DATE                       = "2455705.785250"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-24862.0"
+\MAXIMUM_VALUE                      = "-24742.0"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Gandolfi et al. 2013 (2013, A&A, 557A, 74)"
+\BIBCODE                            = "2013A&A...557A..74G"
+\TELESCOPE                          = "2.1m McDonald"
+\INSTRUMENT                         = "Sandiford"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Gas Cell Absorption (Iodine)"
+\OBSERVATORY_SITE                   = "McDonald Observatory, Texas"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455701.825950         -24862.00                         42.00
+  2455703.806040         -24742.00                         34.00
+  2455704.933670         -24818.00                         42.00
+  2455705.785250         -24810.00                         26.00

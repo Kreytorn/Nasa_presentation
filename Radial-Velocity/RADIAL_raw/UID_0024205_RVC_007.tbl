@@ -1,0 +1,33 @@
+\STAR_ID                                  = "HD 33636"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "11"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2450831.7357"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2451945.7179"
+\MINIMUM_VALUE                            = "-87.6"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "150.9"
+\REFERENCE                                = "Vogt et al. 2002 (ApJ, 568, 352)"
+\BIBCODE                                  = "2002ApJ...568..352V"
+\TELESCOPE                                = "3.0m Shane and 0.6m CAT"
+\INSTRUMENT                               = "Hamilton echelle spectrograph"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Lick Observatory, California"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2450831.7357             -87.6                          30.1
+  2451154.7925             150.9                          11.3
+  2451447.0323             101.4                          10.5
+  2451607.6845               8.5                          12.8
+  2451628.6289              22.9                          12.0
+  2451859.9447             -65.5                           9.3
+  2451860.9068             -64.6                          10.2
+  2451913.7822             -86.2                           6.1
+  2451914.8443             -87.5                           7.9
+  2451915.8011             -82.7                           8.0
+  2451945.7179             -80.6                           5.7

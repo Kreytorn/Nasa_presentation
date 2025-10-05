@@ -1,0 +1,24 @@
+\STAR_ID                                  = "Gamma Cephei"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "3"
+\TIME_REFERENCE_FRAME                     = "MJD"
+\MINIMUM_DATE                             = "2443731.34"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2444488.28"
+\MINIMUM_VALUE                            = "-42900.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-41500.00"
+\REFERENCE                                = "Griffin et al. 2002 (Obs, 122, 90)"
+\BIBCODE                                  = "2002Obs...122...90G"
+\TELESCOPE                                = "0.6m"
+\INSTRUMENT                               = "Fick spectometer"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Not Given"
+\OBSERVATORY_SITE                         = "Erwin W. Fick Observatory, Ames, Iowa"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|        MJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|     double |          double |                      double |
+|       days |             m/s |                         m/s |
+  2443731.34         -41500.00                        700.00
+  2443756.27         -42400.00                        200.00
+  2444488.28         -42900.00                        400.00

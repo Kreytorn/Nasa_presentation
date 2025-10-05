@@ -1,0 +1,42 @@
+\STAR_ID                                  = "CoRoT-2"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "21"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454345.5225"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454345.6709"
+\MINIMUM_VALUE                            = "22928.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "23496.00"
+\REFERENCE                                = "Bouchy et al. 2008 (A&AL, 482, 25)"
+\BIBCODE                                  = "2008A&A...482L..25B"
+\TELESCOPE                                = "3.6m"
+\INSTRUMENT                               = "HARPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454345.5225          23371.00                         20.00
+  2454345.5298          23371.00                         19.00
+  2454345.5371          23392.00                         18.00
+  2454345.5444          23360.00                         18.00
+  2454345.5517          23347.00                         19.00
+  2454345.5590          23370.00                         18.00
+  2454345.5663          23456.00                         18.00
+  2454345.5736          23488.00                         20.00
+  2454345.5809          23496.00                         22.00
+  2454345.5883          23394.00                         19.00
+  2454345.5956          23271.00                         18.00
+  2454345.6029          23190.00                         18.00
+  2454345.6124          23060.00                         18.00
+  2454345.6197          23005.00                         17.00
+  2454345.6270          22939.00                         18.00
+  2454345.6343          22928.00                         18.00
+  2454345.6417          23034.00                         19.00
+  2454345.6490          23093.00                         19.00
+  2454345.6563          23107.00                         19.00
+  2454345.6636          23090.00                         19.00
+  2454345.6709          23034.00                         20.00

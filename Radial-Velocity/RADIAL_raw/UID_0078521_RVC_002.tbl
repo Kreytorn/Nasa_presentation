@@ -1,0 +1,34 @@
+\STAR_ID                                  = "HD 143361"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "12"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2450864.5793"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2452501.8720"
+\MINIMUM_VALUE                            = "-68.8"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "62.2"
+\REFERENCE                                = "Minniti et al. 2009 (ApJ, 693, 1424)"
+\BIBCODE                                  = "2009ApJ...693.1424M"
+\TELESCOPE                                = "6.5m Magellan II (Clay)"
+\INSTRUMENT                               = "MIKE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Las Campanas Observatory, Chile"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2450864.5793              62.1                           6.8
+  2451130.8371              19.5                           2.4
+  2451872.7370              53.2                           2.5
+  2451987.5051              62.2                           3.0
+  2451988.4946              51.3                           2.6
+  2452190.8055              25.7                           3.2
+  2452217.8473              20.0                           3.0
+  2452277.6582              -0.4                           3.2
+  2452299.5595              -8.3                           2.6
+  2452300.5804              -7.7                           2.2
+  2452339.5005             -23.6                           3.2
+  2452501.8720             -68.8                           2.9

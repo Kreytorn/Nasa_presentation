@@ -1,0 +1,47 @@
+\STAR_ID                            = "WASP-62"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "25"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455651.489800"
+\MAXIMUM_DATE                       = "2456021.514800"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "14899.0"
+\MAXIMUM_VALUE                      = "15056.0"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Hellier et al. 2012 (2012, MNRAS, 426, 739)"
+\BIBCODE                            = "2012MNRAS.426..739H"
+\TELESCOPE                          = "1.2m Euler/ESO"
+\INSTRUMENT                         = "CORALIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "ESO La Silla, Chile"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455651.489800          15039.00                          9.00
+  2455675.498500          14921.00                         10.00
+  2455676.471000          14963.00                          9.00
+  2455677.499200          15023.00                          9.00
+  2455678.494700          14985.00                         10.00
+  2455681.472400          15017.00                         10.00
+  2455682.476500          15032.00                         10.00
+  2455683.480700          14963.00                         10.00
+  2455684.473300          14899.00                          9.00
+  2455685.472300          14969.00                         11.00
+  2455692.497500          14953.00                         13.00
+  2455693.494700          14928.00                         10.00
+  2455809.857100          15027.00                         12.00
+  2455810.909100          14979.00                         11.00
+  2455811.881300          14922.00                         15.00
+  2455815.873000          14924.00                         10.00
+  2455836.873600          14998.00                         10.00
+  2455839.862500          14957.00                         10.00
+  2455840.886100          15017.00                         10.00
+  2455850.843400          14981.00                         11.00
+  2455864.845300          14910.00                          9.00
+  2455881.852800          14979.00                         10.00
+  2455888.696300          14991.00                         11.00
+  2455889.669100          15056.00                         10.00
+  2456021.514800          15039.00                         12.00

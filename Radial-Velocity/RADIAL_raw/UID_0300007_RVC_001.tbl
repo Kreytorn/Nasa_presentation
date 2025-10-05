@@ -1,0 +1,28 @@
+\STAR_ID                                  = "XO-1"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "6"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2453779.941"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453824.815"
+\MINIMUM_VALUE                            = "-111"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "128"
+\REFERENCE                                = "McCullough et al. 2006 (ApJ, 648, 1228)"
+\BIBCODE                                  = "2006ApJ...648.1228M"
+\TELESCOPE                                = "9.2m Hobby Eberly Telescope (HET)"
+\INSTRUMENT                               = "HRS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "McDonald Observatory, Texas"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|      double |          double |                      double |
+|        days |             m/s |                         m/s |
+  2453779.941                87                            15
+  2453796.894                41                            17
+  2453799.884               112                            14
+  2453801.887              -111                            15
+  2453815.848               128                            21
+  2453824.815               -34                            18

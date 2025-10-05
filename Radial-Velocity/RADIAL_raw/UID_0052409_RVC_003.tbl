@@ -1,0 +1,34 @@
+\STAR_ID                                  = "HD 92788"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "12"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2451552.106"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2451755.737"
+\MINIMUM_VALUE                            = "-79.45"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "88.15"
+\REFERENCE                                = "Fischer et al. 2001 (ApJ, 551, 1107)"
+\BIBCODE                                  = "2001ApJ...551.1107F"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|      double |          double |                      double |
+|        days |             m/s |                         m/s |
+  2451552.106             34.62                          4.03
+  2451553.034             34.56                          3.86
+  2451581.979             -4.51                          3.55
+  2451582.969              0.00                          3.32
+  2451583.942              2.88                          3.23
+  2451584.991             -1.95                          2.55
+  2451585.962             -1.89                          3.50
+  2451678.910            -79.45                          5.17
+  2451703.796            -70.21                          4.92
+  2451705.795            -66.89                          4.94
+  2451706.792            -66.76                          4.92
+  2451755.737             88.15                          6.88

@@ -1,0 +1,32 @@
+\STAR_ID                                  = "WASP-7"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "11"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454329.71524"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454386.61194"
+\MINIMUM_VALUE                            = "-29962.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-29705.90"
+\REFERENCE                                = "Hellier et al. 2008 (ApJL, 690, 89)"
+\BIBCODE                                  = "2009ApJ...690L..89H"
+\TELESCOPE                                = "1.2m Euler Swiss telescope"
+\INSTRUMENT                               = "CORALIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2454329.71524         -29823.80                         21.40
+  2454330.79865         -29705.90                         18.20
+  2454359.54361         -29840.00                         19.60
+  2454362.52524         -29962.00                         20.20
+  2454364.55740         -29757.50                         22.10
+  2454376.57881         -29854.00                         17.10
+  2454378.59076         -29866.20                         19.40
+  2454379.57799         -29785.80                         22.20
+  2454380.63008         -29816.90                         17.30
+  2454382.66066         -29935.50                         21.00
+  2454386.61194         -29884.50                         22.90

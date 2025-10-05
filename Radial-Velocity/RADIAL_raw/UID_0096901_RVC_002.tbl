@@ -1,0 +1,50 @@
+\STAR_ID                                  = "16 Cyg B"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "29"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2448485.7305"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2450355.6328"
+\MINIMUM_VALUE                            = "-39.6"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "52.7"
+\REFERENCE                                = "Cochran et al. 1997 (ApJ, 483, 457)"
+\BIBCODE                                  = "1997ApJ...483..457C"
+\TELESCOPE                                = "2.7m Harlan J. Smith (HJS) telescope"
+\INSTRUMENT                               = "6ftCS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "McDonald Observatory, Texas"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2448485.7305              -4.2                          16.8
+  2448524.6562              22.6                          21.9
+  2448783.8398              41.5                          20.5
+  2448823.8984               8.7                          16.7
+  2448852.7734              22.2                          21.3
+  2448882.5742              52.7                          19.6
+  2448901.6875               5.8                          20.4
+  2448943.6328             -13.2                          22.8
+  2449146.9102             -37.3                          22.1
+  2449220.7812             -10.8                          19.5
+  2449258.7500              -5.1                          20.5
+  2449286.6367             -27.9                          17.1
+  2449521.8984              20.5                          21.4
+  2449588.7305              51.5                          16.0
+  2449616.6602              45.3                          24.2
+  2449647.6289              44.4                          14.6
+  2449668.5430              13.7                          22.6
+  2449703.5508              35.7                          18.1
+  2449816.9023             -37.6                          21.0
+  2449861.9141             -13.6                          19.5
+  2449876.8438              -6.9                          21.9
+  2449916.7930              -7.6                          17.2
+  2449946.8125             -39.6                          19.4
+  2449963.7070             -33.6                          16.1
+  2449994.6055              -5.0                          16.4
+  2450204.9258              19.7                          21.6
+  2450235.9023              38.5                          19.6
+  2450292.7539              20.9                          22.8
+  2450355.6328              45.5                          19.0

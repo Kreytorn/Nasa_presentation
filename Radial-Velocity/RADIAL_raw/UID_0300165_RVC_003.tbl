@@ -1,0 +1,33 @@
+\STAR_ID                            = "CoRoT-18"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "11"
+\TIME_REFERENCE_FRAME               = "HJD-UTC"
+\MINIMUM_DATE                       = "2455484.670400"
+\MAXIMUM_DATE                       = "2455580.367300"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "28933.0"
+\MAXIMUM_VALUE                      = "30132.0"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Hebrard et al. 2011 (2011, A&A, 533A, 130)"
+\BIBCODE                            = "2011A&A...533A.130H"
+\TELESCOPE                          = "1.93m OHP"
+\INSTRUMENT                         = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "Observatoire de Haute Provence, France"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455484.670400          30132.00                         41.00
+  2455485.662100          29030.00                         62.00
+  2455486.646900          30069.00                         51.00
+  2455505.636700          30102.00                         32.00
+  2455525.602700          28933.00                         86.00
+  2455527.575100          29006.00                         65.00
+  2455529.612100          29178.00                         65.00
+  2455557.522700          29077.00                         96.00
+  2455577.383100          29756.00                         41.00
+  2455578.372100          29241.00                         52.00
+  2455580.367300          29181.00                         94.00

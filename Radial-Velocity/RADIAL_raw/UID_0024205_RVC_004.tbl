@@ -1,0 +1,26 @@
+\STAR_ID                                  = "HD 33636"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "5"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2452495.8868"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2452499.9280"
+\MINIMUM_VALUE                            = "5561.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "5572.00"
+\REFERENCE                                = "Perrier et al. 2003 (A&A, 410, 1039)"
+\BIBCODE                                  = "2003A&A...410.1039P"
+\TELESCOPE                                = "1.2m Euler Swiss telescope"
+\INSTRUMENT                               = "CORALIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2452495.8868           5572.00                         12.00
+  2452496.9268           5563.00                          6.00
+  2452497.9239           5561.00                          6.00
+  2452498.9089           5561.00                          6.00
+  2452499.9280           5567.00                          6.00

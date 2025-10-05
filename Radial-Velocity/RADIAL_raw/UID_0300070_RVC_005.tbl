@@ -1,0 +1,42 @@
+\STAR_ID                                  = "WASP-14"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "21"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454508.5938"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454525.6755"
+\MINIMUM_VALUE                            = "-5975.30"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-4056.40"
+\REFERENCE                                = "Joshi et al. 2009 (MNRAS, 392, 1532)"
+\BIBCODE                                  = "2009MNRAS.392.1532J"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454508.5938          -5356.30                         11.20
+  2454509.5238          -5065.40                         11.40
+  2454509.5830          -4831.30                          9.80
+  2454510.5074          -4587.40                         12.90
+  2454510.5599          -4720.50                         10.60
+  2454510.6509          -4879.80                          9.90
+  2454510.6569          -4895.40                         10.70
+  2454510.6630          -4913.80                         11.10
+  2454510.6860          -4975.80                         10.00
+  2454510.7215          -5090.60                         10.80
+  2454510.7274          -5108.60                         11.20
+  2454511.5572          -5686.50                         10.70
+  2454511.6822          -5342.50                         11.40
+  2454512.5406          -4217.30                         10.90
+  2454512.5682          -4269.60                         12.50
+  2454512.6822          -4439.10                         10.70
+  2454512.7152          -4508.10                         10.30
+  2454515.6212          -5895.00                          9.90
+  2454518.6525          -4585.00                         11.70
+  2454524.6750          -5975.30                         10.70
+  2454525.6755          -4056.40                          9.10

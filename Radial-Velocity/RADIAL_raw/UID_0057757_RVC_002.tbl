@@ -1,0 +1,50 @@
+\STAR_ID='HD 102870'
+\DATA_CATEGORY='Planet Radial Velocity Curve'
+\NUMBER_OF_POINTS='28'
+\TIME_REFERENCE_FRAME='HJD'
+\MINIMUM_DATE='2446959.768'
+\DATE_UNITS='days'
+\MAXIMUM_DATE='2449481.7332'
+\MINIMUM_VALUE='-21.7399998'
+\VALUE_UNITS='m/s'
+\MAXIMUM_VALUE='60.0699997'
+\REFERENCE='Howard & Fulton, 2016'
+\BIBCODE='2016arXiv160603134H'
+\TELESCOPE='3.0m Shane'
+\INSTRUMENT='p: Hamilton Spectrograph dewar 16 (prior to November 1994)'
+\WAVELENGTH_CALIBRATION_TECHNIQUE='Iodine'
+\OBSERVATORY_SITE='Lick Observatory, California'
+\COLUMN_RADIAL_VELOCITY='Relative radial velocity'
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY='Uncertainty in RADIAL_VELOCITY'
+|          HJD|Radial_Velocity|Radial_Velocity_Uncertainty|
+|       double|         double|                     double|
+|         days|          m / s|                      m / s|
+|         null|           null|                       null|
+   2446959.768     -11.8599997                  15.3100014 
+ 2447181.96913      -2.4200001                  10.4700003 
+ 2447182.95013            12.0                       10.46 
+ 2447194.95879      -4.8200002                   6.0299997 
+ 2447224.79778     -21.7399998                   6.8799996 
+ 2447331.71537           -3.55                   8.1199999 
+  2447374.6885      55.8800011                  19.8700008 
+  2447577.8979     -20.5499992                   9.8199997 
+   2447709.704      31.4799995                  10.1400013 
+  2447846.0494      23.5400009                  13.7099991 
+  2447919.9835       9.2200003                  12.8500004 
+ 2448017.77273       9.3400002                   5.7399998 
+ 2448018.76922      16.9599991                   9.8000002 
+  2448019.7292      60.0699997                  15.0799999 
+ 2448374.79675            0.14                   9.4799995 
+ 2448437.70934      25.9799995                   9.8299999 
+  2448438.7105       8.3100004                       13.75 
+ 2448649.04829       5.3000002                        6.75 
+ 2448670.86064      26.9300003                   8.4300003 
+  2448744.8309      31.7999992                  12.8000002 
+ 2448780.70824            2.97                   8.0699997 
+  2448993.0156       6.1799998                  11.3599997 
+ 2449067.81041           -0.37                   8.7700005 
+  2449094.7659      40.0400009                   10.210001 
+ 2449122.73209            3.48                   8.0299997 
+ 2449351.02027      19.4699993                   9.1700001 
+  2449411.8828           11.25                  12.6700001 
+  2449481.7332            0.89                  11.1400003 

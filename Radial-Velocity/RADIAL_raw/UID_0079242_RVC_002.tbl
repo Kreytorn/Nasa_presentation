@@ -1,0 +1,27 @@
+\STAR_ID                                  = "HD 142022A"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "6"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2453232.50698"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453520.71375"
+\MINIMUM_VALUE                            = "-9792.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-9757.00"
+\REFERENCE                                = "Eggenberger et al. 2006 (A&A, 447, 1159)"
+\BIBCODE                                  = "2006A&A...447.1159E"
+\TELESCOPE                                = "3.6m"
+\INSTRUMENT                               = "HARPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453232.50698          -9792.00                          1.00
+  2453237.53093          -9791.00                          1.00
+  2453400.87933          -9771.00                          1.00
+  2453411.88981          -9767.00                          1.00
+  2453511.80965          -9761.00                          1.00
+  2453520.71375          -9757.00                          1.00

@@ -1,0 +1,36 @@
+\STAR_ID                                  = "HD 178911B"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "14"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2451341.972222"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453552.033507"
+\MINIMUM_VALUE                            = "-356.6"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "296.6"
+\REFERENCE                                = "Butler et al. 2006 (ApJ, 646, 505)"
+\BIBCODE                                  = "2006ApJ...646..505B"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|             JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2451341.972222             296.6                           2.7
+  2451369.915775            -222.7                           2.8
+  2451372.890706            -302.0                           2.1
+  2451373.807905            -315.8                           2.8
+  2451411.810880             278.0                           2.2
+  2451706.054363             286.5                           2.9
+  2452062.016215             294.1                           5.0
+  2452128.891563             295.0                           2.5
+  2452446.970984            -334.8                           2.4
+  2452515.819479            -254.5                           3.1
+  2452805.089907            -356.6                           2.2
+  2452849.928738             291.5                           2.8
+  2453180.057662            -115.5                           2.3
+  2453552.033507             235.8                           2.0

@@ -1,0 +1,27 @@
+\STAR_ID                                  = "CoRoT 5"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "6"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454463.4939000"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454544.3463300"
+\MINIMUM_VALUE                            = "48767.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "48947.00"
+\REFERENCE                                = "Rauer et al. 2009 (A&A, 506, 281)"
+\BIBCODE                                  = "2009A&A...506..281R"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|             BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|          double |          double |                      double |
+|            days |             m/s |                         m/s |
+  2454463.4939000          48947.00                         17.00
+  2454465.5247100          48816.00                         28.00
+  2454506.3770000          48767.00                         16.00
+  2454525.3478500          48860.00                         20.00
+  2454528.2886100          48933.00                         31.00
+  2454544.3463300          48925.00                         26.00

@@ -1,0 +1,59 @@
+\STAR_ID                                  = "HD 136118"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "37"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2450832.068993"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2452449.750810"
+\MINIMUM_VALUE                            = "-167."
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "251."
+\REFERENCE                                = "Butler et al. 2006 (ApJ, 646, 505)"
+\BIBCODE                                  = "2006ApJ...646..505B"
+\TELESCOPE                                = "3.0m Shane and 0.6m CAT"
+\INSTRUMENT                               = "Hamilton echelle spectrograph"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Lick Observatory, California"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|             JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2450832.068993              206.                           35.
+  2451004.749225              -40.                           29.
+  2451005.735058                3.                           28.
+  2451026.698437              -26.                           22.
+  2451027.687488              -19.                           18.
+  2451243.013090             -108.                           15.
+  2451298.904884             -127.                           18.
+  2451299.820208             -102.                           14.
+  2451303.867928             -126.                           14.
+  2451304.817894             -133.                           14.
+  2451305.833044             -120.                           13.
+  2451337.757244             -167.                           17.
+  2451362.750579             -140.                           16.
+  2451541.094317             -160.                           15.
+  2451608.002924             -109.                           17.
+  2451627.902106             -117.                           13.
+  2451629.890532             -100.                           15.
+  2451733.724734               75.                           14.
+  2451751.728530               94.                           12.
+  2451752.681620              109.                           14.
+  2451914.095579              251.                           16.
+  2451928.091655              230.                           13.
+  2451946.039037              239.                           11.
+  2451976.046285              176.                           14.
+  2451998.971269              184.                           13.
+  2451999.933427              163.                           13.
+  2452000.978221              125.                           17.
+  2452033.906725              135.                           13.
+  2452040.849780              131.                           11.
+  2452056.871355              135.                           16.
+  2452103.735583               69.                           15.
+  2452121.685556               88.                           12.
+  2452157.645567               42.                           16.
+  2452316.023083              -35.                           11.
+  2452316.076863              -49.                           25.
+  2452448.778333             -153.                           14.
+  2452449.750810             -137.                           14.

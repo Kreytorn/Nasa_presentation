@@ -1,0 +1,27 @@
+\STAR_ID                                  = "HD 217107"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "6"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2451005.962"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2451049.811"
+\MINIMUM_VALUE                            = "-76.55"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "39.86"
+\REFERENCE                                = "Fischer et al. 1999 (PASP, 111, 50)"
+\BIBCODE                                  = "1999PASP..111...50F"
+\TELESCOPE                                = "3.0m Shane"
+\INSTRUMENT                               = "Hamilton echelle spectrograph"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Lick Observatory, California"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+|          JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|      double |          double |                      double |
+|        days |             m/s |                         m/s |
+   2451005.962            -76.55                           9.6
+   2451006.967            -68.69                           9.6
+   2451014.918            -29.73                           9.6
+   2451025.980             39.86                           9.6
+   2451027.941            -61.34                           9.6
+   2451049.811            -73.70                           9.6

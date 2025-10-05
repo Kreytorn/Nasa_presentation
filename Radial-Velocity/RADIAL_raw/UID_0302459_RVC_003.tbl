@@ -1,0 +1,43 @@
+\STAR_ID                            = "HATS-1"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "21"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455721.482000"
+\MAXIMUM_DATE                       = "2456035.651000"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-409.37"
+\MAXIMUM_VALUE                      = "286.48"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Penev et al. 2013 (2013, AJ, 145, 5)"
+\BIBCODE                            = "2013AJ....145....5P"
+\TELESCOPE                          = "2.2m MPG/ESO"
+\INSTRUMENT                         = "FEROS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "ESO La Silla, Chile"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455721.482000           -190.09                         61.09
+  2455722.561000            246.23                         53.72
+  2455723.604000             28.04                         59.75
+  2455724.611000           -409.37                         58.84
+  2455726.630000            157.47                         47.67
+  2455728.539000           -146.13                         56.44
+  2455735.513000           -121.06                         81.73
+  2455736.571000            286.48                         50.45
+  2455737.464000             75.76                         50.47
+  2455738.460000            -90.05                         57.78
+  2455901.840000            281.61                         34.46
+  2455911.841000             79.18                         39.24
+  2455936.867000            274.56                         48.03
+  2455991.751000            108.73                         56.55
+  2456021.750000            -33.57                         57.03
+  2456024.793000            -50.14                         90.16
+  2456025.782000            222.49                         46.75
+  2456029.739000            163.37                         65.29
+  2456031.546000           -256.83                         46.88
+  2456032.702000             81.66                         40.39
+  2456035.651000             27.54                         69.87

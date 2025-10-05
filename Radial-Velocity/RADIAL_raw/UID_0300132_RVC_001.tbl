@@ -1,0 +1,30 @@
+\STAR_ID                            = "WASP-37"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "8"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455305.753200"
+\MAXIMUM_DATE                       = "2455376.668400"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "7668.0"
+\MAXIMUM_VALUE                      = "8152.0"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Simpson et al. 2010 (arXiv, 1008, 3096)"
+\BIBCODE                            = "2011AJ....141....8S"
+\TELESCOPE                          = "1.2m Euler/ESO"
+\INSTRUMENT                         = "CORALIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "ESO La Silla, Chile"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455305.753200           8152.00                         18.00
+  2455310.823600           7678.00                         43.00
+  2455311.851400           7919.00                         25.00
+  2455312.826600           8064.00                         31.00
+  2455321.771600           7668.00                         23.00
+  2455324.711400           7769.00                         22.00
+  2455325.686800           7776.00                         24.00
+  2455376.668400           8103.00                         31.00

@@ -1,0 +1,32 @@
+\STAR_ID                                  = "HD 43848"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "10"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2450626.7557"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2452136.6677"
+\MINIMUM_VALUE                            = "-173.4"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "521.2"
+\REFERENCE                                = "Minniti et al. 2009 (ApJ, 693, 1424)"
+\BIBCODE                                  = "2009ApJ...693.1424M"
+\TELESCOPE                                = "6.5m Magellan II (Clay) telescope"
+\INSTRUMENT                               = "MIKE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Las Campanas Observatory, Chile"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2450626.7557             124.1                           5.8
+  2450920.8278             -90.8                           6.0
+  2450978.7597            -173.4                           7.2
+  2451431.5773             498.7                           3.5
+  2451455.5289             521.2                           3.7
+  2451774.6672             479.7                           4.2
+  2451775.6690             486.9                           7.1
+  2451783.6628             483.0                           3.6
+  2451810.5720             486.9                           3.5
+  2452136.6677             406.5                           3.7

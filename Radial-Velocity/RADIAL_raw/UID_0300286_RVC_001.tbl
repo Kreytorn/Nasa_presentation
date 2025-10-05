@@ -1,0 +1,27 @@
+\STAR_ID                            = "Kepler-74"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "5"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2456155.426800"
+\MAXIMUM_DATE                       = "2456159.389100"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "19308.0"
+\MAXIMUM_VALUE                      = "19430.0"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Hebrard et al. 2013 (2013, A&A, 554A, 114)"
+\BIBCODE                            = "2013A&A...554A.114H"
+\TELESCOPE                          = "3.58m TNG"
+\INSTRUMENT                         = "HARPS-N"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "Observatorio del Roque de los Muchachos, La Palma, Spain"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2456155.426800          19430.00                         12.00
+  2456156.425400          19371.00                          8.00
+  2456157.415000          19308.00                         11.00
+  2456158.413400          19322.00                         16.00
+  2456159.389100          19324.00                         11.00

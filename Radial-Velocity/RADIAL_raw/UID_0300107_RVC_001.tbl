@@ -1,0 +1,35 @@
+\STAR_ID                            = "WASP-21"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "13"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2454624.909500"
+\MAXIMUM_DATE                       = "2455130.641700"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-89506.0"
+\MAXIMUM_VALUE                      = "-89398.0"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Bouchy et al. 2010 (A&A, 2010, in press)"
+\BIBCODE                            = "2010A&A...519A..98B"
+\TELESCOPE                          = "1.2m Euler/ESO"
+\INSTRUMENT                         = "CORALIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "ESO La Silla, Chile"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2454624.909500         -89427.00                         13.00
+  2454661.788300         -89487.00                         12.00
+  2454662.864300         -89475.00                         14.00
+  2454684.854100         -89442.00                         12.00
+  2454686.833300         -89430.00                         14.00
+  2455001.902000         -89424.00                         14.00
+  2455009.882900         -89398.00                         15.00
+  2455013.895100         -89431.00                         15.00
+  2455093.655100         -89506.00                         16.00
+  2455095.665600         -89444.00                         13.00
+  2455096.679500         -89407.00                         14.00
+  2455098.655400         -89500.00                         13.00
+  2455130.641700         -89433.00                         15.00

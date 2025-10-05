@@ -1,0 +1,27 @@
+\STAR_ID                                  = "WASP-11"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "6"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454462.395"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454491.424"
+\MINIMUM_VALUE                            = "4826.20"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "4948.60"
+\REFERENCE                                = "West et al. 2009 (A&A, 502, 395)"
+\BIBCODE                                  = "2009A&A...502..395W"
+\TELESCOPE                                = "2.5m Nordic Optical Telescope (NOT)"
+\INSTRUMENT                               = "FIES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "La Palma, Spain"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|         BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|      double |          double |                      double |
+|        days |             m/s |                         m/s |
+  2454462.395           4868.90                         18.50
+  2454463.456           4872.50                         20.30
+  2454465.404           4920.80                         25.80
+  2454466.440           4826.20                         24.40
+  2454466.443           4948.60                         24.60
+  2454491.424           4933.90                         22.00

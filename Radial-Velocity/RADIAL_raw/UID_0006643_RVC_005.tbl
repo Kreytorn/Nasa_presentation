@@ -1,0 +1,38 @@
+\STAR_ID                                  = "HD 8574"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "16"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2452116.95398"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454018.87142"
+\MINIMUM_VALUE                            = "-62.8"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "95.0"
+\REFERENCE                                = "Wittenmyer et al. 2009 (ApJS, 182, 97)"
+\BIBCODE                                  = "2009ApJS..182...97W"
+\TELESCOPE                                = "2.7m Harlan J. Smith (HJS) telescope"
+\INSTRUMENT                               = "2d coude spectrograph (2dCS)"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "McDonald Observatory, Texas"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2452116.95398              24.0                           9.6
+  2452141.96262              70.0                           8.0
+  2452219.89758             -10.8                          10.0
+  2452249.70181             -30.2                           9.6
+  2452331.61330               1.7                           7.7
+  2452493.90858             -17.4                           9.7
+  2452540.91557             -13.9                           8.9
+  2452658.62787             -18.5                           9.3
+  2452932.83883             -45.8                           8.9
+  2453015.71309              29.6                           9.2
+  2453564.94976               2.1                          10.8
+  2453632.92472             -62.8                           8.6
+  2453635.90969             -22.1                           8.4
+  2453691.75684              -4.6                          10.4
+  2453970.92894              95.0                          13.5
+  2454018.87142               3.7                           9.9

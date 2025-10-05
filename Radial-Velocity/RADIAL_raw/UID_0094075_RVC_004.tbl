@@ -1,0 +1,29 @@
+\STAR_ID                                  = "HD 178911B"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "7"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2451008.976"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2451398.821"
+\MINIMUM_VALUE                            = "-40628.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-40340.00"
+\REFERENCE                                = "Zucker et al. 2002 (ApJ, 568, 363)"
+\BIBCODE                                  = "2002ApJ...568..363Z"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|      double |          double |                      double |
+|        days |             m/s |                         m/s |
+  2451008.976         -40511.00                         13.00
+  2451037.797         -40448.00                         12.00
+  2451292.098         -40440.00                         12.00
+  2451294.111         -40468.00                         10.00
+  2451318.033         -40628.00                          8.00
+  2451318.992         -40577.00                         10.00
+  2451398.821         -40340.00                         14.00

@@ -1,0 +1,26 @@
+\STAR_ID                            = "HATS-2"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "4"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455932.224480"
+\MAXIMUM_DATE                       = "2455939.160160"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-40.53"
+\MAXIMUM_VALUE                      = "75.57"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Mohler-Fischer et al. 2013 (2013, A&A, 558A, 55)"
+\BIBCODE                            = "2013A&A...558A..55M"
+\TELESCOPE                          = "3.9m AAT"
+\INSTRUMENT                         = "CYCLOPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = ""
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455932.224480            -33.63                         21.80
+  2455933.216690            -40.53                         51.20
+  2455934.127740             75.57                         65.58
+  2455939.160160             47.07                         49.44

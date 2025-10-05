@@ -1,0 +1,29 @@
+\STAR_ID                            = "HATS-P-35"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "7"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455466.120940"
+\MAXIMUM_DATE                       = "2455545.148660"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-118.71"
+\MAXIMUM_VALUE                      = "126.39"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Bakos et al. 2012 (arXiv, 1201, 0659)"
+\BIBCODE                            = "2012AJ....144...19B"
+\TELESCOPE                          = "10m Keck"
+\INSTRUMENT                         = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Gas Cell Absorption (Iodine)"
+\OBSERVATORY_SITE                   = "Manua Kea, Hawaii"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455466.120940            -92.77                          2.40
+  2455468.113710            111.39                          1.86
+  2455470.129700           -118.71                          2.72
+  2455501.034680            117.01                          2.39
+  2455523.096950            126.39                          2.09
+  2455529.154600            -55.78                          2.32
+  2455545.148660            103.29                          3.12

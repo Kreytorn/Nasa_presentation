@@ -1,0 +1,44 @@
+\STAR_ID                                  = "Gl 86"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "24"
+\TIME_REFERENCE_FRAME                     = "MJD"
+\MINIMUM_DATE                             = "2454470.519076"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454483.520342"
+\MINIMUM_VALUE                            = "55417.30"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "56348.60"
+\REFERENCE                                = "Figueira et al. 2009 (arXiv, 0912, 2643)"
+\BIBCODE                                  = "2009arXiv0912.2643F"
+\TELESCOPE                                = "8.2m Antu (UT1)"
+\INSTRUMENT                               = "CRIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Not Given"
+\OBSERVATORY_SITE                         = "ESO VLT, Paranal Observatory, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+|            MJD | Radial_Velocity | Photon_Noise |
+|         double |          double |       double |
+|           days |             m/s |          m/s |
+  2454470.519076          55668.10          18.10
+  2454470.519713          55595.70          16.70
+  2454470.520199          55670.50          18.30
+  2454470.520847          55661.70          20.40
+  2454470.521345          55670.30          17.60
+  2454470.521969          55732.20          17.80
+  2454474.547247          56348.60           8.70
+  2454474.547930          56239.60           8.40
+  2454474.548508          56210.50           8.70
+  2454474.549145          56180.60           8.50
+  2454474.551020          56122.60           8.50
+  2454474.551656          56323.70           8.10
+  2454482.535667          55755.50          12.90
+  2454482.536315          55778.00          11.60
+  2454482.536813          55799.00          11.90
+  2454482.537461          55762.70          14.30
+  2454482.537970          55726.30          13.60
+  2454482.538618          55758.90          12.00
+  2454483.517437          55818.80          11.90
+  2454483.518085          55530.50          11.80
+  2454483.518571          55678.00          12.20
+  2454483.519207          55734.60          12.20
+  2454483.519694          55417.30          13.30
+  2454483.520342          55602.10          11.50

@@ -1,0 +1,25 @@
+\STAR_ID                                  = "HAT-P-1"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "4"
+\TIME_REFERENCE_FRAME                     = "HJD"
+\MINIMUM_DATE                             = "2453897.11172"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453901.10176"
+\MINIMUM_VALUE                            = "-37.51"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "52.53"
+\REFERENCE                                = "Johnson et al. 2008 (ApJ, 686, 649)"
+\BIBCODE                                  = "2008ApJ...686..649J"
+\TELESCOPE                                = "8.2m Subaru"
+\INSTRUMENT                               = "HDS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           HJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453897.11172             -2.89                          5.00
+  2453899.12580             52.53                          4.77
+  2453900.11917            -34.51                          4.65
+  2453901.10176            -37.51                          4.88

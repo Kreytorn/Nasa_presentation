@@ -1,0 +1,35 @@
+\STAR_ID                            = "HAT-P-41"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "13"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455375.970500"
+\MAXIMUM_DATE                       = "2455814.940170"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-113.04"
+\MAXIMUM_VALUE                      = "132.24"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Hartman et al. 2012 (2012, AJ, 144, 139)"
+\BIBCODE                            = "2012AJ....144..139H"
+\TELESCOPE                          = "10m Keck"
+\INSTRUMENT                         = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Gas Cell Absorption (Iodine)"
+\OBSERVATORY_SITE                   = "Manua Kea, Hawaii"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455375.970500             92.63                          9.38
+  2455378.123940            -78.22                          9.40
+  2455379.069170            132.24                          9.90
+  2455381.107080            -39.66                         10.23
+  2455400.846690             49.04                         12.32
+  2455404.805950            -52.53                         10.18
+  2455465.878350              5.42                         11.42
+  2455467.872640             65.94                         10.34
+  2455469.895850            -68.65                         10.18
+  2455490.752650           -113.04                         10.38
+  2455500.732460             24.76                          9.14
+  2455704.094410            -67.20                         10.27
+  2455814.940170             16.90                         10.72

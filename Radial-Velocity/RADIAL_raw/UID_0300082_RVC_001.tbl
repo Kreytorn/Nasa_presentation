@@ -1,0 +1,31 @@
+\STAR_ID                                  = "HAT-P-8"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "10"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454336.83041"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454427.80583"
+\MINIMUM_VALUE                            = "-243.7"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "+61.6"
+\REFERENCE                                = "Latham et al. 2009 (ApJ, 704, 1107)"
+\BIBCODE                                  = "2009ApJ...704.1107L"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2454336.83041            -240.9                           4.3
+  2454337.79687             -47.4                           3.9
+  2454337.91459             -19.4                           3.8
+  2454338.80841             +27.0                           3.6
+  2454338.91425               0.0                           3.6
+  2454339.79280            -243.7                           3.4
+  2454343.86602            -100.9                           4.4
+  2454344.99747             +21.4                           4.6
+  2454396.80973             +49.3                           5.0
+  2454427.80583             +61.6                           5.5

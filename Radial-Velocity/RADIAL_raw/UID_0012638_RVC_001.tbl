@@ -1,0 +1,41 @@
+\STAR_ID                                  = "HD 16760"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "20"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454099.3679"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454755.5295"
+\MINIMUM_VALUE                            = "-3968.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-3170.30"
+\REFERENCE                                = "Bouchy et al. 2009 (A&A, 505, 853)"
+\BIBCODE                                  = "2009A&A...505..853B"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454099.3679          -3673.60                          5.50
+  2454126.3439          -3791.60                          5.80
+  2454127.2914          -3808.50                          6.80
+  2454133.2541          -3847.80                          5.50
+  2454138.3414          -3836.60                          5.40
+  2454148.3393          -3889.80                          7.10
+  2454151.3375          -3915.00                          9.20
+  2454155.2737          -3916.80                          6.30
+  2454339.6353          -3366.60                          5.30
+  2454352.6607          -3278.60                          5.80
+  2454367.6375          -3248.10                          5.50
+  2454407.4733          -3180.60                          5.30
+  2454434.4441          -3170.30                          5.50
+  2454502.2489          -3379.80                          5.70
+  2454513.2880          -3435.80                          5.90
+  2454546.2900          -3572.50                          6.10
+  2454683.6329          -3968.00                          5.80
+  2454705.6646          -3904.50                          5.80
+  2454739.5899          -3724.20                          5.90
+  2454755.5295          -3648.80                          5.80

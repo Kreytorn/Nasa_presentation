@@ -1,0 +1,26 @@
+\STAR_ID                                  = "HD 149026"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "4"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2453206.913796"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453241.797685"
+\MINIMUM_VALUE                            = "-42.48"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "38.95"
+\REFERENCE                                = "Sato et al. 2005 (ApJ, 633, 465)"
+\BIBCODE                                  = "2005ApJ...633..465S"
+\TELESCOPE                                = "8.2m Subaru"
+\INSTRUMENT                               = "HDS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|             JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2453206.913796            -24.10                          3.15
+  2453207.935648             38.95                          3.21
+  2453208.908681            -42.48                          3.10
+  2453241.797685              6.06                          4.61

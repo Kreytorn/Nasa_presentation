@@ -1,0 +1,38 @@
+\STAR_ID                                  = "HD 93083"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "16"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2453017.84496"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453400.79648"
+\MINIMUM_VALUE                            = "43626.60"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "43665.10"
+\REFERENCE                                = "Lovis et al. 2005 (A&A, 437, 1121)"
+\BIBCODE                                  = "2005A&A...437.1121L"
+\TELESCOPE                                = "3.6m"
+\INSTRUMENT                               = "HARPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453017.84496          43647.00                          1.40
+  2453036.78231          43660.70                          1.30
+  2453046.66898          43663.80                          1.30
+  2453049.71044          43665.10                          1.30
+  2453055.74405          43658.80                          1.30
+  2453056.75374          43658.70                          1.40
+  2453060.75307          43658.60                          1.30
+  2453145.55149          43632.40                          1.00
+  2453151.57396          43634.50                          1.00
+  2453202.47605          43658.10                          0.90
+  2453205.45320          43659.40                          0.90
+  2453310.85564          43647.80                          0.90
+  2453343.85438          43655.10                          0.80
+  2453375.83553          43636.90                          0.80
+  2453377.84184          43636.20                          0.80
+  2453400.79648          43626.60                          1.20

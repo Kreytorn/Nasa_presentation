@@ -1,0 +1,35 @@
+\STAR_ID                                  = "HAT-P-14"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "14"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454602.85803"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2455106.77226"
+\MINIMUM_VALUE                            = "-213.27"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "200.73"
+\REFERENCE                                = "Torres et al. 2010 (ApJ, 715, 458)"
+\BIBCODE                                  = "2010ApJ...715..458T"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2454602.85803           -193.02                          3.63
+  2454603.10266           -208.31                          2.97
+  2454603.86301           -163.07                          3.39
+  2454604.09553            -95.63                          3.35
+  2454633.99341            197.89                          3.59
+  2454634.93450           -104.57                          3.08
+  2454635.98053           -207.08                          3.48
+  2454637.96376            200.73                          3.10
+  2454639.01426             90.31                          3.34
+  2454641.98653            101.38                          4.20
+  2454777.70610            124.49                          3.94
+  2454955.08247           -213.27                          3.65
+  2455017.01279            126.95                          3.44
+  2455106.77226            -27.59                          4.34

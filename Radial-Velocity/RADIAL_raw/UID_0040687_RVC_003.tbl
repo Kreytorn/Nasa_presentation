@@ -1,0 +1,28 @@
+\STAR_ID                                  = "HD 68988"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "6"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2450913.9219"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2450946.7834"
+\MINIMUM_VALUE                            = "-157.2"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "6.2"
+\REFERENCE                                = "Vogt et al. 2002 (ApJ, 568, 352)"
+\BIBCODE                                  = "2002ApJ...568..352V"
+\TELESCOPE                                = "3.0m Shane and 0.6m CAT"
+\INSTRUMENT                               = "Hamilton echelle spectrograph"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Lick Observatory, California"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2450913.9219               6.2                           8.0
+  2450914.8319            -139.6                           8.8
+  2450915.7716            -150.0                           7.5
+  2450927.7894            -146.3                           8.8
+  2450945.8093             -99.5                           8.5
+  2450946.7834            -157.2                          10.8

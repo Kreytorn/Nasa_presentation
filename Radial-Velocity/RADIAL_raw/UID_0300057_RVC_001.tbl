@@ -1,0 +1,35 @@
+\STAR_ID                                  = "WASP-4"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "14"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454359.71082"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454409.51932"
+\MINIMUM_VALUE                            = "57495.24"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "57957.03"
+\REFERENCE                                = "Wilson et al. 2008 (ApJ, 675, L113)"
+\BIBCODE                                  = "2008ApJ...675L.113W"
+\TELESCOPE                                = "1.2m Euler Swiss telescope"
+\INSTRUMENT                               = "CORALIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2454359.71082          57565.57                         18.64
+  2454362.63121          57795.51                         18.83
+  2454364.65260          57672.71                         22.23
+  2454365.73690          57957.03                         16.13
+  2454372.75799          57586.19                         14.96
+  2454376.68882          57646.42                         14.51
+  2454378.66887          57792.07                         13.25
+  2454379.73630          57508.46                         14.70
+  2454380.61034          57774.11                         13.03
+  2454382.79025          57863.96                         18.23
+  2454383.55277          57510.00                         14.34
+  2454387.61904          57495.24                         14.57
+  2454408.66110          57775.56                         16.82
+  2454409.51932          57826.66                         21.56

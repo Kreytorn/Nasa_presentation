@@ -1,0 +1,35 @@
+\STAR_ID                            = "Kepler-17"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "13"
+\TIME_REFERENCE_FRAME               = "HJD-UTC"
+\MINIMUM_DATE                       = "2455430.839929"
+\MAXIMUM_DATE                       = "2455522.579531"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-511.48"
+\MAXIMUM_VALUE                      = "528.51"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Desert et al. 2011 (ApJS, , 197, 14)"
+\BIBCODE                            = "2011ApJS..197...14D"
+\TELESCOPE                          = "9m HET"
+\INSTRUMENT                         = "HRS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Gas Cell Absorption (Iodine)"
+\OBSERVATORY_SITE                   = "McDonald Observatory, Texas"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455430.839929           -142.61                         67.08
+  2455431.812259            325.71                         49.17
+  2455432.819992           -300.32                         90.74
+  2455442.794995           -119.08                         43.22
+  2455443.765027            528.51                        198.75
+  2455448.768015           -158.75                         51.43
+  2455452.748541            358.36                         61.44
+  2455472.707059           -413.96                         25.96
+  2455480.686032            138.23                         56.24
+  2455494.639064             83.68                         36.83
+  2455496.636013           -511.48                         60.28
+  2455518.588037           -205.45                         56.70
+  2455522.579531            417.16                         28.10

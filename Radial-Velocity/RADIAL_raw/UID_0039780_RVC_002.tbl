@@ -1,0 +1,38 @@
+\STAR_ID='HD 67228'
+\DATA_CATEGORY='Planet Radial Velocity Curve'
+\NUMBER_OF_POINTS='16'
+\TIME_REFERENCE_FRAME='HJD'
+\MINIMUM_DATE='2451532.98438'
+\DATE_UNITS='days'
+\MAXIMUM_DATE='2453134.73242'
+\MINIMUM_VALUE='-17.6745308187'
+\VALUE_UNITS='m/s'
+\MAXIMUM_VALUE='39.5368733676'
+\REFERENCE='Howard & Fulton, 2016'
+\BIBCODE='2016arXiv160603134H'
+\TELESCOPE='10m Keck I'
+\INSTRUMENT='k: pre-upgrade Keck HIRES (on or before August 19 2004)'
+\WAVELENGTH_CALIBRATION_TECHNIQUE='Iodine'
+\OBSERVATORY_SITE='Mauna Kea, Hawaii'
+\COLUMN_RADIAL_VELOCITY='Relative radial velocity'
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY='Uncertainty in RADIAL_VELOCITY'
+|          HJD|Radial_Velocity|Radial_Velocity_Uncertainty|
+|       double|         double|                     double|
+|         days|          m / s|                      m / s|
+|         null|           null|                       null|
+ 2451532.98438   20.8152592071                    9.405447 
+ 2451534.94629   18.5322611295                   9.7056894 
+  2451539.9375    26.373992546                   8.2348528 
+ 2451581.81055   39.5368733676                   9.2251015 
+ 2451607.78222    17.553599404                   6.6630893 
+ 2451626.67871   16.9594399294                   8.2678881 
+ 2451629.72852   28.8116004143                   8.5396948 
+ 2451871.99316   9.58221570266                   9.1507721 
+ 2451939.85254   27.6868546996                   8.0048237 
+ 2451945.85059   30.6944566769                   7.2387466 
+ 2452333.75879   9.13852692167                   7.8648338 
+ 2452990.93066  -2.27370164552                   5.5185103 
+ 2452991.98535  -1.69988002982                   6.1500149 
+  2453010.9043  -17.6745308187                    7.443037 
+ 2453068.73242  -8.79982585738                    5.881187 
+ 2453134.73242  -7.13294839205                   6.3170981 

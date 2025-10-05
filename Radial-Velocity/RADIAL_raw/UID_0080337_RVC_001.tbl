@@ -1,0 +1,51 @@
+\STAR_ID                                  = "HD 147513"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "30"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2451022.5720"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2452712.8544"
+\MINIMUM_VALUE                            = "12888.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "12962.00"
+\REFERENCE                                = "Mayor et al. 2004 (A&A, 415, 391)"
+\BIBCODE                                  = "2004A&A...415..391M"
+\TELESCOPE                                = "1.2m Euler Swiss telescope"
+\INSTRUMENT                               = "CORALIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2451022.5720          12913.00                          8.00
+  2451219.8394          12958.00                          6.00
+  2451219.8465          12954.00                          4.00
+  2451220.8645          12962.00                          4.00
+  2451223.8822          12952.00                          4.00
+  2451224.8302          12943.00                          4.00
+  2451256.8549          12939.00                          5.00
+  2451297.8479          12937.00                          4.00
+  2451702.7352          12954.00                          6.00
+  2452090.6507          12899.00                          4.00
+  2452101.6133          12888.00                          5.00
+  2452142.5822          12913.00                          4.00
+  2452177.5308          12908.00                          7.00
+  2452353.8665          12936.00                          3.00
+  2452354.7434          12937.00                          3.00
+  2452359.7892          12943.00                          3.00
+  2452361.7667          12940.00                          3.00
+  2452434.7056          12923.00                          4.00
+  2452437.7078          12924.00                          5.00
+  2452439.5814          12910.00                          4.00
+  2452441.6265          12921.00                          4.00
+  2452445.7243          12923.00                          4.00
+  2452450.6585          12923.00                          4.00
+  2452454.6830          12916.00                          4.00
+  2452486.5376          12904.00                          6.00
+  2452490.5821          12912.00                          4.00
+  2452495.5860          12899.00                          4.00
+  2452497.5408          12913.00                          4.00
+  2452704.9029          12929.00                          4.00
+  2452712.8544          12937.00                          3.00

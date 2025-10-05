@@ -1,0 +1,33 @@
+\STAR_ID                            = "WASP-77 A"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "11"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455069.780300"
+\MAXIMUM_DATE                       = "2455918.664500"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "1324.6"
+\MAXIMUM_VALUE                      = "1969.6"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Maxted et al. 2013 (2013, PASP, 125, 48)"
+\BIBCODE                            = "2013PASP..125...48M"
+\TELESCOPE                          = "1.2m Euler/ESO"
+\INSTRUMENT                         = "CORALIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "ESO La Silla, Chile"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455069.780300           1324.60                          4.90
+  2455163.609100           1336.20                          5.20
+  2455169.692000           1967.30                          4.90
+  2455170.662500           1570.60                          5.30
+  2455188.625800           1969.60                          5.40
+  2455856.709500           1865.50                          5.30
+  2455914.678300           1710.50                          4.30
+  2455915.677500           1332.80                          4.40
+  2455916.668100           1708.70                          4.80
+  2455917.650000           1954.40                          4.70
+  2455918.664500           1554.20                          6.50

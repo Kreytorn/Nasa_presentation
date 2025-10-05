@@ -1,0 +1,42 @@
+\STAR_ID                                  = "WASP-12"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "21"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454509.38633"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454519.43071"
+\MINIMUM_VALUE                            = "18849.70"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "19321.30"
+\REFERENCE                                = "Hebb et al. 2009 (ApJ, 693, 1920)"
+\BIBCODE                                  = "2009ApJ...693.1920H"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2454509.38633          18923.10                          8.80
+  2454509.53836          19084.50                         11.20
+  2454510.40255          18849.70                         10.20
+  2454511.29105          18939.40                          8.20
+  2454511.36791          18900.80                          9.00
+  2454511.40825          18858.20                          9.00
+  2454511.53661          18894.50                         10.80
+  2454512.28835          19064.80                          8.80
+  2454512.30278          19042.90                          8.40
+  2454512.31570          19029.80                          9.60
+  2454512.32867          19006.40                          9.00
+  2454512.34174          18997.30                          8.80
+  2454512.35470          18977.80                          8.60
+  2454512.40579          18917.60                          9.00
+  2454512.43225          18912.40                          8.80
+  2454512.44721          18893.60                          8.60
+  2454513.32972          19095.70                         12.80
+  2454514.30357          19210.50                         13.00
+  2454515.27220          19321.30                         10.60
+  2454516.40210          19296.10                         12.80
+  2454519.43071          19196.80                          8.80

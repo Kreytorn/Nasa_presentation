@@ -1,0 +1,34 @@
+\STAR_ID                                  = "HD 45652"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "12"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2454044.67360"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454174.29350"
+\MINIMUM_VALUE                            = "-5030.80"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-4976.30"
+\REFERENCE                                = "Santos et al. 2008 (A&A, 487, 369)"
+\BIBCODE                                  = "2008A&A...487..369S"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2454044.67360          -4976.30                          3.50
+  2454044.68380          -4980.50                          3.40
+  2454050.66630          -4984.70                          3.80
+  2454053.63090          -4986.20                          3.60
+  2454078.56860          -4979.00                          4.50
+  2454088.56780          -4986.50                          5.10
+  2454138.40400          -5000.10                          5.60
+  2454142.48580          -5004.80                          5.50
+  2454152.40650          -5019.40                          3.40
+  2454152.41540          -5030.80                          5.10
+  2454154.37280          -5008.80                          5.90
+  2454174.29350          -4978.90                          3.30

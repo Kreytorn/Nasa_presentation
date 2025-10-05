@@ -1,0 +1,41 @@
+\STAR_ID                                  = "NGC 4349 127"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "20"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2453449.782978"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454233.616624"
+\MINIMUM_VALUE                            = "-11560.43"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-11286.37"
+\REFERENCE                                = "Lovis & Mayor 2007 (A&A, 472, 657)"
+\BIBCODE                                  = "2007A&A...472..657L"
+\TELESCOPE                                = "3.6m"
+\INSTRUMENT                               = "HARPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2453449.782978         -11333.46                          2.46
+  2453460.835689         -11383.21                          3.58
+  2453469.789958         -11399.41                          2.31
+  2453499.577320         -11484.08                          4.44
+  2453500.640853         -11483.48                          9.51
+  2453787.794345         -11490.31                          2.23
+  2453812.758284         -11485.78                          2.74
+  2453833.702527         -11417.48                          1.97
+  2453862.612367         -11392.02                          2.05
+  2453883.589298         -11350.62                          1.74
+  2453922.499118         -11330.90                          4.30
+  2453950.475526         -11286.37                          2.99
+  2454117.845316         -11337.07                          4.04
+  2454137.805538         -11375.90                          2.01
+  2454169.723278         -11453.19                          1.78
+  2454194.778924         -11492.12                          2.26
+  2454202.725180         -11543.09                          1.93
+  2454225.659229         -11556.65                          3.73
+  2454228.668949         -11549.85                          2.66
+  2454233.616624         -11560.43                          3.18

@@ -1,0 +1,25 @@
+\STAR_ID                                  = "HD 132406"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "4"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454080.7252"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454230.5803"
+\MINIMUM_VALUE                            = "-37790.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-37718.00"
+\REFERENCE                                = "da Silva et al. 2007 (A&A, 473, 323)"
+\BIBCODE                                  = "2007A&A...473..323D"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454080.7252         -37718.00                          3.00
+  2454173.6848         -37752.00                          4.00
+  2454187.6332         -37770.00                          4.00
+  2454230.5803         -37790.00                          4.00

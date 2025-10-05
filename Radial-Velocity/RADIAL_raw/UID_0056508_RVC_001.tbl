@@ -1,0 +1,35 @@
+\STAR_ID                            = "HD 100655"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "13"
+\TIME_REFERENCE_FRAME               = "JD-UTC"
+\MINIMUM_DATE                       = "2453428.216600"
+\MAXIMUM_DATE                       = "2454994.059700"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-29.7"
+\MAXIMUM_VALUE                      = "77.2"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Omiya et al. 2012 (2012, PASJ, 64, 34)"
+\BIBCODE                            = "2012PASJ...64...34O"
+\TELESCOPE                          = "1.8m BOAO"
+\INSTRUMENT                         = "BOES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Gas Cell Absorption (Iodine)"
+\OBSERVATORY_SITE                   = "Bohyunsan Optical Astronomy Observatory, Korea"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2453428.216600              3.90                          8.40
+  2453809.144300             77.20                          9.20
+  2453889.061400             -4.50                          8.70
+  2454081.338200             58.10                         10.40
+  2454123.207400             67.90                          8.80
+  2454224.087300             33.20                         12.10
+  2454471.322900             30.00                          8.10
+  2454505.757400            -24.30                          8.80
+  2454833.336700             14.40                          9.00
+  2454930.015200             45.30                         10.00
+  2454931.059700             31.70                          7.70
+  2454971.060900             -4.80                          9.80
+  2454994.059700            -29.70                          9.30

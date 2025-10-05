@@ -1,0 +1,32 @@
+\STAR_ID                                  = "HD 38801"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "10"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2453982.1185"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454838.9756"
+\MINIMUM_VALUE                            = "-180.3"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "202.8"
+\REFERENCE                                = "Harakawa et al. 2010 (ApJ, 715, 550)"
+\BIBCODE                                  = "2010ApJ...715..550H"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2453982.1185             201.4                           0.9
+  2453983.1122             196.8                           0.9
+  2453984.1088             202.8                           0.9
+  2454130.8895              13.4                           1.2
+  2454138.9172              -6.9                           1.2
+  2454344.1185            -180.3                           0.8
+  2454398.0809            -154.4                           0.9
+  2454427.9607             -93.3                           1.1
+  2454492.7365              -3.1                           1.0
+  2454838.9756               4.0                           1.2

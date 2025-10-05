@@ -1,0 +1,24 @@
+\STAR_ID                                  = "CoRoT-3"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "3"
+\TIME_REFERENCE_FRAME                     = "HJD"
+\MINIMUM_DATE                             = "2454331.3590"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454336.9060"
+\MINIMUM_VALUE                            = "-57130.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-53650.00"
+\REFERENCE                                = "Deleuil et al. 2008 (A&A, 491, 889)"
+\BIBCODE                                  = "2008A&A...491..889D"
+\TELESCOPE                                = "2.0m Alfred Jensch telescope"
+\INSTRUMENT                               = "TLS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Tautenberg, Germany"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          HJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454331.3590         -57130.00                        250.00
+  2454332.3600         -54460.00                        290.00
+  2454336.9060         -53650.00                        240.00

@@ -1,0 +1,55 @@
+\STAR_ID                                  = "14 And"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "34"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2453005.9546"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454491.8965"
+\MINIMUM_VALUE                            = "-111.9"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "127.2"
+\REFERENCE                                = "Sato et al. 2008 (PASJ, 60, 1317)"
+\BIBCODE                                  = "2008PASJ...60.1317S"
+\TELESCOPE                                = "1.88m"
+\INSTRUMENT                               = "HIDES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Okayama Astrophysical Observatory (OAO)"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2453005.9546              30.2                           8.6
+  2453245.2465              96.8                           5.7
+  2453332.0661            -106.7                           4.0
+  2453579.1759              45.6                           6.2
+  2453599.3078             104.9                           9.3
+  2453607.1357             127.2                           6.6
+  2453635.2106              68.1                           6.2
+  2453656.1741             -18.8                           5.5
+  2453693.0493             -93.2                           4.3
+  2453719.9577             -81.8                           7.2
+  2453726.0131              -1.1                           7.0
+  2453742.9362             -11.9                           7.6
+  2453775.9237              76.3                           4.6
+  2453938.2816              44.6                           5.9
+  2453962.2592             102.7                           5.2
+  2453975.1040              97.1                           6.2
+  2454018.0820               5.3                           5.6
+  2454049.1049             -52.6                           5.5
+  2454089.0127            -111.9                           5.2
+  2454104.8910             -38.6                           7.3
+  2454115.8872              -2.1                           5.4
+  2454142.9051              64.0                           4.4
+  2454219.2924             -70.8                           4.6
+  2454254.2487             -82.1                          13.1
+  2454305.1747              31.6                           5.5
+  2454338.1549             113.3                           6.3
+  2454349.1366              83.9                           4.9
+  2454378.1594              60.7                           5.9
+  2454384.0522              38.0                           6.0
+  2454415.9392             -55.8                           5.0
+  2454419.9316             -55.5                           6.3
+  2454460.0025             -92.7                          10.1
+  2454466.9496             -59.7                           5.7
+  2454491.8965              -4.1                           7.6

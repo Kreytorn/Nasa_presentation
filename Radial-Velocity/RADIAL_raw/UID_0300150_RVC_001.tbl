@@ -1,0 +1,33 @@
+\STAR_ID                            = "HAT-P-28"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "11"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455108.711010"
+\MAXIMUM_DATE                       = "2455125.496410"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-99.31"
+\MAXIMUM_VALUE                      = "78.79"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Buchhave et al. 2011 (arXiv, 1103, 1813)"
+\BIBCODE                            = "2011ApJ...733..116B"
+\TELESCOPE                          = "2.5m NOT"
+\INSTRUMENT                         = "FIES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "Observatorio del Roque de los Muchachos, La Palma, Spain"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455108.711010            -72.31                         12.10
+  2455110.684940             77.09                         12.60
+  2455111.599710            -22.21                          9.10
+  2455112.638610            -57.41                         12.60
+  2455113.605390             78.79                          8.70
+  2455114.568090             10.09                         13.90
+  2455115.566260            -99.31                         10.80
+  2455116.557200             34.79                         10.00
+  2455122.555730            -43.01                          8.70
+  2455123.504980             61.29                         11.90
+  2455125.496410            -68.71                          9.70

@@ -1,0 +1,30 @@
+\STAR_ID                            = "TrES-5"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "8"
+\TIME_REFERENCE_FRAME               = "HJD-UTC"
+\MINIMUM_DATE                       = "2455456.847578"
+\MAXIMUM_DATE                       = "2455673.945954"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-549.8"
+\MAXIMUM_VALUE                      = "127.2"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Mandushev et al. 2011 (arXiv, 1108, 3572)"
+\BIBCODE                            = "2011ApJ...741..114M"
+\TELESCOPE                          = "1.5m FLWO"
+\INSTRUMENT                         = "TRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "Fred L. Whipple Observatory, Mt. Hopkins, Arizona"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455456.847578           -542.80                         27.90
+  2455468.707361           -472.60                         23.30
+  2455647.005138           -308.30                         22.80
+  2455649.002656            127.20                         26.90
+  2455651.985839             98.30                         29.00
+  2455659.987762           -549.80                         29.90
+  2455667.970142              0.00                         14.80
+  2455673.945954             45.00                         14.80

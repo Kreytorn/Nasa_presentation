@@ -1,0 +1,46 @@
+\STAR_ID                            = "CoRoT-26"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "24"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455022.634040"
+\MAXIMUM_DATE                       = "2455827.560430"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "15410.3"
+\MAXIMUM_VALUE                      = "15619.4"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Almenara et al. 2013 (A&A, 555, 118)"
+\BIBCODE                            = "2013A&A...555A.118A"
+\TELESCOPE                          = "3.6m ESO"
+\INSTRUMENT                         = "HARPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "ESO La Silla, Chile"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455022.634040          15578.00                         37.20
+  2455024.686910          15425.10                         32.60
+  2455064.564840          15548.00                         33.70
+  2455320.902430          15543.20                         40.70
+  2455323.818020          15534.80                         25.60
+  2455324.854020          15579.50                         44.80
+  2455334.815330          15460.30                         51.50
+  2455683.889910          15511.80                         42.30
+  2455683.916240          15444.80                         36.70
+  2455685.870920          15564.80                         30.20
+  2455685.907960          15533.20                         38.20
+  2455686.867640          15571.10                         32.50
+  2455686.907710          15516.90                         30.20
+  2455692.910830          15486.70                         22.60
+  2455693.828390          15461.30                         38.70
+  2455693.870750          15475.60                         30.00
+  2455716.803190          15619.40                         52.10
+  2455779.616910          15586.30                         39.80
+  2455779.658850          15592.30                         52.60
+  2455806.534740          15414.20                         45.20
+  2455825.508870          15585.20                         29.60
+  2455825.552490          15595.80                         27.40
+  2455827.515340          15410.30                         47.30
+  2455827.560430          15503.90                         48.90

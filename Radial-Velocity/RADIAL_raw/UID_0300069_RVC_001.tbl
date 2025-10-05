@@ -1,0 +1,32 @@
+\STAR_ID                                  = "WASP-13"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "11"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454508.48441"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454512.65565"
+\MINIMUM_VALUE                            = "9763.40"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "9906.20"
+\REFERENCE                                = "Skillen et al. 2009 (A&A, 502, 391)"
+\BIBCODE                                  = "2009A&A...502..391S"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2454508.48441           9866.00                          8.80
+  2454509.45978           9812.60                          7.20
+  2454510.46914           9802.20                          7.80
+  2454510.55389           9763.40                          8.80
+  2454511.32838           9836.50                          8.00
+  2454511.55075           9869.00                          8.20
+  2454511.57290           9849.20                          8.60
+  2454511.64730           9866.70                          8.80
+  2454512.42051           9906.20                          6.80
+  2454512.55184           9877.00                          8.00
+  2454512.65565           9882.90                          9.00

@@ -1,0 +1,34 @@
+\STAR_ID                            = "WASP-59"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "12"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455745.545300"
+\MAXIMUM_DATE                       = "2455777.546600"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-56918.0"
+\MAXIMUM_VALUE                      = "-56688.0"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Hebrard et al. 2013 (2013, A&A, 549A, 134)"
+\BIBCODE                            = "2013A&A...549A.134H"
+\TELESCOPE                          = "1.93m OHP"
+\INSTRUMENT                         = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "Observatoire de Haute Provence, France"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455745.545300         -56897.00                         14.00
+  2455757.543000         -56688.00                         28.00
+  2455763.592200         -56800.00                         13.00
+  2455764.628700         -56726.00                         15.00
+  2455766.537500         -56701.00                         14.00
+  2455768.563300         -56883.00                         10.00
+  2455771.517200         -56800.00                         10.00
+  2455772.561600         -56748.00                         10.00
+  2455773.529700         -56694.00                          9.00
+  2455774.509700         -56699.00                          8.00
+  2455776.527200         -56873.00                         10.00
+  2455777.546600         -56918.00                         10.00

@@ -1,0 +1,54 @@
+\STAR_ID                                  = "Epsilon Eridani"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "33"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2444534.087"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2446866.762"
+\MINIMUM_VALUE                            = "-49.6"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "32.3"
+\REFERENCE                                = "Campbell et al. 1988 (ApJ, 331, 902)"
+\BIBCODE                                  = "1988ApJ...331..902C"
+\TELESCOPE                                = "3.6m CFHT"
+\INSTRUMENT                               = "f/8.2 coude spectrograph"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Hydrogen Fluoride"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|         BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|      double |          double |                      double |
+|        days |             m/s |                         m/s |
+  2444534.087              -9.7                          19.7
+  2444558.977              16.6                          31.0
+  2444558.991              19.9                          31.6
+  2444621.813              -7.6                          27.8
+  2444653.843             -16.9                          19.3
+  2444655.768               5.8                          19.8
+  2444686.745              32.3                          15.5
+  2444914.023             -18.8                          12.7
+  2444926.932             -29.9                           8.7
+  2444957.979              -0.2                          15.2
+  2445166.120             -15.4                          11.8
+  2445277.024              -3.3                          13.6
+  2445357.714              25.2                          10.2
+  2445390.755             -49.6                          15.2
+  2445711.835               0.2                          13.6
+  2445712.888              15.5                          14.0
+  2446047.918              14.1                           9.4
+  2446047.934              15.5                          11.2
+  2446048.963               5.3                          12.5
+  2446284.126               7.7                          19.0
+  2446284.139              28.2                          16.8
+  2446393.943              15.3                          13.4
+  2446394.940              10.0                          11.1
+  2446725.984               3.8                           7.9
+  2446726.939              17.7                           9.9
+  2446784.896              12.5                          15.4
+  2446785.915               1.1                          11.9
+  2446834.835              25.3                          15.5
+  2446834.846              18.3                          10.7
+  2446864.803              -3.9                          14.5
+  2446865.807             -12.3                          12.6
+  2446866.755              -6.8                           6.6
+  2446866.762             -14.5                           9.3

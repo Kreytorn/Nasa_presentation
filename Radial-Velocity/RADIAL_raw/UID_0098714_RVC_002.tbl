@@ -1,0 +1,64 @@
+\STAR_ID                                  = "HD 190228"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "42"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2453581.89473"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454428.57314"
+\MINIMUM_VALUE                            = "-92.8"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "81.4"
+\REFERENCE                                = "Wittenmyer et al. 2009 (ApJS, 182, 97)"
+\BIBCODE                                  = "2009ApJS..182...97W"
+\TELESCOPE                                = "9.2m Hobby Eberly Telescope (HET)"
+\INSTRUMENT                               = "HRS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "McDonald Observatory, Texas"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453581.89473             -75.5                           8.2
+  2453589.86259             -92.8                           6.8
+  2453605.81074             -83.7                           9.0
+  2453606.81111             -84.1                           8.8
+  2453607.80141             -84.9                           8.4
+  2453609.80786             -87.7                           8.1
+  2453628.75754             -85.0                           7.8
+  2453635.71968             -76.7                           8.4
+  2453653.67654             -81.1                           7.5
+  2453655.68368             -76.3                           8.3
+  2453686.58579             -61.1                           9.0
+  2453844.93852             -20.2                           9.3
+  2453867.88496             -34.8                           9.3
+  2453877.84874             -19.3                           9.1
+  2453883.82777             -12.2                           8.2
+  2453888.81145              -8.6                           9.4
+  2453897.79760               1.5                           8.9
+  2453935.90971               6.8                           8.5
+  2453956.84836              -9.1                           7.5
+  2453966.81728              -0.8                           8.3
+  2453976.79348              -2.1                           8.4
+  2453996.75947               5.3                           9.0
+  2453998.73191               7.8                           9.4
+  2453998.73697              -1.5                           9.0
+  2454008.70583              10.4                           7.8
+  2454013.70146               1.4                           8.1
+  2454019.66975               7.1                           9.0
+  2454032.62480              16.7                           9.9
+  2454217.92567              49.1                           8.9
+  2454265.79081              59.8                           8.6
+  2454284.96126              62.5                           9.1
+  2454326.62326              57.0                           8.5
+  2454328.62216              60.8                           7.0
+  2454331.61953              68.4                           8.0
+  2454336.59244              67.8                           9.0
+  2454344.79398              60.7                           8.7
+  2454352.77160              68.1                           9.1
+  2454368.71625              75.5                           8.9
+  2454370.72492              81.4                           8.4
+  2454377.68917              76.2                           9.0
+  2454401.62808              74.4                           8.3
+  2454428.57314              78.5                           8.3

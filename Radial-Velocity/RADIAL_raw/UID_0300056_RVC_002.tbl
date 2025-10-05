@@ -1,0 +1,54 @@
+\STAR_ID                                  = "WASP-3"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "33"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454286.52255"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454740.48062"
+\MINIMUM_VALUE                            = "-5725.53"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-5184.30"
+\REFERENCE                                = "Simpson et al. 2009 (arXiv, 0912, 3643)"
+\BIBCODE                                  = "2009arXiv0912.3643S"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2454286.52255          -5725.53                         21.37
+  2454287.45639          -5184.30                         35.41
+  2454289.36622          -5187.92                         30.47
+  2454340.32511          -5643.13                         12.80
+  2454341.39898          -5403.94                         19.14
+  2454342.31981          -5544.01                         28.01
+  2454343.48259          -5603.54                         12.83
+  2454740.29509          -5424.87                         38.56
+  2454740.29909          -5381.58                         36.28
+  2454740.30328          -5366.39                         37.51
+  2454740.30771          -5433.18                         37.34
+  2454740.31312          -5457.38                         37.56
+  2454740.31830          -5409.72                         38.28
+  2454740.32351          -5421.39                         38.16
+  2454740.32907          -5338.00                         37.82
+  2454740.33524          -5357.07                         37.64
+  2454740.34152          -5382.29                         37.41
+  2454740.34699          -5385.96                         36.26
+  2454740.35300          -5361.07                         35.33
+  2454740.35891          -5368.91                         35.08
+  2454740.36506          -5419.06                         34.37
+  2454740.37170          -5499.66                         35.80
+  2454740.37771          -5553.05                         36.86
+  2454740.38426          -5554.88                         35.71
+  2454740.39228          -5584.17                         38.25
+  2454740.39993          -5640.22                         36.06
+  2454740.40758          -5585.23                         35.19
+  2454740.41466          -5691.15                         34.15
+  2454740.42259          -5640.15                         35.43
+  2454740.43066          -5531.09                         39.45
+  2454740.44171          -5592.88                         38.44
+  2454740.45894          -5624.03                         41.32
+  2454740.48062          -5520.85                         53.55

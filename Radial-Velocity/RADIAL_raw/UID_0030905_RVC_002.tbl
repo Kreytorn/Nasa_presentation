@@ -1,0 +1,36 @@
+\STAR_ID                                  = "HD 45652"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "14"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2453692.65990"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453808.29880"
+\MINIMUM_VALUE                            = "-5171.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-5043.00"
+\REFERENCE                                = "Santos et al. 2008 (A&A, 487, 369)"
+\BIBCODE                                  = "2008A&A...487..369S"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "ELODIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453692.65990          -5108.00                         12.00
+  2453724.51830          -5146.00                         10.00
+  2453725.52840          -5161.00                         12.00
+  2453750.52140          -5140.00                         11.00
+  2453755.52560          -5135.00                         14.00
+  2453756.46230          -5136.00                         14.00
+  2453757.49900          -5141.00                         15.00
+  2453758.44960          -5145.00                         17.00
+  2453773.45970          -5092.00                         11.00
+  2453774.42840          -5069.00                         12.00
+  2453775.42810          -5043.00                         12.00
+  2453776.41300          -5060.00                         15.00
+  2453780.42370          -5057.00                         12.00
+  2453808.29880          -5171.00                         10.00

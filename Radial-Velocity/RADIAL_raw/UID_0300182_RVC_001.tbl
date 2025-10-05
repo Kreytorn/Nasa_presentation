@@ -1,0 +1,52 @@
+\STAR_ID                            = "Kepler-20"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "30"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455073.885713"
+\MAXIMUM_DATE                       = "2455724.055721"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-16.2"
+\MAXIMUM_VALUE                      = "11.08"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Gautier et al. 2011 (ApJ, 749, 15)"
+\BIBCODE                            = "2012ApJ...749...15G"
+\TELESCOPE                          = "10m Keck"
+\INSTRUMENT                         = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Gas Cell Absorption (Iodine)"
+\OBSERVATORY_SITE                   = "Manua Kea, Hawaii"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455073.885713             -5.86                          3.78
+  2455074.861139             -2.94                          3.74
+  2455075.906678              1.09                          3.75
+  2455076.883792              2.57                          3.84
+  2455077.907884             11.08                          3.82
+  2455081.952637             -1.51                          3.83
+  2455082.832587             -9.53                          3.78
+  2455083.888144             -7.17                          3.84
+  2455084.893633              4.59                          3.88
+  2455134.766132            -14.15                          3.88
+  2455314.027873              2.05                          2.54
+  2455320.085390             -9.47                          2.59
+  2455321.072318             -4.55                          2.56
+  2455345.011208             -8.71                          2.82
+  2455351.073218              0.41                          2.70
+  2455352.043110             -1.84                          2.50
+  2455372.898433              1.71                          2.62
+  2455374.967141            -16.20                          2.62
+  2455378.007402             -2.59                          2.53
+  2455380.950103             -0.62                          2.55
+  2455403.055761              7.59                          2.96
+  2455407.903131            -10.15                          2.64
+  2455411.959424            -13.79                          2.65
+  2455413.894286             -2.60                          2.59
+  2455433.818795              4.81                          2.46
+  2455435.841063             10.04                          2.58
+  2455440.792117            -10.94                          2.50
+  2455500.817440             -2.94                          3.34
+  2455522.725846             -6.56                          2.63
+  2455724.055721             -2.35                          2.64

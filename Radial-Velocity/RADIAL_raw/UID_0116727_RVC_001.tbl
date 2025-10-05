@@ -1,0 +1,47 @@
+\STAR_ID                                  = "Gamma Ceph"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "26"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2444754.128"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2446865.700"
+\MINIMUM_VALUE                            = "-542.5"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "970.5"
+\REFERENCE                                = "Campbell et al. 1988 (ApJ, 331, 902)"
+\BIBCODE                                  = "1988ApJ...331..902C"
+\TELESCOPE                                = "3.6m CFHT"
+\INSTRUMENT                               = "f/8.2 coude spectrograph"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Hydrogen Fluoride"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|         BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|      double |          double |                      double |
+|        days |             m/s |                         m/s |
+  2444754.128             924.3                          13.7
+  2444771.112             970.5                          19.0
+  2444957.884             806.8                          12.2
+  2445148.077             691.4                           8.8
+  2445166.048             679.4                           9.6
+  2445212.958             633.9                          13.7
+  2445276.884             610.1                          10.8
+  2445711.703             392.4                          14.3
+  2445712.786             372.0                          11.2
+  2445811.130             313.5                          10.1
+  2445865.136             273.8                          10.3
+  2445902.042             197.0                           7.8
+  2446047.771             119.5                           6.8
+  2446047.782             102.0                           8.9
+  2446217.144             -45.3                          13.3
+  2446284.003            -110.7                          20.0
+  2446284.009            -108.3                          18.4
+  2446393.804            -171.5                          16.0
+  2446394.858            -154.1                          10.4
+  2446605.100            -329.6                           5.4
+  2446725.830            -425.1                           4.8
+  2446726.856            -419.6                           6.7
+  2446784.821            -486.2                          10.4
+  2446785.843            -495.1                          11.1
+  2446834.758            -542.5                           8.9
+  2446865.700            -535.7                          10.3

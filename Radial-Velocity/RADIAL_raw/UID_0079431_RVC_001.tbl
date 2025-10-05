@@ -1,0 +1,35 @@
+\STAR_ID                                  = "HIP 79431"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "13"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2454928.07496"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2455106.73408"
+\MINIMUM_VALUE                            = "-140.47"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "140.47"
+\REFERENCE                                = "Apps et al. 2010 (PASP, 122, 156)"
+\BIBCODE                                  = "2010PASP..122..156A"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2454928.07496            -63.11                          2.73
+  2454929.11611            -70.45                          2.84
+  2454984.87477            103.92                          2.68
+  2454986.96264            125.53                          3.14
+  2454987.94866            140.47                          3.10
+  2455028.96005             -7.06                          3.88
+  2455041.89538            -74.88                          3.21
+  2455042.92741            -81.75                          3.55
+  2455048.75289           -104.55                          2.80
+  2455074.72733           -140.47                          2.84
+  2455078.74506           -119.78                          2.90
+  2455084.73424            -64.40                          2.97
+  2455106.73408            139.86                          3.52

@@ -1,0 +1,42 @@
+\STAR_ID                                  = "HAT-P-12"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "21"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454187.03115"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454674.76312"
+\MINIMUM_VALUE                            = "-32.64"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "46.75"
+\REFERENCE                                = "Hartman et al. 2009 (ApJ, 706, 785)"
+\BIBCODE                                  = "2009ApJ...706..785H"
+\TELESCOPE                                = "Keck"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, HI"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2454187.03115             46.75                          3.29
+  2454187.98977             -8.83                          2.74
+  2454188.10261            -11.93                          2.63
+  2454188.15398            -20.76                          3.39
+  2454188.99152            -30.42                          2.43
+  2454189.07296            -32.64                          2.61
+  2454189.12279            -19.16                          2.86
+  2454216.94159             -8.61                          2.68
+  2454247.86057             32.36                          3.50
+  2454250.86401             20.94                          3.35
+  2454251.91230              8.95                          3.09
+  2454548.03028            -24.24                          2.61
+  2454548.92425            -24.73                          3.15
+  2454602.77839            -21.39                          2.29
+  2454603.02042            -30.57                          2.49
+  2454603.76466             -7.05                          2.28
+  2454604.06935             -0.63                          2.84
+  2454633.94384             32.62                          3.05
+  2454636.86807             39.55                          2.84
+  2454639.83599             29.74                          2.92
+  2454674.76312             -2.42                          2.52

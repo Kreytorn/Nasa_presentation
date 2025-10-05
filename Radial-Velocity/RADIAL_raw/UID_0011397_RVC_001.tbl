@@ -1,0 +1,50 @@
+\STAR_ID                                  = "WASP-33"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "29"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454070.4555"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454165.3654"
+\MINIMUM_VALUE                            = "-2500.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "2400.00"
+\REFERENCE                                = "Collier Cameron et al. 2010 (arXiv, 1004, 4551)"
+\BIBCODE                                  = "2010arXiv1004.4551C"
+\TELESCOPE                                = "2.0m Alfred Jensch Telescope"
+\INSTRUMENT                               = "coude echelle spectrograph"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Thuringer Landessternwarte Tautenburg (TLS), Germany"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454070.4555            500.00                        800.00
+  2454070.4736           2400.00                        700.00
+  2454070.4917            400.00                        700.00
+  2454070.5099            600.00                        600.00
+  2454070.5298           1100.00                        700.00
+  2454070.5515           -100.00                        600.00
+  2454070.5732           1500.00                        700.00
+  2454071.3650            600.00                        600.00
+  2454080.1945           1200.00                        700.00
+  2454080.2789            300.00                        700.00
+  2454080.3785           -900.00                        700.00
+  2454080.4508           1400.00                        700.00
+  2454080.5290           -900.00                        700.00
+  2454082.2761            200.00                        600.00
+  2454082.4559            900.00                       1100.00
+  2454136.2739          -1200.00                        800.00
+  2454136.3863           -100.00                        800.00
+  2454138.2696          -2500.00                       1200.00
+  2454138.2844          -1700.00                       1500.00
+  2454156.3454          -1600.00                        800.00
+  2454157.2789           -900.00                        600.00
+  2454157.3393           -700.00                        800.00
+  2454161.3098           -800.00                        600.00
+  2454161.3248          -1500.00                        700.00
+  2454161.3399          -2300.00                       1300.00
+  2454161.3547          -1900.00                       1300.00
+  2454162.2734           1900.00                        900.00
+  2454164.2729           -900.00                        700.00
+  2454165.3654          -1200.00                        700.00

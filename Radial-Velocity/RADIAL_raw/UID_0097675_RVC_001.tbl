@@ -1,0 +1,37 @@
+\STAR_ID='HD 187691'
+\DATA_CATEGORY='Planet Radial Velocity Curve'
+\NUMBER_OF_POINTS='15'
+\TIME_REFERENCE_FRAME='HJD'
+\MINIMUM_DATE='2451796.72949'
+\DATE_UNITS='days'
+\MAXIMUM_DATE='2455843.75686'
+\MINIMUM_VALUE='-37.1599998'
+\VALUE_UNITS='m/s'
+\MAXIMUM_VALUE='14.9200001'
+\REFERENCE='Howard & Fulton, 2016'
+\BIBCODE='2016arXiv160603134H'
+\TELESCOPE='3.0m Shane'
+\INSTRUMENT='l: Hamilton Spectrograph post-dewar 16 (after November 1994)'
+\WAVELENGTH_CALIBRATION_TECHNIQUE='Iodine'
+\OBSERVATORY_SITE='Lick Observatory, California'
+\COLUMN_RADIAL_VELOCITY='Relative radial velocity'
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY='Uncertainty in RADIAL_VELOCITY'
+|          HJD|Radial_Velocity|Radial_Velocity_Uncertainty|
+|       double|         double|                     double|
+|         days|          m / s|                      m / s|
+|         null|           null|                       null|
+ 2451796.72949      14.0299997                   3.3999999 
+ 2451797.70626        4.717576                   2.5584919 
+ 2451798.75586      14.9200001                        3.48 
+ 2452075.92188       6.9499998                   3.1500001 
+ 2452105.83954       6.1321239                    2.472935 
+  2452896.7334     -23.1399994                   2.8199999 
+ 2453155.90039     -23.9500008                   3.1800001 
+ 2453544.90181     -16.5599995                   2.9400001 
+ 2453553.91156       6.5419674                     2.26794 
+ 2453555.90551      -3.6363759                   2.0817003 
+  2453558.9075      -0.7869744                    2.372272 
+ 2453588.81893      -8.5124693                   2.8101556 
+ 2453594.78262           -0.13                   3.4200001 
+ 2454697.85605        3.919528                   1.7293562 
+ 2455843.75686     -37.1599998                   4.6399999 

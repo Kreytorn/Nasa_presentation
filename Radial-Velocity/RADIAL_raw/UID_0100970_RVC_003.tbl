@@ -1,0 +1,28 @@
+\STAR_ID                                  = "HD 195019"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "7"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2451076.733"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2451101.719"
+\MINIMUM_VALUE                            = "-150.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "325.68"
+\REFERENCE                                = "Fischer et al. 1999 (PASP, 111, 50)"
+\BIBCODE                                  = "1999PASP..111...50F"
+\TELESCOPE                                = "0.6m CAT"
+\INSTRUMENT                               = "Hamilton echelle spectrograph"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Lick Observatory, California"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+|          JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|      double |          double |                      double |
+|        days |             m/s |                         m/s |
+   2451076.733            325.68                             7
+   2451077.802            262.04                             7
+   2451078.748            257.65                             7
+   2451079.786            174.90                             7
+   2451081.675             -3.40                             7
+   2451082.669            -79.72                             7
+   2451101.719           -150.00                             7

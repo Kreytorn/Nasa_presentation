@@ -1,0 +1,49 @@
+\STAR_ID                                  = "HD 114762"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "28"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2447496.0033"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2448086.7131"
+\MINIMUM_VALUE                            = "3404.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "4695.00"
+\REFERENCE                                = "Cochran et al. 1991 (ApJ, 380, L35)"
+\BIBCODE                                  = "1991ApJ...380L..35C"
+\TELESCOPE                                = "2.7m Harlan J. Smith (HJS) telescope"
+\INSTRUMENT                               = "coude spectrograph"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "McDonald Observatory, Texas"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2447496.0033           4633.00                         34.00
+  2447496.9951           4627.00                         34.00
+  2447516.9648           4301.00                         34.00
+  2447516.9970           4304.00                         34.00
+  2447517.9807           4298.00                         34.00
+  2447551.9137           4277.00                         34.00
+  2447552.9235           4409.00                         34.00
+  2447581.8664           4613.00                         34.00
+  2447582.8510           4663.00                         34.00
+  2447585.8553           4618.00                         34.00
+  2447610.8302           3941.00                         34.00
+  2447611.8268           3857.00                         34.00
+  2447633.7799           4271.00                         34.00
+  2447634.8315           4257.00                         34.00
+  2447674.7094           4512.00                         34.00
+  2447675.6884           4456.00                         34.00
+  2447696.6751           3790.00                         34.00
+  2447697.6957           3773.00                         34.00
+  2447880.9619           3884.00                         34.00
+  2447882.0008           3960.00                         34.00
+  2447956.9388           3404.00                         34.00
+  2447958.8635           3497.00                         34.00
+  2447998.8158           4695.00                         34.00
+  2448016.7310           4386.00                         34.00
+  2448017.7328           4405.00                         34.00
+  2448018.7394           4379.00                         34.00
+  2448084.6783           4665.00                         34.00
+  2448086.7131           4516.00                         34.00

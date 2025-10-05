@@ -1,0 +1,36 @@
+\STAR_ID                                  = "HD 35956A"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "14"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2450366.1155"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2452188.1412"
+\MINIMUM_VALUE                            = "-2068.4"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "5357.2"
+\REFERENCE                                = "Vogt et al. 2002 (ApJ, 568, 352)"
+\BIBCODE                                  = "2002ApJ...568..352V"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2450366.1155           -2018.8                           3.9
+  2450546.7296           -1974.0                           3.8
+  2450786.9244            4363.6                           4.8
+  2450837.8768            5357.2                           3.3
+  2451051.1210             972.3                           3.9
+  2451170.9331             -16.7                           3.9
+  2451229.7433            -354.8                           4.3
+  2451543.9305           -1533.8                           4.6
+  2451550.8895           -1544.7                           4.3
+  2451551.8912           -1540.9                           4.2
+  2451884.0873           -2068.4                           4.7
+  2452003.7483           -1879.5                           4.8
+  2452128.1349            -340.6                           4.2
+  2452188.1412            2578.7                           3.5

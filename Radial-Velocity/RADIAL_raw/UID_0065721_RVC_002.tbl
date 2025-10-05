@@ -1,0 +1,56 @@
+\STAR_ID                                  = "70 Vir"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "35"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2450150.5674"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2452776.4905"
+\MINIMUM_VALUE                            = "4750.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "5394.00"
+\REFERENCE                                = "Naef et al. 2004 (A&A, 414, 351)"
+\BIBCODE                                  = "2004A&A...414..351N"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "ELODIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2450150.5674           5278.00                          7.00
+  2450207.4733           4755.00                          7.00
+  2450212.4956           4758.00                          7.00
+  2450263.3522           5174.00                          7.00
+  2450267.3629           5290.00                          8.00
+  2450477.6726           4860.00                          7.00
+  2450532.5262           4907.00                          7.00
+  2450535.5412           4876.00                          7.00
+  2450557.5415           4775.00                          7.00
+  2450561.5144           4750.00                          7.00
+  2450582.4152           4789.00                          7.00
+  2450587.4123           4817.00                          7.00
+  2450623.4034           5385.00                          7.00
+  2450858.5938           5394.00                          7.00
+  2450885.5718           4879.00                          8.00
+  2450940.4236           4827.00                          7.00
+  2450967.3864           5274.00                          7.00
+  2451024.3477           4758.00                          8.00
+  2451239.6241           4847.00                          7.00
+  2451300.4140           4917.00                          7.00
+  2451325.4192           5384.00                          7.00
+  2451588.5781           4859.00                          7.00
+  2451623.5130           4776.00                          7.00
+  2451653.5182           4967.00                          7.00
+  2451692.4233           5014.00                          7.00
+  2451956.6495           4785.00                          7.00
+  2452038.5199           5087.00                          7.00
+  2452356.5774           5012.00                          7.00
+  2452361.5896           5125.00                          7.00
+  2452413.5044           4806.00                          8.00
+  2452719.5556           5325.00                          7.00
+  2452748.5272           4929.00                          7.00
+  2452751.5387           4889.00                          7.00
+  2452772.4172           4776.00                          7.00
+  2452776.4905           4774.00                          7.00

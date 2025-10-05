@@ -1,0 +1,50 @@
+\STAR_ID                                  = "HW Vir"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "28"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2449111.65181"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2449111.79083"
+\MINIMUM_VALUE                            = "-70000.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "90200.00"
+\REFERENCE                                = "Wood & Saffer 1999 (MNRAS, 305, 820)"
+\BIBCODE                                  = "1999MNRAS.305..820W"
+\TELESCOPE                                = "2.1m"
+\INSTRUMENT                               = "Goldcam"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Helium Neon Argon"
+\OBSERVATORY_SITE                         = "Kitt Peak National Observatory (KPNO), Arizona"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2449111.65181          82800.00                      14700.00
+  2449111.65510          90200.00                      14200.00
+  2449111.66003          88500.00                      17400.00
+  2449111.66331          79300.00                      11100.00
+  2449111.67814          52500.00                      13800.00
+  2449111.68149          44400.00                      12600.00
+  2449111.68643          34400.00                      15300.00
+  2449111.69004            600.00                      17000.00
+  2449111.69598         -30500.00                      13400.00
+  2449111.69939         -40900.00                      13800.00
+  2449111.70451         -62800.00                       8600.00
+  2449111.70962         -69000.00                       9800.00
+  2449111.72800         -70000.00                      12300.00
+  2449111.73129         -68800.00                      11800.00
+  2449111.73628         -43500.00                      10500.00
+  2449111.73954         -25800.00                       7900.00
+  2449111.74457         -12900.00                      10500.00
+  2449111.74817          -1500.00                      15300.00
+  2449111.75297          15100.00                       9300.00
+  2449111.75641          22300.00                      12600.00
+  2449111.76101          51900.00                      13500.00
+  2449111.76427          62200.00                       9500.00
+  2449111.76999          79900.00                      10200.00
+  2449111.77325          84600.00                      12700.00
+  2449111.77811          84500.00                      14900.00
+  2449111.78144          74900.00                      13500.00
+  2449111.78752          74200.00                       8600.00
+  2449111.79083          68700.00                       9600.00

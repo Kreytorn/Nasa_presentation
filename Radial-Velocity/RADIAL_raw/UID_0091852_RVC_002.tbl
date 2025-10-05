@@ -1,0 +1,44 @@
+\STAR_ID                                  = "HD 173416"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "22"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2454041.0323"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454725.0446"
+\MINIMUM_VALUE                            = "-100.0"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "81.8"
+\REFERENCE                                = "Liu et al. 2009 (ReA&A, 9, 1)"
+\BIBCODE                                  = "2009ReA&A...9....1L"
+\TELESCOPE                                = "2.16m"
+\INSTRUMENT                               = "CES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Xinglong Obsevatory, China"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454041.0323             -41.8                          24.9
+  2454194.3156              81.8                          23.7
+  2454226.2513              47.8                          18.8
+  2454226.2730              11.6                          22.3
+  2454256.2437               6.1                          30.3
+  2454315.1139              13.8                          22.6
+  2454337.0554               9.5                          30.6
+  2454340.0567             -56.3                          24.3
+  2454365.9894             -57.7                          25.7
+  2454366.0117             -55.3                          31.0
+  2454366.9771             -75.9                          27.6
+  2454367.9836             -63.0                          27.1
+  2454367.9999             -32.1                          21.5
+  2454397.9655             -81.9                          20.9
+  2454397.9764             -51.0                          22.0
+  2454398.9529             -48.7                          23.0
+  2454398.9640            -100.0                          24.5
+  2454456.9602              25.1                          30.5
+  2454669.0668             -42.4                          32.5
+  2454669.0895             -31.7                          35.0
+  2454722.0206             -17.5                          28.3
+  2454725.0446             -47.9                          25.4

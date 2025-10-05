@@ -1,0 +1,65 @@
+\STAR_ID                                  = "HD 134987"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "43"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2450276.8020"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2451411.7251"
+\MINIMUM_VALUE                            = "-59.9"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "47.2"
+\REFERENCE                                = "Vogt et al. 2000 (Apj, 536, 902)"
+\BIBCODE                                  = "2000ApJ...536..902V"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2450276.8020             -18.0                           3.3
+  2450604.8935              28.7                           3.9
+  2450838.1755              40.1                           2.6
+  2450839.1727              41.5                           2.7
+  2450840.1707              42.3                           2.6
+  2450863.1203              36.3                           2.8
+  2450954.9159             -54.4                           1.8
+  2450956.9547             -54.4                           3.0
+  2450981.8126             -59.9                           3.0
+  2450982.8190             -54.6                           2.5
+  2450983.8498             -50.9                           3.5
+  2451011.8011             -51.8                           2.6
+  2451012.8005             -50.7                           2.7
+  2451013.8006             -54.4                           2.8
+  2451050.7730             -16.8                           3.0
+  2451051.7547             -14.0                           2.6
+  2451068.7306               1.7                           2.5
+  2451069.7193               4.6                           2.2
+  2451070.7242               5.1                           2.2
+  2451071.7229               1.6                           2.1
+  2451072.7204              11.0                           2.6
+  2451073.7196               7.2                           3.4
+  2451074.7070              13.0                           2.4
+  2451200.1581             -47.0                           2.8
+  2451227.0883             -52.9                           2.7
+  2451228.1038             -53.1                           2.5
+  2451229.1161             -51.6                           2.6
+  2451310.8892             -22.7                           2.8
+  2451311.9101             -20.3                           2.8
+  2451312.9239             -19.2                           3.1
+  2451314.0005             -18.1                           2.9
+  2451340.8393              25.2                           2.4
+  2451341.8853              21.2                           2.7
+  2451342.8787              25.6                           2.9
+  2451367.7877              36.4                           2.8
+  2451368.7558              47.0                           2.6
+  2451369.7821              43.8                           3.1
+  2451370.8677              47.2                           3.1
+  2451371.7599              41.9                           2.6
+  2451372.7678              46.6                           2.8
+  2451373.7712              40.6                           2.7
+  2451410.7258               0.0                           2.5
+  2451411.7251              -5.5                           3.0

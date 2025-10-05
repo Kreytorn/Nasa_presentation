@@ -1,0 +1,45 @@
+\STAR_ID                                  = "HD 179949"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "23"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2451792.750625"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453546.934317"
+\MINIMUM_VALUE                            = "-117.5"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "122.2"
+\REFERENCE                                = "Butler et al. 2006 (ApJ, 646, 505)"
+\BIBCODE                                  = "2006ApJ...646..505B"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|             JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2451792.750625              91.2                           5.9
+  2451793.798090             -99.7                           5.5
+  2451795.802662              99.3                           4.7
+  2451882.687627              31.7                           4.2
+  2451883.689854            -117.0                           3.4
+  2452007.111574            -108.5                           4.7
+  2452099.020301              71.8                           4.6
+  2452100.938056              13.8                           5.4
+  2452162.774664              12.1                           4.9
+  2452391.115637            -108.6                           4.7
+  2452536.749549             -49.2                           4.8
+  2452778.070231               0.3                           4.9
+  2452835.031065              61.7                           4.6
+  2452854.002523             -17.8                           5.0
+  2453074.168762            -107.8                           4.4
+  2453180.099977              -6.4                           4.9
+  2453181.039363             122.2                           4.6
+  2453182.092014             -83.4                           4.7
+  2453195.855035              46.5                           4.2
+  2453196.900370              61.6                           4.6
+  2453207.039954            -117.5                           4.8
+  2453208.022720              -1.1                           4.7
+  2453546.934317             -74.9                           4.4

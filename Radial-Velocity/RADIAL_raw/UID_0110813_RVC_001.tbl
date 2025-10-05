@@ -1,0 +1,42 @@
+\STAR_ID                                  = "HD 212771"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "20"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2454339.830"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2455188.695"
+\MINIMUM_VALUE                            = "-34.91"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "49.23"
+\REFERENCE                                = "Johnson et al. 2010 (PASP, 122, 701)"
+\BIBCODE                                  = "2010PASP..122..701J"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|      double |          double |                      double |
+|        days |             m/s |                         m/s |
+  2454339.830            -20.86                          2.03
+  2454399.773              9.64                          1.79
+  2454456.785             45.09                          1.68
+  2454675.025            -13.62                          1.77
+  2454807.780             38.82                          1.84
+  2454964.124             49.23                          2.70
+  2454984.088             34.58                          2.51
+  2454985.116             20.73                          2.62
+  2454986.117             29.29                          2.77
+  2455015.023            -10.59                          2.63
+  2455016.078            -13.55                          1.63
+  2455019.080             -6.43                          1.88
+  2455027.008             -8.30                          1.80
+  2455043.060            -17.15                          1.96
+  2455076.073            -34.91                          1.91
+  2455083.064            -21.87                          1.74
+  2455134.930              0.00                          1.74
+  2455135.765             -8.56                          1.52
+  2455169.702             16.03                          1.77
+  2455188.695             44.57                          1.77

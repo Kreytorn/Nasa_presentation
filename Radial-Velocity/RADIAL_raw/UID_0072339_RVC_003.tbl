@@ -1,0 +1,52 @@
+\STAR_ID                                  = "HD 130322"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "30"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2453471.80558"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454191.92631"
+\MINIMUM_VALUE                            = "-113.2"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "110.4"
+\REFERENCE                                = "Wittenmyer et al. 2009 (ApJS, 182, 97)"
+\BIBCODE                                  = "2009ApJS..182...97W"
+\TELESCOPE                                = "9.2m Hobby Eberly Telescope (HET)"
+\INSTRUMENT                               = "HRS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "McDonald Observatory, Texas"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453471.80558             -99.8                           7.2
+  2453481.88526            -106.9                           6.6
+  2453486.85864             105.1                           6.4
+  2453488.75815              72.2                           5.9
+  2453509.79117             101.3                           6.1
+  2453512.78123             -65.6                           5.1
+  2453527.74971              27.0                           6.2
+  2453542.69985              55.4                           5.6
+  2453543.70614              -4.9                           6.1
+  2453550.70420             105.5                           6.1
+  2453837.89677             -12.6                           5.9
+  2453842.88880              27.6                           6.3
+  2453868.80896             -78.8                           5.7
+  2453882.78043              83.0                           6.0
+  2453897.72683             -44.2                           6.1
+  2453900.72079             -85.4                           6.0
+  2453936.63557             110.4                           6.6
+  2454122.01834             -12.7                           6.8
+  2454128.00335              47.0                           6.7
+  2454135.98084            -113.2                           6.5
+  2454139.97029              89.9                           7.2
+  2454140.96840              98.1                           6.1
+  2454144.96962             -99.4                           6.6
+  2454157.01611            -112.4                           6.8
+  2454158.92425             -40.9                           6.8
+  2454163.92465              26.3                           6.7
+  2454168.90656             -71.6                           6.5
+  2454173.98269              69.7                           7.4
+  2454176.87914             -90.6                           5.7
+  2454191.92631              20.5                           6.2

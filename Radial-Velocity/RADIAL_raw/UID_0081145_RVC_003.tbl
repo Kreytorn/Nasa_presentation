@@ -1,0 +1,24 @@
+\STAR_ID                                  = "HD 149382"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "3"
+\TIME_REFERENCE_FRAME                     = "MJD"
+\MINIMUM_DATE                             = "2452891.30690"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2452893.32160"
+\MINIMUM_VALUE                            = "23900.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "25700.00"
+\REFERENCE                                = "Geier et al. 2009 (ApJ, 702, L96)"
+\BIBCODE                                  = "2009ApJ...702L..96G"
+\TELESCOPE                                = "2.2m CAHA"
+\INSTRUMENT                               = "FOCES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Calar Alto Observatory, Andalucia, Spain"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           MJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2452891.30690          25300.00                        200.00
+  2452892.30170          25700.00                        900.00
+  2452893.32160          23900.00                        600.00

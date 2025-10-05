@@ -1,0 +1,32 @@
+\STAR_ID                                  = "HD 16760"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "10"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2453360.89840"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454523.74114"
+\MINIMUM_VALUE                            = "-427.26"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "295.34"
+\REFERENCE                                = "Sato et al. 2009 (ApJ, 703, 671)"
+\BIBCODE                                  = "2009ApJ...703..671S"
+\TELESCOPE                                = "8.2m Subaru"
+\INSTRUMENT                               = "HDS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453360.89840            -67.01                          4.66
+  2453401.87152            200.38                          5.28
+  2453726.87567           -427.26                          4.15
+  2453727.85200           -426.31                          5.70
+  2454078.93737            -24.05                          4.52
+  2454079.92984            -26.00                          4.99
+  2454080.99173            -30.70                          4.60
+  2454081.88938            -33.80                          4.83
+  2454470.89963            295.34                          4.17
+  2454523.74114             89.43                          4.05

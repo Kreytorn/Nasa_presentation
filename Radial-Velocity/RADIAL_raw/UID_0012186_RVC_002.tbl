@@ -1,0 +1,32 @@
+\STAR_ID                                  = "HD 16417"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "10"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2454668.1283"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454705.0833"
+\MINIMUM_VALUE                            = "-4.1"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "6.6"
+\REFERENCE                                = "O'Toole et al. 2009 (ApJ, 697, 1263)"
+\BIBCODE                                  = "2009ApJ...697.1263O"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454668.1283               6.6                           0.5
+  2454672.1241              -2.4                           0.5
+  2454673.1315               0.1                           0.5
+  2454674.1344              -3.5                           0.5
+  2454676.1059               1.5                           0.5
+  2454687.1134              -4.1                           0.5
+  2454702.1000               3.4                           0.6
+  2454703.0879              -0.3                           0.5
+  2454704.0405               0.8                           0.6
+  2454705.0833              -0.7                           0.6

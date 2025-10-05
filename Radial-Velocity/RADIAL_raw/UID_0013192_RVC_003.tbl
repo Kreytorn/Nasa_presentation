@@ -1,0 +1,39 @@
+\STAR_ID                                  = "HD 17156"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "18"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454459.604759"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454459.804150"
+\MINIMUM_VALUE                            = "-8010.27"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-7898.41"
+\REFERENCE                                = "Cochran et al. 2008 (ApJ, 683, L59)"
+\BIBCODE                                  = "2008ApJ...683L..59C"
+\TELESCOPE                                = "2.7m Harlan J. Smith (HJS) telescope"
+\INSTRUMENT                               = "2d coude spectrograph (2dCS)"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "McDonald Observatory, Texas"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2454459.604759          -7898.41                          9.14
+  2454459.616367          -7905.69                          9.79
+  2454459.627985          -7936.46                          9.57
+  2454459.639520          -7912.68                         10.41
+  2454459.651060          -7913.60                          8.61
+  2454459.663985          -7921.94                         12.61
+  2454459.675520          -7916.51                         11.56
+  2454459.687056          -7936.95                         10.14
+  2454459.698591          -7955.00                         11.86
+  2454459.710170          -7960.05                         12.44
+  2454459.721705          -7985.06                         10.98
+  2454459.733240          -7964.48                         12.75
+  2454459.744778          -8003.38                         10.36
+  2454459.757932          -7977.30                         11.57
+  2454459.769469          -7979.22                         11.89
+  2454459.781004          -7988.41                         12.40
+  2454459.792539          -7990.68                         10.82
+  2454459.804150          -8010.27                         10.81

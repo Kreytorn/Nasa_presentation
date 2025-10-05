@@ -1,0 +1,28 @@
+\STAR_ID                                  = "OGLE-TR-113"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "7"
+\TIME_REFERENCE_FRAME                     = "HJD"
+\MINIMUM_DATE                             = "2452690.6259"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2452754.7244"
+\MINIMUM_VALUE                            = "-8257.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-7707.00"
+\REFERENCE                                = "Konacki et al. 2004 (ApJ, 609, L37)"
+\BIBCODE                                  = "2004ApJ...609L..37K"
+\TELESCOPE                                = "6.5m Magellan I (Walter Baade Telescope)"
+\INSTRUMENT                               = "MIKE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Las Campanas Observatory, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          HJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2452690.6259          -7797.00                        105.00
+  2452691.7230          -8008.00                        114.00
+  2452692.7873          -8195.00                        118.00
+  2452692.8128          -8257.00                        116.00
+  2452693.7298          -7837.00                        122.00
+  2452694.7927          -7707.00                        104.00
+  2452754.7244          -7845.00                        127.00

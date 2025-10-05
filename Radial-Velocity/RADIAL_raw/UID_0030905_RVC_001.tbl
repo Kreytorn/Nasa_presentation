@@ -1,0 +1,41 @@
+\STAR_ID                                  = "HD 45652"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "19"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2454029.79264"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454176.55337"
+\MINIMUM_VALUE                            = "-5080.70"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-5000.50"
+\REFERENCE                                = "Santos et al. 2008 (A&A, 487, 369)"
+\BIBCODE                                  = "2008A&A...487..369S"
+\TELESCOPE                                = "1.2m Euler Swiss telescope"
+\INSTRUMENT                               = "CORALIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2454029.79264          -5060.70                          6.30
+  2454029.80422          -5075.70                          6.30
+  2454038.83579          -5009.30                          5.70
+  2454038.84718          -5012.50                          6.00
+  2454069.78922          -5075.90                          7.60
+  2454069.81454          -5080.70                          6.30
+  2454132.62897          -5000.50                          5.00
+  2454132.64037          -5010.70                          5.00
+  2454137.62078          -5023.30                          5.60
+  2454137.63218          -5030.10                          5.00
+  2454144.58745          -5044.20                          4.90
+  2454144.59885          -5036.80                          5.20
+  2454151.59608          -5044.50                          4.80
+  2454156.52101          -5072.60                          5.20
+  2454160.52499          -5074.70                          6.60
+  2454163.57158          -5040.40                          4.40
+  2454167.58467          -5025.00                          5.30
+  2454173.53990          -5006.10                          5.00
+  2454176.55337          -5018.70                          5.20

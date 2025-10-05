@@ -1,0 +1,33 @@
+\STAR_ID                                  = "CoRoT 3"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "11"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2454704.488668"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454704.685277"
+\MINIMUM_VALUE                            = "-56584.93"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-55880.60"
+\REFERENCE                                = "Triaud et al. 2009 (A&A, 506, 377)"
+\BIBCODE                                  = "2009A&A...506..377T"
+\TELESCOPE                                = "3.6m"
+\INSTRUMENT                               = "HARPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|             JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2454704.488668         -55880.60                         42.56
+  2454704.508308         -55936.19                         27.17
+  2454704.527948         -55926.54                         31.60
+  2454704.547600         -56057.63                         27.04
+  2454704.567240         -56174.78                         27.55
+  2454704.586880         -56317.02                         27.78
+  2454704.606520         -56357.08                         27.53
+  2454704.626160         -56416.91                         24.21
+  2454704.645800         -56486.90                         23.94
+  2454704.665440         -56485.97                         25.51
+  2454704.685277         -56584.93                         27.60

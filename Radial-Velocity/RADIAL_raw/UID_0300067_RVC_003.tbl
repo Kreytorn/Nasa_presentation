@@ -1,0 +1,28 @@
+\STAR_ID                                  = "WASP-11"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "7"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454508.3700"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454512.3848"
+\MINIMUM_VALUE                            = "4823.50"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "5010.40"
+\REFERENCE                                = "West et al. 2009 (A&A, 502, 395)"
+\BIBCODE                                  = "2009A&A...502..395W"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454508.3700           4891.00                         10.30
+  2454509.3534           5010.40                          8.40
+  2454510.3813           4898.90                         12.00
+  2454511.3092           4851.50                          7.60
+  2454511.3800           4833.00                         10.60
+  2454511.4206           4823.50                         14.30
+  2454512.3848           4948.20                          9.60

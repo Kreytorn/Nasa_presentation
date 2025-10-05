@@ -1,0 +1,30 @@
+\STAR_ID                                  = "Kepler-7"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "9"
+\TIME_REFERENCE_FRAME                     = "HJD"
+\MINIMUM_DATE                             = "2455107.37937"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2455116.37077"
+\MINIMUM_VALUE                            = "-34.2"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "43.7"
+\REFERENCE                                = "Latham et al. 2010 (ApJ, 713, 140L)"
+\BIBCODE                                  = "2010ApJ...713L.140L"
+\TELESCOPE                                = "2.5m Nordic Optical Telescope (NOT)"
+\INSTRUMENT                               = "FIES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "La Palma, Spain"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           HJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2455107.37937              43.7                           6.8
+  2455108.36845              32.7                           7.1
+  2455110.50735             -34.2                           9.8
+  2455111.40251             -11.5                           6.7
+  2455112.41378              33.2                           8.2
+  2455113.40824              27.9                           6.1
+  2455114.44632             -31.1                           8.1
+  2455115.44411             -29.2                          10.7
+  2455116.37077              -0.1                           9.4

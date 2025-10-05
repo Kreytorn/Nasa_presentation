@@ -1,0 +1,39 @@
+\STAR_ID                                  = "CoRoT-3"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "18"
+\TIME_REFERENCE_FRAME                     = "HJD"
+\MINIMUM_DATE                             = "2454320.7188"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454400.5461"
+\MINIMUM_VALUE                            = "-58696.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-54628.00"
+\REFERENCE                                = "Deleuil et al. 2008 (A&A, 491, 889)"
+\BIBCODE                                  = "2008A&A...491..889D"
+\TELESCOPE                                = "1.2m Euler Swiss telescope"
+\INSTRUMENT                               = "CORALIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          HJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454320.7188         -54628.00                        200.00
+  2454322.7074         -58523.00                        198.00
+  2454330.6931         -58457.00                        141.00
+  2454372.4932         -56263.00                        172.00
+  2454372.5133         -56597.00                        186.00
+  2454372.5281         -56565.00                        218.00
+  2454372.5429         -56644.00                        170.00
+  2454372.5629         -56535.00                        189.00
+  2454372.5829         -57039.00                        210.00
+  2454372.6032         -57154.00                        221.00
+  2454372.6231         -57265.00                        259.00
+  2454372.6433         -56951.00                        214.00
+  2454379.5247         -54772.00                        178.00
+  2454380.5267         -55498.00                        192.00
+  2454387.5000         -56494.00                        217.00
+  2454388.5207         -54844.00                        226.00
+  2454394.5333         -58696.00                        211.00
+  2454400.5461         -55556.00                        232.00

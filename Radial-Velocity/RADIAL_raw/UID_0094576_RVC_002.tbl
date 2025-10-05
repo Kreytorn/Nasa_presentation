@@ -1,0 +1,25 @@
+\STAR_ID                                  = "HD 180314"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "3"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2453844.01193"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453929.07331"
+\MINIMUM_VALUE                            = "-292.1"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-70.4"
+\REFERENCE                                = "Sato et al. 2010 (arXiv, 1005, 2860)"
+\BIBCODE                                  = "2010arXiv1005.2860S"
+\TELESCOPE                                = "8.2m Subaru"
+\INSTRUMENT                               = "HDS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453844.01193            -292.1                           4.3
+  2453887.02601            -255.7                           4.2
+  2453929.07331             -70.4                           5.2

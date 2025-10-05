@@ -1,0 +1,46 @@
+\STAR_ID                            = "KELT-6"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "24"
+\TIME_REFERENCE_FRAME               = "BJD-TDB"
+\MINIMUM_DATE                       = "2456029.869867"
+\MAXIMUM_DATE                       = "2456504.645862"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-79.97"
+\MAXIMUM_VALUE                      = "63.43"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Collins et al. 2014 (AJ, 147, 39)"
+\BIBCODE                            = "2014AJ....147...39C"
+\TELESCOPE                          = "1.5m FLWO"
+\INSTRUMENT                         = "TRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "Fred L. Whipple Observatory, Mt. Hopkins, Arizona"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2456029.869867             27.02                         20.27
+  2456114.681684             -5.96                         28.33
+  2456117.673406             63.43                         19.73
+  2456443.707006            -33.79                         22.37
+  2456450.707562            -18.64                         19.40
+  2456451.710411            -54.28                         19.92
+  2456452.667049            -79.97                         17.75
+  2456453.661056             16.31                         21.20
+  2456458.688259            -71.18                         18.35
+  2456459.685632            -54.01                         17.19
+  2456460.684562            -57.04                         20.36
+  2456461.669084            -30.88                         18.32
+  2456462.673881              0.00                         14.42
+  2456463.673604             19.16                         15.25
+  2456464.684882             10.16                         14.42
+  2456466.733703            -69.70                         17.79
+  2456467.707369            -66.40                         24.43
+  2456468.720609            -78.93                         24.46
+  2456469.719214            -36.11                         22.32
+  2456470.658849             34.53                         19.41
+  2456472.704518            -11.86                         25.12
+  2456501.663546            -20.17                         33.33
+  2456503.653861             58.79                         33.22
+  2456504.645862             -2.35                         19.21

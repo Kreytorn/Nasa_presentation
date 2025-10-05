@@ -1,0 +1,24 @@
+\STAR_ID                                  = "OGLE-TR-56"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "3"
+\TIME_REFERENCE_FRAME                     = "HJD"
+\MINIMUM_DATE                             = "2452480.92390"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2452483.90680"
+\MINIMUM_VALUE                            = "-49640.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-49260.00"
+\REFERENCE                                = "Konacki et al. 2003 (ApJ, 597, 1076)"
+\BIBCODE                                  = "2003ApJ...597.1076K"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           HJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2452480.92390         -49260.00                        200.00
+  2452481.90961         -49350.00                         70.00
+  2452483.90680         -49640.00                         70.00

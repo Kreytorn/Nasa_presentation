@@ -1,0 +1,48 @@
+\STAR_ID                                  = "HW Vir"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "27"
+\TIME_REFERENCE_FRAME                     = "HJD"
+\MINIMUM_DATE                             = "2449382.193"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2449383.277"
+\MINIMUM_VALUE                            = "-95400.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "72800.00"
+\REFERENCE                                = "Hilditch et al. 1996 (MNRAS, 279, 1380)"
+\BIBCODE                                  = "1996MNRAS.279.1380H"
+\TELESCOPE                                = "3.9m Anglo-Australian Telescope (AAT)"
+\INSTRUMENT                               = "UCLES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Siding Spring Observatory, Australia"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|         HJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|      double |          double |                      double |
+|        days |             m/s |                         m/s |
+  2449382.193          17900.00                      11900.00
+  2449382.200          41000.00                      38700.00
+  2449382.206          60800.00                      59500.00
+  2449382.213          68200.00                      71500.00
+  2449382.220          72800.00                      73200.00
+  2449382.226          60100.00                      64500.00
+  2449382.233          43200.00                      46300.00
+  2449382.240          27100.00                      21100.00
+  2449382.246         -12800.00                      -8000.00
+  2449382.253         -41300.00                     -37300.00
+  2449382.260         -67100.00                     -62900.00
+  2449382.266         -85400.00                     -81700.00
+  2449382.273         -95400.00                     -91200.00
+  2449382.280         -93000.00                     -90200.00
+  2449383.190         -54700.00                     -50200.00
+  2449383.197         -71100.00                     -73200.00
+  2449383.203         -90300.00                     -87600.00
+  2449383.210         -91100.00                     -92100.00
+  2449383.217         -84700.00                     -86000.00
+  2449383.230         -33000.00                     -46300.00
+  2449383.237         -12000.00                     -18000.00
+  2449383.243          18300.00                      11600.00
+  2449383.250          44900.00                      38500.00
+  2449383.257          62100.00                      59800.00
+  2449383.264          66700.00                      71600.00
+  2449383.270          70500.00                      73200.00
+  2449383.277          58900.00                      64200.00

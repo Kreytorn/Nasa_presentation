@@ -1,0 +1,44 @@
+\STAR_ID='HD 166'
+\DATA_CATEGORY='Planet Radial Velocity Curve'
+\NUMBER_OF_POINTS='22'
+\TIME_REFERENCE_FRAME='HJD'
+\MINIMUM_DATE='2449679.6612'
+\DATE_UNITS='days'
+\MAXIMUM_DATE='2455846.76771'
+\MINIMUM_VALUE='-39.7799987793'
+\VALUE_UNITS='m/s'
+\MAXIMUM_VALUE='47.2000007629'
+\REFERENCE='Howard & Fulton, 2016'
+\BIBCODE='2016arXiv160603134H'
+\TELESCOPE='3.0m Shane'
+\INSTRUMENT='l: Hamilton Spectrograph post-dewar 16 (after November 1994)'
+\WAVELENGTH_CALIBRATION_TECHNIQUE='Iodine'
+\OBSERVATORY_SITE='Lick Observatory, California'
+\COLUMN_RADIAL_VELOCITY='Relative radial velocity'
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY='Uncertainty in RADIAL_VELOCITY'
+|          HJD|Radial_Velocity|Radial_Velocity_Uncertainty|
+|       double|         double|                     double|
+|         days|          m / s|                      m / s|
+|         null|           null|                       null|
+  2449679.6612   21.9200000763                   5.3799996 
+ 2449970.86246  -3.16000008583                        2.01 
+ 2450002.86035  -10.8999996185                   2.4000001 
+ 2450071.73242  -22.7600002289                  21.2900009 
+ 2450072.66309  -18.8299999237                   2.4400001 
+ 2450087.61816   6.38999986649                        2.21 
+ 2450088.66992   -3.6099998951                   2.1900001 
+ 2450089.69922   1.96000003815                        2.04 
+ 2450091.62891  -35.0600013733                   2.4400001 
+ 2450326.96777  -15.3800001144                   2.1800001 
+  2450656.9082  0.560000002384                        2.51 
+ 2451133.73144  -39.7799987793                   4.4299998 
+ 2453020.63477   6.05999994278                   3.6800001 
+  2453048.6361   47.2000007629                   2.1900001 
+ 2453211.99023  -28.6599998474                        1.91 
+ 2453212.96191  -1.41999995708                   2.0999999 
+ 2453216.92803   8.06000041962                   2.1900001 
+   2453218.943   10.8599996567                   2.0899999 
+ 2453236.95365  -28.1800003052                        1.99 
+ 2453260.87061  -23.6399993896                        3.05 
+ 2455844.76015  -16.2999992371                   3.4599998 
+ 2455846.76771   15.5900001526                   2.8099999 

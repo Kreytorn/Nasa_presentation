@@ -1,0 +1,29 @@
+\STAR_ID                                  = "OGLE-TR-10"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "8"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2452759.72111"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2452797.76880"
+\MINIMUM_VALUE                            = "-6365.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-6105.00"
+\REFERENCE                                = "Bouchy et al. 2005 (A&A, 431, 1105)"
+\BIBCODE                                  = "2005A&A...431.1105B"
+\TELESCOPE                                = "8.2m Kueyen (UT2)"
+\INSTRUMENT                               = "FLAMES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO VLT, Paranal Observatory, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2452759.72111          -6291.00                         64.00
+  2452764.85708          -6236.00                         51.00
+  2452766.79458          -6212.00                         55.00
+  2452767.72839          -6274.00                         59.00
+  2452768.84710          -6365.00                         44.00
+  2452769.85598          -6238.00                         55.00
+  2452770.82050          -6105.00                         43.00
+  2452797.76880          -6130.00                         50.00

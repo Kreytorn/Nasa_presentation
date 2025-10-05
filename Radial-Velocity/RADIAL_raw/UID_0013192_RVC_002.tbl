@@ -1,0 +1,34 @@
+\STAR_ID                                  = "HD 17156"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "13"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454459.605807"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454459.707944"
+\MINIMUM_VALUE                            = "-35.93"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "19.18"
+\REFERENCE                                = "Cochran et al. 2008 (ApJ, 683, L59)"
+\BIBCODE                                  = "2008ApJ...683L..59C"
+\TELESCOPE                                = "9.2m Hobby-Eberly Telescope (HET)"
+\INSTRUMENT                               = "HRS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "McDonald Observatory, Texas"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2454459.605807             18.55                          8.06
+  2454459.621927             10.35                          8.01
+  2454459.629827              5.63                          7.13
+  2454459.637718              0.74                          8.11
+  2454459.645611             19.18                          6.94
+  2454459.653504             11.45                          6.32
+  2454459.661400              4.77                          7.46
+  2454459.669293              4.65                          7.34
+  2454459.677194             -4.16                          7.34
+  2454459.685096             -7.11                          6.32
+  2454459.692989             -9.91                          7.68
+  2454459.700887            -18.44                          7.99
+  2454459.707944            -35.93                          9.25

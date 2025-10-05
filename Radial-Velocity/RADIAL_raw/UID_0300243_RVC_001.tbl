@@ -1,0 +1,33 @@
+\STAR_ID                            = "Kepler-77"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "11"
+\TIME_REFERENCE_FRAME               = "HJD-UTC"
+\MINIMUM_DATE                       = "2456101.696090"
+\MAXIMUM_DATE                       = "2456214.347020"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-24808.0"
+\MAXIMUM_VALUE                      = "-24691.0"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Gandolfi et al. 2013 (2013, A&A, 557A, 74)"
+\BIBCODE                            = "2013A&A...557A..74G"
+\TELESCOPE                          = "2.5m NOT"
+\INSTRUMENT                         = "FIES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "Observatorio del Roque de los Muchachos, La Palma, Spain"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2456101.696090         -24773.00                         18.00
+  2456102.531600         -24808.00                         18.00
+  2456104.601910         -24712.00                         24.00
+  2456105.609140         -24805.00                         20.00
+  2456107.701220         -24691.00                         19.00
+  2456118.656140         -24705.00                         14.00
+  2456119.704640         -24803.00                         12.00
+  2456121.666980         -24716.00                         14.00
+  2456122.702040         -24702.00                         23.00
+  2456202.417910         -24806.00                         12.00
+  2456214.347020         -24739.00                         24.00

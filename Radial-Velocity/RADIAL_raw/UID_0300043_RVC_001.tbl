@@ -1,0 +1,25 @@
+\STAR_ID                                  = "TrES-4"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "4"
+\TIME_REFERENCE_FRAME                     = "HJD"
+\MINIMUM_DATE                             = "2454187.07793"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454189.14920"
+\MINIMUM_VALUE                            = "-76.5"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "97.5"
+\REFERENCE                                = "Mandushev et al. 2007 (ApJ, 667, 195L)"
+\BIBCODE                                  = "2007ApJ...667L.195M"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           HJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2454187.07793              97.5                          11.8
+  2454188.11122              58.9                           9.4
+  2454189.02631             -76.5                          11.6
+  2454189.14920             -73.9                          10.3

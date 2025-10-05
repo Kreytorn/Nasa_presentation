@@ -1,0 +1,25 @@
+\STAR_ID                                  = "BD +20 1790"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "3"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2454820.5057"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454822.5483"
+\MINIMUM_VALUE                            = "7530.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "7960.00"
+\REFERENCE                                = "Hernan-Obispo et al. 2010 (A&A, 512A, 45)"
+\BIBCODE                                  = "2010A&A...512A..45H"
+\TELESCOPE                                = "2.2m CAHA"
+\INSTRUMENT                               = "FOCES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Calar Alto Observatory, Andalucia, Spain"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454820.5057           7730.00                        160.00
+  2454821.5126           7530.00                        160.00
+  2454822.5483           7960.00                        140.00

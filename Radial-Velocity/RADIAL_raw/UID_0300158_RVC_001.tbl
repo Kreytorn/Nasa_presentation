@@ -1,0 +1,35 @@
+\STAR_ID                            = "WASP-45"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "13"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455388.935300"
+\MAXIMUM_DATE                       = "2455482.682600"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "4392.0"
+\MAXIMUM_VALUE                      = "4704.0"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Anderson et al. 2011 (arXiv, 1105, 3179)"
+\BIBCODE                            = "2012MNRAS.422.1988A"
+\TELESCOPE                          = "1.2m Euler/ESO"
+\INSTRUMENT                         = "CORALIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "ESO La Silla, Chile"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455388.935300           4406.00                         10.00
+  2455390.814900           4680.00                         12.00
+  2455391.893700           4414.00                         11.00
+  2455392.831400           4552.00                         10.00
+  2455393.759300           4704.00                         14.00
+  2455404.846600           4426.00                         10.00
+  2455410.721500           4392.00                         19.00
+  2455414.762700           4557.00                         15.00
+  2455446.861400           4683.00                         12.00
+  2455449.879400           4699.00                         11.00
+  2455451.855000           4452.00                         15.00
+  2455453.874100           4507.00                         11.00
+  2455482.682600           4410.00                         13.00

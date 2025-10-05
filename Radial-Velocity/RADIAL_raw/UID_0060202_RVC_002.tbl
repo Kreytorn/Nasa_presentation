@@ -1,0 +1,40 @@
+\STAR_ID                                  = "11 Com"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "18"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2453420.2939"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454132.3976"
+\MINIMUM_VALUE                            = "-178100.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "304800.00"
+\REFERENCE                                = "Liu et al. 2008 (ApJ, 672, 553)"
+\BIBCODE                                  = "2008ApJ...672..553L"
+\TELESCOPE                                = "2.16m"
+\INSTRUMENT                               = "CES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Xinglong Station"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2453420.2939         195400.00                      33500.00
+  2453422.2517         126700.00                      36200.00
+  2453422.2627         112000.00                      33100.00
+  2453511.0423         281900.00                      29900.00
+  2453514.0647         249400.00                      25600.00
+  2453514.0779         304800.00                      20600.00
+  2453775.2678         243100.00                      30600.00
+  2453778.3433         220600.00                      30300.00
+  2453839.1013         229100.00                      36600.00
+  2453839.1229         204400.00                      18600.00
+  2453839.1462         246700.00                      31800.00
+  2453841.1569         227500.00                      28900.00
+  2453891.0521        -124400.00                      18300.00
+  2453894.0998        -178100.00                      22700.00
+  2454045.3959          78700.00                      21100.00
+  2454046.3706          58300.00                      26700.00
+  2454132.3744         249100.00                      30900.00
+  2454132.3976         253200.00                      19700.00

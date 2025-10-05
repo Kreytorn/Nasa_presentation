@@ -1,0 +1,38 @@
+\STAR_ID                                  = "HAT-P-7"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "17"
+\TIME_REFERENCE_FRAME                     = "HJD"
+\MINIMUM_DATE                             = "2454336.73960"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2455044.07369"
+\MINIMUM_VALUE                            = "-256.42"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "191.34"
+\REFERENCE                                = "Winn et al. 2009 (ApJ, 703, L99)"
+\BIBCODE                                  = "2009ApJ...703L..99W"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           HJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2454336.73960            111.08                          1.72
+  2454336.85367             58.89                          1.78
+  2454337.76212           -236.06                          1.70
+  2454338.77440            151.06                          1.54
+  2454338.85456            131.12                          1.57
+  2454339.89886           -256.42                          1.83
+  2454343.83180           -162.19                          1.75
+  2454344.98805             84.42                          2.15
+  2454983.99020            -77.44                          2.20
+  2454985.02095            110.41                          1.96
+  2454987.01053            189.80                          2.23
+  2454988.00940           -221.82                          2.28
+  2455014.95322            -41.51                          2.08
+  2455016.05508              4.10                          2.23
+  2455042.03696            189.91                          2.53
+  2455042.98594           -228.74                          2.40
+  2455044.07369            191.34                          2.55

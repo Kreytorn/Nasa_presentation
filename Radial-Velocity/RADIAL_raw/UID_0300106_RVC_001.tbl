@@ -1,0 +1,37 @@
+\STAR_ID                                  = "WASP-26"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "16"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2455001.927439"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2455096.728728"
+\MINIMUM_VALUE                            = "8317.89"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "8591.17"
+\REFERENCE                                = "Smalley et al. 2010 (arXiv, 1004, 1542)"
+\BIBCODE                                  = "2010arXiv1004.1542S"
+\TELESCOPE                                = "1.2m Euler Swiss telescope"
+\INSTRUMENT                               = "CORALIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455001.927439           8591.17                          9.15
+  2455008.900119           8355.10                          9.59
+  2455011.938063           8456.26                         11.34
+  2455012.833505           8582.64                         10.92
+  2455013.918513           8329.91                          9.97
+  2455036.934802           8506.76                         10.22
+  2455037.917112           8533.60                          9.51
+  2455038.919423           8327.03                          8.71
+  2455040.915661           8471.29                         19.29
+  2455042.899210           8572.24                          8.00
+  2455068.668524           8411.45                         10.11
+  2455070.807797           8574.95                          9.67
+  2455072.729127           8497.20                          9.79
+  2455076.856687           8439.43                         18.66
+  2455094.818292           8494.11                          9.29
+  2455096.728728           8317.89                          8.55

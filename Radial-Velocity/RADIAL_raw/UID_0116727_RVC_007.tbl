@@ -1,0 +1,32 @@
+\STAR_ID                                  = "Gamma Cephei"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "11"
+\TIME_REFERENCE_FRAME                     = "MJD"
+\MINIMUM_DATE                             = "2447490"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2450700"
+\MINIMUM_VALUE                            = "-460.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "390.00"
+\REFERENCE                                = "Griffin et al. 2002 (Obs, 122, 90)"
+\BIBCODE                                  = "2002Obs...122...90G"
+\TELESCOPE                                = "2.7m Harlan J. Smith (HJS) telescope"
+\INSTRUMENT                               = "spectrograph"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "McDonald Observatory, Texas"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|     MJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|  double |          double |                      double |
+|    days |             m/s |                         m/s |
+  2447490            390.00                          0.00
+  2447810             90.00                         20.00
+  2448190           -210.00                         40.00
+  2448560           -350.00                         10.00
+  2448910           -460.00                         20.00
+  2449310           -380.00                         30.00
+  2449680           -290.00                         10.00
+  2449950           -130.00                         10.00
+  2450100            -20.00                         30.00
+  2450340            150.00                         40.00
+  2450700            320.00                         50.00

@@ -1,0 +1,63 @@
+\STAR_ID                                  = "HD 2039"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "41"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2451118.057282"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453579.224159"
+\MINIMUM_VALUE                            = "-73."
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "155."
+\REFERENCE                                = "Butler et al. 2006 (ApJ, 646, 505)"
+\BIBCODE                                  = "2006ApJ...646..505B"
+\TELESCOPE                                = "3.9m Anglo-Australian Telescope (AAT)"
+\INSTRUMENT                               = "UCLES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Siding Spring Observatory, Australia"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|             JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2451118.057282               9.7                           8.5
+  2451118.960972              -14.                           15.
+  2451119.944525               -2.                           11.
+  2451121.038461               -5.                           14.
+  2451211.951424              -29.                           16.
+  2451212.923368              -16.                           11.
+  2451213.974942              -13.                           15.
+  2451214.917072              -19.                           10.
+  2451386.322743              -34.                           15.
+  2451387.298102              -21.                           11.
+  2451411.229306              -12.                           16.
+  2451414.258484              -36.                           11.
+  2451473.088310             -50.6                           9.9
+  2451525.928646              -73.                           16.
+  2451527.922569              -59.                           12.
+  2451745.270185              -66.                           20.
+  2451828.070301              -42.                           14.
+  2451828.994065              -42.                           12.
+  2451829.975741              -50.                           13.
+  2451856.070231              -42.                           20.
+  2451919.943437              -12.                           14.
+  2451920.967153               -4.                           14.
+  2452093.294734              155.                           15.
+  2452127.234120               76.                           15.
+  2452151.222963              49.5                           9.6
+  2452152.086030              55.0                           9.0
+  2452154.212373               62.                           12.
+  2452187.095741              39.4                           9.6
+  2452188.030000              42.1                           8.1
+  2452189.150208               38.                           10.
+  2452190.093315              36.0                           7.3
+  2452422.328090              -30.                           13.
+  2452425.332222             -27.8                           7.9
+  2452455.285130             -37.2                           6.0
+  2452477.254306              -22.                           21.
+  2452511.104514              -28.                           13.
+  2452599.015313              -36.                           12.
+  2453007.029464             -17.0                           5.7
+  2453045.919745              -16.                           12.
+  2453245.255355              95.8                           7.7
+  2453579.224159              -6.9                           6.3

@@ -1,0 +1,24 @@
+\STAR_ID                                  = "Gamma Cephei"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "3"
+\TIME_REFERENCE_FRAME                     = "HJD"
+\MINIMUM_DATE                             = "2452099.9707"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453337.6691"
+\MINIMUM_VALUE                            = "-45080.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-44600.00"
+\REFERENCE                                = "Torres 2007 (ApJ, 654, 1095)"
+\BIBCODE                                  = "2007ApJ...654.1095T"
+\TELESCOPE                                = "1.5m Tillinghast"
+\INSTRUMENT                               = "echelle spectrograph"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Fred L. Whipple Observatory (FLWO), Mt. Hopkins, Arizona"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          HJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2452099.9707         -45080.00                        230.00
+  2453275.7782         -44720.00                        230.00
+  2453337.6691         -44600.00                        230.00

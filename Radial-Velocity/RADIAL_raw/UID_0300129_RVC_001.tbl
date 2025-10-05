@@ -1,0 +1,35 @@
+\STAR_ID                            = "HAT-P-23"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "13"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2454638.106010"
+\MAXIMUM_DATE                       = "2455193.710800"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-369.93"
+\MAXIMUM_VALUE                      = "388.82"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Bakos et al. 2010 (arXiv, 1008, 3388)"
+\BIBCODE                            = "2011ApJ...742..116B"
+\TELESCOPE                          = "10m Keck"
+\INSTRUMENT                         = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Gas Cell Absorption (Iodine)"
+\OBSERVATORY_SITE                   = "Manua Kea, Hawaii"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2454638.106010           -137.90                          4.49
+  2454674.914040            374.64                          5.15
+  2454723.787190           -209.16                          5.55
+  2454725.853090            329.57                          6.18
+  2454726.879760            277.98                          4.20
+  2454727.762470           -210.01                          4.81
+  2454727.896190            -19.91                          4.77
+  2454777.821890            214.73                          4.54
+  2454810.729600            290.22                          5.63
+  2454955.046760            388.82                          4.74
+  2454985.994940           -369.93                          4.42
+  2455192.708120            348.01                          4.40
+  2455193.710800             83.68                          4.57

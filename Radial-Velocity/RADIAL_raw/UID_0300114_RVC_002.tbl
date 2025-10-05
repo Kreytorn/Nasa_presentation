@@ -1,0 +1,24 @@
+\STAR_ID                            = "CoRoT-8"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "2"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2454314.407760"
+\MAXIMUM_DATE                       = "2454318.410150"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-37606.0"
+\MAXIMUM_VALUE                      = "-37545.4"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Borde et al. 2010 (2010, A&A, 520A, 66)"
+\BIBCODE                            = "2010A&A...520A..66B"
+\TELESCOPE                          = "1.93m OHP"
+\INSTRUMENT                         = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "Observatoire de Haute Provence, France"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2454314.407760         -37606.00                         49.00
+  2454318.410150         -37545.40                         18.40

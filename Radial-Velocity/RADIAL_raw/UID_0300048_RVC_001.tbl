@@ -1,0 +1,24 @@
+\STAR_ID                                  = "CoRoT-2"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "3"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454329.67560"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454378.56018"
+\MINIMUM_VALUE                            = "22842.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "23665.00"
+\REFERENCE                                = "Alonso et al. 2008 (A&AL, 482, 21)"
+\BIBCODE                                  = "2008A&A...482L..21A"
+\TELESCOPE                                = "1.2m Euler Swiss telescope"
+\INSTRUMENT                               = "CORALIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2454329.67560          23665.00                         45.00
+  2454330.66442          22842.00                         39.00
+  2454378.56018          23339.00                         32.00

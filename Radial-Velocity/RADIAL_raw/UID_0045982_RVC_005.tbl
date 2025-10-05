@@ -1,0 +1,27 @@
+\STAR_ID                                  = "HD 80606"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "6"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2451293.846"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2451550.100"
+\MINIMUM_VALUE                            = "3642.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "3910.00"
+\REFERENCE                                = "Naef et al. 2001 (A&A, 375, L27)"
+\BIBCODE                                  = "2001A&A...375L..27N"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|         BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|      double |          double |                      double |
+|        days |             m/s |                         m/s |
+  2451293.846           3642.00                         14.00
+  2451318.798           3910.00                         15.00
+  2451546.139           3854.00                         12.00
+  2451547.059           3876.00                         12.00
+  2451549.063           3817.00                         11.00
+  2451550.100           3812.00                         12.00

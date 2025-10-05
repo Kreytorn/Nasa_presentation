@@ -1,0 +1,31 @@
+\STAR_ID                            = "HAT-P-41"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "9"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455378.587660"
+\MAXIMUM_DATE                       = "2455431.540130"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-153.82"
+\MAXIMUM_VALUE                      = "112.71"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Hartman et al. 2012 (2012, AJ, 144, 139)"
+\BIBCODE                            = "2012AJ....144..139H"
+\TELESCOPE                          = "2.5m NOT"
+\INSTRUMENT                         = "FIES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "Observatorio del Roque de los Muchachos, La Palma, Spain"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455378.587660             52.31                         40.10
+  2455379.545780             21.11                         51.30
+  2455380.474200           -106.99                         49.00
+  2455381.616870            112.71                         49.90
+  2455383.493570            -79.79                         75.00
+  2455427.513770            112.18                         40.10
+  2455428.540900            -22.42                         91.50
+  2455429.380870            -79.42                         50.00
+  2455431.540130           -153.82                         68.60

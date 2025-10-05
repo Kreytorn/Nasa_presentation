@@ -1,0 +1,55 @@
+\STAR_ID                                  = "HD 196885"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "33"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2451298.918984"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2452592.554991"
+\MINIMUM_VALUE                            = "-30303.12"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-30218.62"
+\REFERENCE                                = "Correia et al. 2008 (A&A, 479, 271)"
+\BIBCODE                                  = "2008A&A...479..271C"
+\TELESCOPE                                = "1.2m Euler Swiss telescope"
+\INSTRUMENT                               = "CORALIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|             JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2451298.918984         -30245.09                          6.40
+  2451306.904153         -30268.96                          7.39
+  2451366.803110         -30251.38                          5.49
+  2451398.714393         -30244.97                          5.89
+  2451459.601815         -30270.08                          6.55
+  2451480.555959         -30271.35                          6.52
+  2451490.525954         -30261.99                          8.16
+  2451689.881182         -30240.24                         10.40
+  2451787.677143         -30254.62                          5.93
+  2451810.601055         -30238.95                          4.86
+  2451836.543047         -30229.08                          5.81
+  2451844.513645         -30236.19                          4.93
+  2452049.908529         -30239.32                          9.65
+  2452051.841677         -30228.95                         10.08
+  2452072.795583         -30243.81                          5.68
+  2452081.824815         -30240.62                          5.68
+  2452093.752976         -30235.13                          5.78
+  2452099.763177         -30245.04                          9.50
+  2452104.700795         -30246.03                          6.39
+  2452106.703131         -30232.16                          7.59
+  2452143.716611         -30234.41                          5.31
+  2452161.625563         -30238.24                          6.67
+  2452199.552447         -30231.24                          6.41
+  2452217.504374         -30241.09                          6.47
+  2452223.514934         -30218.62                          7.54
+  2452437.876415         -30231.23                          5.62
+  2452460.760223         -30241.15                          7.34
+  2452488.697997         -30236.61                          8.98
+  2452498.710081         -30245.57                          4.58
+  2452544.562445         -30265.45                          4.47
+  2452550.543818         -30274.35                          4.84
+  2452564.594880         -30279.54                          5.59
+  2452592.554991         -30303.12                          6.60

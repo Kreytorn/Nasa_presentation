@@ -1,0 +1,46 @@
+\STAR_ID                            = "Kepler-15"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "24"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455284.981300"
+\MAXIMUM_DATE                       = "2455509.575500"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-77.6"
+\MAXIMUM_VALUE                      = "110.5"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Endl et al. 2011 (2011, ApJS, 197, 13)"
+\BIBCODE                            = "2011ApJS..197...13E"
+\TELESCOPE                          = "9m HET"
+\INSTRUMENT                         = "HRS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Gas Cell Absorption (Iodine)"
+\OBSERVATORY_SITE                   = "McDonald Observatory, Texas"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455284.981300             57.60                          9.50
+  2455286.971000            -46.70                         19.10
+  2455335.858400            -59.80                         18.80
+  2455337.869000             -0.30                         23.10
+  2455346.841500            -56.90                         38.00
+  2455349.813400             16.90                         29.00
+  2455357.791800             48.40                         25.70
+  2455359.784700              0.10                         21.30
+  2455363.784800             67.80                         19.30
+  2455370.733900            -77.60                         13.10
+  2455395.690100            -76.70                         22.70
+  2455397.881200             94.80                         34.50
+  2455399.884800            -25.20                         29.20
+  2455405.675200            -72.30                         35.00
+  2455470.693400            -24.00                         27.00
+  2455494.620300            -70.90                         25.90
+  2455497.633700             66.40                         15.10
+  2455498.603100            -12.60                         23.80
+  2455501.603700            110.50                         18.00
+  2455502.592500             66.40                         37.90
+  2455504.595300            -37.60                         22.90
+  2455506.589100             84.10                         22.70
+  2455508.600900            -10.90                         34.00
+  2455509.575500            -41.40                         31.90

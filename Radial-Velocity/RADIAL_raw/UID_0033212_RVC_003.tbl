@@ -1,0 +1,33 @@
+\STAR_ID                                  = "HD 50554"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "11"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2461171.062"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2462243.018"
+\MINIMUM_VALUE                            = "-19.77"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "75.27"
+\REFERENCE                                = "Fischer et al. 2002 (PASP, 114, 529)"
+\BIBCODE                                  = "2002PASP..114..529F"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|      double |          double |                      double |
+|        days |             m/s |                         m/s |
+  2461171.062             -5.56                          4.06
+  2461171.955              0.00                          4.18
+  2461172.903             -4.59                          4.24
+  2461174.113             -6.74                          5.01
+  2461200.007              6.73                          4.60
+  2462007.845             75.27                          4.36
+  2462219.141            -11.78                          4.51
+  2462220.111            -19.77                          5.22
+  2462235.969             12.16                          3.70
+  2462238.914             10.84                          3.89
+  2462243.018             -7.18                          4.29

@@ -1,0 +1,32 @@
+\STAR_ID                                  = "WASP-5"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "11"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454359.614570"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454387.644986"
+\MINIMUM_VALUE                            = "19747.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "20248.00"
+\REFERENCE                                = "Anderson et al. 2008 (MNRAS, 387, L4)"
+\BIBCODE                                  = "2008MNRAS.387L...4A"
+\TELESCOPE                                = "1.2m Euler Swiss telescope"
+\INSTRUMENT                               = "CORALIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2454359.614570          19785.00                         16.00
+  2454362.654785          19942.00                         15.00
+  2454364.676219          19753.00                         21.00
+  2454365.682733          20203.00                         13.00
+  2454372.781658          19750.00                         13.00
+  2454374.817984          20016.00                         40.00
+  2454376.714797          20248.00                         14.00
+  2454377.762440          19747.00                         13.00
+  2454379.627523          19907.00                         14.00
+  2454380.682557          19830.00                         10.00
+  2454387.644986          19818.00                         15.00

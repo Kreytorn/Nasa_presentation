@@ -1,0 +1,53 @@
+\STAR_ID                                  = "Beta Gem"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "32"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2447430.953"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2448375.668"
+\MINIMUM_VALUE                            = "-52.5"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "60.2"
+\REFERENCE                                = "Hatzes & Cochran 1993 (ApJ, 413, 339)"
+\BIBCODE                                  = "1993ApJ...413..339H"
+\TELESCOPE                                = "2.7m"
+\INSTRUMENT                               = "coude focus"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Telluric Oxygen"
+\OBSERVATORY_SITE                         = "McDonald Observatory, Texas"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+|          JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|      double |          double |                      double |
+|        days |             m/s |                         m/s |
+   2447430.953             -45.9                            20
+   2447495.985             -52.5                            20
+   2447516.863              -4.5                            20
+   2447517.863             -16.5                            20
+   2447549.939             -33.7                            20
+   2447551.767             -44.3                            20
+   2447581.770             -22.7                            20
+   2447582.725             -41.8                            20
+   2447610.701               9.0                            20
+   2447611.683               7.4                            20
+   2447633.676              36.0                            20
+   2447634.629              60.2                            20
+   2447635.641              17.4                            20
+   2447813.981             -45.9                            20
+   2447879.913             -33.7                            20
+   2447880.882             -52.5                            20
+   2447894.880              -4.5                            20
+   2447895.934             -16.5                            20
+   2447896.926             -44.3                            20
+   2447958.705             -22.7                            20
+   2447998.672             -41.8                            20
+   2448000.679               9.0                            20
+   2448016.650               7.4                            20
+   2448017.620              36.0                            20
+   2448018.603              60.2                            20
+   2448176.991              17.4                            20
+   2448285.855              25.4                            20
+   2448287.836              43.6                            20
+   2448345.673              39.1                            20
+   2448347.654              35.0                            20
+   2448373.623              40.5                            20
+   2448375.668              16.5                            20

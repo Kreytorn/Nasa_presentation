@@ -1,0 +1,43 @@
+\STAR_ID                                  = "HD 330075"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "21"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2452851.4874"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453055.8885"
+\MINIMUM_VALUE                            = "61169.90"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "61392.50"
+\REFERENCE                                = "Pepe et al. 2004 (A&A, 423, 385)"
+\BIBCODE                                  = "2004A&A...423..385P"
+\TELESCOPE                                = "3.6m"
+\INSTRUMENT                               = "HARPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2452851.4874          61376.60                          1.10
+  2452853.4807          61173.60                          2.90
+  2452854.5303          61329.70                          1.30
+  2452854.6556          61352.60                          2.30
+  2452855.6167          61340.20                          3.30
+  2452856.5183          61185.00                          3.30
+  2452856.6590          61186.70                          4.30
+  2452857.4772          61249.40                          1.70
+  2452857.6565          61287.50                          3.10
+  2452858.4613          61392.50                          2.20
+  2452858.6423          61382.10                          2.10
+  2452859.4782          61249.50                          1.70
+  2452859.5022          61247.70                          1.60
+  2452859.6235          61225.10                          1.80
+  2453047.8845          61363.20                          2.90
+  2453048.8853          61309.10                          1.90
+  2453049.8848          61169.90                          1.80
+  2453050.8724          61304.80                          1.00
+  2453052.8718          61200.40                          0.90
+  2453053.8716          61225.90                          1.00
+  2453055.8885          61264.10                          0.90

@@ -1,0 +1,43 @@
+\STAR_ID='HD 67228'
+\DATA_CATEGORY='Planet Radial Velocity Curve'
+\NUMBER_OF_POINTS='21'
+\TIME_REFERENCE_FRAME='HJD'
+\MINIMUM_DATE='2453337.8877'
+\DATE_UNITS='days'
+\MAXIMUM_DATE='2453774.81333'
+\MINIMUM_VALUE='-37.9364062576'
+\VALUE_UNITS='m/s'
+\MAXIMUM_VALUE='5.43041917552'
+\REFERENCE='Howard & Fulton, 2016'
+\BIBCODE='2016arXiv160603134H'
+\TELESCOPE='10m Keck I'
+\INSTRUMENT='j: post-upgrade Keck HIRES (after August 19 2004)'
+\WAVELENGTH_CALIBRATION_TECHNIQUE='Iodine'
+\OBSERVATORY_SITE='Mauna Kea, Hawaii'
+\COLUMN_RADIAL_VELOCITY='Relative radial velocity'
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY='Uncertainty in RADIAL_VELOCITY'
+|          HJD|Radial_Velocity|Radial_Velocity_Uncertainty|
+|       double|         double|                     double|
+|         days|          m / s|                      m / s|
+|         null|           null|                       null|
+  2453337.8877  -18.5376207996                   6.5452995 
+ 2453338.92871  -8.56681510344                   7.3914123 
+ 2453339.96389  -11.6610240902                   4.4073558 
+ 2453360.90133  -4.21804240288                   6.1073184 
+ 2453362.87009  -11.6549197063                   6.3877602 
+ 2453363.87527  -7.43034636456                   6.2422404 
+ 2453384.77836   -12.198242281                    5.653398 
+ 2453385.82204  -6.08659247872                   5.1328402 
+ 2453402.82223   5.43041917552                    6.240118 
+ 2453403.87389  -8.22003471905                   5.8833842 
+ 2453437.71211   -15.221464509                   5.9839592 
+ 2453438.70609  -20.8218816553                   6.2381067 
+ 2453439.71582  -26.6722731488                   6.1980491 
+ 2453440.71336  -13.6737034718                   6.7647924 
+ 2453441.71385  -14.7466842516                   6.6555963 
+ 2453744.79383  -14.9675053707                   7.1748786 
+ 2453752.84321  -37.9364062576                   6.7456603 
+ 2453755.85428  -7.03368344313                   7.2128549 
+ 2453756.81229  -15.0310320931                   7.3606429 
+ 2453773.76881  -14.9431532528                   6.7742033 
+ 2453774.81333  -4.14541567777                   6.2084484 

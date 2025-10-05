@@ -1,0 +1,28 @@
+\STAR_ID                                  = "HD 149382"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "7"
+\TIME_REFERENCE_FRAME                     = "MJD"
+\MINIMUM_DATE                             = "2453931.76614"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453932.85560"
+\MINIMUM_VALUE                            = "24800.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "26800.00"
+\REFERENCE                                = "Geier et al. 2009 (ApJ, 702, L96)"
+\BIBCODE                                  = "2009ApJ...702L..96G"
+\TELESCOPE                                = "2.7m Harlan J. Smith (HJS) telescope"
+\INSTRUMENT                               = "2d coude spectrograph (2dCS)"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "McDonald Observatory, Texas"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           MJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453931.76614          26800.00                        200.00
+  2453932.71806          26100.00                        200.00
+  2453932.72485          25700.00                        200.00
+  2453932.74337          25900.00                        200.00
+  2453932.74882          25700.00                        200.00
+  2453932.84790          24800.00                        200.00
+  2453932.85560          25100.00                        200.00

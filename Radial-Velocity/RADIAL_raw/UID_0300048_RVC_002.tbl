@@ -1,0 +1,33 @@
+\STAR_ID                                  = "CoRoT-2"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "12"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454345.52251"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454349.66605"
+\MINIMUM_VALUE                            = "22813.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "23811.00"
+\REFERENCE                                = "Alonso et al. 2008 (A&AL, 482, 21)"
+\BIBCODE                                  = "2008A&A...482L..21A"
+\TELESCOPE                                = "3.6m"
+\INSTRUMENT                               = "HARPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2454345.52251          23371.00                         20.00
+  2454345.52981          23371.00                         19.00
+  2454345.53713          23392.00                         18.00
+  2454345.54444          23360.00                         18.00
+  2454345.55176          23347.00                         19.00
+  2454345.65632          23107.00                         19.00
+  2454345.66364          23090.00                         19.00
+  2454345.67095          23034.00                         20.00
+  2454346.53194          23267.00                         21.00
+  2454347.57772          22847.00                         11.00
+  2454348.63260          23811.00                         11.00
+  2454349.66605          22813.00                         12.00

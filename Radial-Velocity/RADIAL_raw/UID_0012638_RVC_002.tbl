@@ -1,0 +1,39 @@
+\STAR_ID                                  = "HD 16760"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "17"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2453746.81122"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454838.85261"
+\MINIMUM_VALUE                            = "-414.10"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "387.91"
+\REFERENCE                                = "Sato et al. 2009 (ApJ, 703, 671)"
+\BIBCODE                                  = "2009ApJ...703..671S"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453746.81122           -409.23                          1.28
+  2453747.87456           -414.10                          1.24
+  2453748.78525           -411.79                          1.20
+  2453749.78054           -413.81                          1.16
+  2453750.79189           -409.55                          1.15
+  2453775.77328           -336.64                          0.95
+  2453776.81038           -335.11                          1.25
+  2454023.95588            217.93                          1.50
+  2454130.74043           -261.06                          1.10
+  2454138.79826           -287.38                          1.11
+  2454319.10806            106.52                          1.14
+  2454398.95389            387.91                          1.13
+  2454399.88492            384.74                          1.36
+  2454427.84750            385.80                          1.43
+  2454492.75215            211.30                          1.10
+  2454809.84453            235.27                          1.52
+  2454838.85261            342.52                          1.02

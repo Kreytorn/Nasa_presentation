@@ -1,0 +1,29 @@
+\STAR_ID                            = "HATS-P-36"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "7"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455547.021390"
+\MAXIMUM_DATE                       = "2455559.996130"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-355.47"
+\MAXIMUM_VALUE                      = "240.83"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Bakos et al. 2012 (arXiv, 1201, 0659)"
+\BIBCODE                            = "2012AJ....144...19B"
+\TELESCOPE                          = "1.5m FLWO"
+\INSTRUMENT                         = "TRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "Fred L. Whipple Observatory, Mt. Hopkins, Arizona"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455547.021390           -206.37                         22.40
+  2455550.042360            200.83                         22.80
+  2455554.993940           -293.87                         11.40
+  2455556.053880           -237.67                          7.40
+  2455557.055330            240.83                         24.60
+  2455558.957410           -355.47                         10.50
+  2455559.996130           -199.97                         17.70

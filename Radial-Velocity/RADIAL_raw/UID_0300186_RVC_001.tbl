@@ -1,0 +1,27 @@
+\STAR_ID                            = "HATS-P-35"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "5"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455482.734690"
+\MAXIMUM_DATE                       = "2455490.724600"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-152.93"
+\MAXIMUM_VALUE                      = "106.37"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Bakos et al. 2012 (arXiv, 1201, 0659)"
+\BIBCODE                            = "2012AJ....144...19B"
+\TELESCOPE                          = "2.5m NOT"
+\INSTRUMENT                         = "FIES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "Observatorio del Roque de los Muchachos, La Palma, Spain"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455482.734690            106.37                         10.20
+  2455483.748990             39.07                         10.70
+  2455486.745440             97.37                          8.50
+  2455488.747370           -152.93                         16.90
+  2455490.724600             78.27                          8.50

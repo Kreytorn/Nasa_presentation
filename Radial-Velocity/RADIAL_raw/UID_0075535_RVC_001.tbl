@@ -1,0 +1,32 @@
+\STAR_ID                                  = "HD 137510"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "10"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2451999.022720"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453125.846968"
+\MINIMUM_VALUE                            = "-289.0"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "319."
+\REFERENCE                                = "Butler et al. 2006 (ApJ, 646, 505)"
+\BIBCODE                                  = "2006ApJ...646..505B"
+\TELESCOPE                                = "3.0m Shane and 0.6m CAT"
+\INSTRUMENT                               = "Hamilton echelle spectrograph"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Lick Observatory, California"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|             JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2451999.022720             -283.                           11.
+  2451999.992354            -283.7                           7.7
+  2452033.948125            -289.0                           9.6
+  2452317.061516              -25.                           13.
+  2452334.068981              -6.8                           8.8
+  2452339.037153              24.5                           7.8
+  2452409.855762             193.4                           7.3
+  2452448.807500              319.                           11.
+  2453124.861918             -47.0                           8.9
+  2453125.846968              -1.8                           7.8

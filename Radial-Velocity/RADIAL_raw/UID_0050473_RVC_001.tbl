@@ -1,0 +1,34 @@
+\STAR_ID                                  = "HD 89307"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "12"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2450831.879826"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2452334.785521"
+\MINIMUM_VALUE                            = "-44."
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "36.0"
+\REFERENCE                                = "Butler et al. 2006 (ApJ, 646, 505)"
+\BIBCODE                                  = "2006ApJ...646..505B"
+\TELESCOPE                                = "3.0m Shane and 0.6m CAT"
+\INSTRUMENT                               = "Hamilton echelle spectrograph"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Lick Observatory, California"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|             JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2450831.879826              -13.                           16.
+  2450854.904468              -44.                           14.
+  2451155.061262              -34.                           12.
+  2451212.963542              -40.                           18.
+  2451533.037419             -40.1                           9.8
+  2451536.942326             -12.3                           8.4
+  2451914.036481              -6.2                           7.3
+  2451914.979711              12.3                           8.4
+  2451916.003715              10.3                           7.5
+  2452075.690949              15.9                           9.1
+  2452333.893391              30.0                           7.4
+  2452334.785521              36.0                           9.0

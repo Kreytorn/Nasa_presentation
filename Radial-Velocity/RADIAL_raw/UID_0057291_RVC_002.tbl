@@ -1,0 +1,34 @@
+\STAR_ID                                  = "HD 102117"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "13"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2453017.85639"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453400.83082"
+\MINIMUM_VALUE                            = "49571.70"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "49593.70"
+\REFERENCE                                = "Lovis et al. 2005 (A&A, 437, 1121)"
+\BIBCODE                                  = "2005A&A...437.1121L"
+\TELESCOPE                                = "3.6m"
+\INSTRUMENT                               = "HARPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453017.85639          49571.70                          1.40
+  2453054.80495          49582.70                          1.40
+  2453145.59708          49575.40                          1.00
+  2453147.57142          49584.30                          0.90
+  2453150.67935          49591.10                          0.90
+  2453153.55336          49593.70                          0.90
+  2453156.57259          49587.10                          0.90
+  2453201.49891          49577.30                          0.80
+  2453204.47977          49574.00                          0.90
+  2453207.46689          49578.30                          1.30
+  2453217.52802          49590.30                          0.90
+  2453315.86091          49591.20                          0.80
+  2453400.83082          49593.50                          1.00

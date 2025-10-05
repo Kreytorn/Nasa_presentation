@@ -1,0 +1,48 @@
+\STAR_ID                            = "omicron UMa"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "26"
+\TIME_REFERENCE_FRAME               = "JD-UTC"
+\MINIMUM_DATE                       = "2453000.213770"
+\MAXIMUM_DATE                       = "2455625.052590"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-47.9"
+\MAXIMUM_VALUE                      = "43.4"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Sato et al. 2012 (2012, PASJ, 64, 135)"
+\BIBCODE                            = "2012PASJ...64..135S"
+\TELESCOPE                          = "1.88m OAO"
+\INSTRUMENT                         = "HIDES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Gas Cell Absorption (Iodine)"
+\OBSERVATORY_SITE                   = "Okayama Astrophysical Observatory, Japan"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2453000.213770             12.90                          4.60
+  2453081.127510             33.20                          4.80
+  2453311.257520             28.00                          4.40
+  2453427.126510             22.60                          5.10
+  2453500.014800             -9.60                          5.50
+  2453660.314780            -17.70                          4.50
+  2453729.218760            -29.60                          4.70
+  2453812.098460            -20.40                          4.60
+  2453886.964330            -17.70                          6.50
+  2454022.323030            -47.90                          6.20
+  2454123.152180            -19.60                          5.20
+  2454186.047630            -14.60                          4.60
+  2454216.062040            -17.50                          5.00
+  2454461.338040             16.60                          4.10
+  2454525.120250             14.70                          4.60
+  2454587.946120             28.30                          6.30
+  2454796.331910             37.50                          4.60
+  2454887.997620             26.90                          5.40
+  2454925.033790             43.40                          4.80
+  2455166.101630              0.10                          5.10
+  2455205.197280             -7.50                          4.50
+  2455233.130030             -7.50                          5.10
+  2455346.978210            -26.80                          5.00
+  2455502.248940            -39.80                          6.20
+  2455558.238520            -27.50                          4.70
+  2455625.052590            -31.80                          4.50

@@ -1,0 +1,27 @@
+\STAR_ID                                  = "HD 130322"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "5"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2453585.64900"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454251.84318"
+\MINIMUM_VALUE                            = "-72.8"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "83.7"
+\REFERENCE                                = "Wittenmyer et al. 2009 (ApJS, 182, 97)"
+\BIBCODE                                  = "2009ApJS..182...97W"
+\TELESCOPE                                = "2.7m Harlan J. Smith (HJS) telescope"
+\INSTRUMENT                               = "2d coude spectrograph (2dCS)"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "McDonald Observatory, Texas"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453585.64900              83.7                           7.5
+  2453843.89253             -18.0                           7.5
+  2453863.78301              75.5                           8.6
+  2453910.78043             -68.5                           8.1
+  2454251.84318             -72.8                           9.4

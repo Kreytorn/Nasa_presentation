@@ -1,0 +1,30 @@
+\STAR_ID                                  = "OGLE-TR-10"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "9"
+\TIME_REFERENCE_FRAME                     = "HJD"
+\MINIMUM_DATE                             = "2452481.7946"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453209.7727"
+\MINIMUM_VALUE                            = "-6380.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-6130.00"
+\REFERENCE                                = "Konacki et al. 2005 (ApJ, 624, 372)"
+\BIBCODE                                  = "2005ApJ...624..372K"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          HJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2452481.7946          -6130.00                         58.00
+  2452483.7578          -6296.00                         57.00
+  2452853.7813          -6247.00                         48.00
+  2452855.8454          -6340.00                         59.00
+  2452864.7786          -6304.00                         54.00
+  2453206.7856          -6223.00                         97.00
+  2453207.7794          -6152.00                         56.00
+  2453208.7772          -6380.00                         70.00
+  2453209.7727          -6254.00                         56.00

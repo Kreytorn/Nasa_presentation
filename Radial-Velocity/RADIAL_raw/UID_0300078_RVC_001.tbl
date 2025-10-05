@@ -1,0 +1,36 @@
+\STAR_ID                                  = "HAT-P-9"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "15"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454233.3347"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454591.3647"
+\MINIMUM_VALUE                            = "22536"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "22749"
+\REFERENCE                                = "Shporer et al. 2009 (ApJ, 690, 1393)"
+\BIBCODE                                  = "2009ApJ...690.1393S"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454233.3347             22667                            24
+  2454379.6357             22586                            20
+  2454380.6213             22672                            24
+  2454381.5815             22749                            23
+  2454413.6292             22727                            21
+  2454414.6084             22610                            24
+  2454415.6457             22675                            27
+  2454416.6392             22740                            21
+  2454421.6701             22659                            31
+  2454422.6651             22595                            20
+  2454587.3543             22536                            21
+  2454588.3571             22650                            23
+  2454589.3525             22730                            23
+  2454590.3425             22699                            25
+  2454591.3647             22564                            30

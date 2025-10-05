@@ -1,0 +1,47 @@
+\STAR_ID                                  = "HD 87883"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "25"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2452006.95556"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2452009.42729"
+\MINIMUM_VALUE                            = "-21.38"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "42.47"
+\REFERENCE                                = "Fischer et al. 2009 (ApJ, 703, 1545)"
+\BIBCODE                                  = "2009ApJ...703.1545F"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2452006.95556             42.47                          2.80
+  2452008.47985              1.75                          4.16
+  2452008.85326             17.75                          4.20
+  2452008.85584             10.71                          4.01
+  2452008.85868             -6.52                          3.96
+  2452008.88886              3.65                          3.88
+  2452008.92978             17.89                          3.96
+  2452008.93511             11.34                          5.32
+  2452008.93805             -2.68                          3.92
+  2452008.94051              5.14                          4.05
+  2452008.94338             10.12                          3.93
+  2452009.02007             -4.52                          4.02
+  2452009.04198              1.03                          4.21
+  2452009.09116            -21.38                          4.11
+  2452009.09890            -12.31                          4.24
+  2452009.26318             -7.77                          4.14
+  2452009.26863            -14.77                          4.20
+  2452009.28229            -15.93                          4.35
+  2452009.33710            -10.03                          3.82
+  2452009.36175             -3.13                          3.99
+  2452009.41635             -4.02                          3.86
+  2452009.41906             -9.49                          3.92
+  2452009.42181            -15.32                          4.16
+  2452009.42461             -1.15                          3.94
+  2452009.42729            -13.37                          4.31

@@ -1,0 +1,48 @@
+\STAR_ID                                  = "HD 1461"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "28"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2453713.70121"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453730.80874"
+\MINIMUM_VALUE                            = "-5.62"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "3.44"
+\REFERENCE                                = "Rivera et al. 2010 (ApJ, 708, 1492)"
+\BIBCODE                                  = "2010ApJ...708.1492R"
+\TELESCOPE                                = "NASA-Keck Observatory Archive"
+\INSTRUMENT                               = "Not given"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453713.70121              0.45                          0.70
+  2453713.76642              1.42                          0.59
+  2453713.82984              3.44                          0.60
+  2453714.69699              0.24                          0.61
+  2453714.75572              0.56                          0.58
+  2453714.82460              0.22                          0.56
+  2453715.68459             -1.65                          0.66
+  2453715.72791              0.10                          0.70
+  2453715.77573             -2.24                          0.64
+  2453715.82808             -0.68                          0.63
+  2453716.72884             -3.10                          0.59
+  2453716.77010             -1.49                          0.63
+  2453716.82182             -1.79                          0.72
+  2453717.79314             -4.50                          0.56
+  2453726.72138             -1.00                          0.61
+  2453726.77494              2.24                          0.59
+  2453727.71647             -1.39                          0.54
+  2453727.77202             -4.18                          0.56
+  2453727.81049             -2.38                          0.58
+  2453728.73194             -5.62                          0.54
+  2453728.79946             -2.87                          0.59
+  2453728.84615             -2.39                          0.58
+  2453728.84971              0.18                          0.60
+  2453729.70727              1.63                          0.85
+  2453729.81947              0.00                          0.60
+  2453730.71913              2.23                          0.60
+  2453730.77245              2.82                          0.56
+  2453730.80874              2.49                          0.54

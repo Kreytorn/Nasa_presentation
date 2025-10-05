@@ -1,0 +1,29 @@
+\STAR_ID                                  = "CoRoT-2"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "8"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454298.4641"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454298.5879"
+\MINIMUM_VALUE                            = "22891.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "23378.00"
+\REFERENCE                                = "Bouchy et al. 2008 (A&AL, 482, 25)"
+\BIBCODE                                  = "2008A&A...482L..25B"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454298.4641          23341.00                         26.00
+  2454298.4862          23285.00                         27.00
+  2454298.5030          23369.00                         28.00
+  2454298.5198          23378.00                         27.00
+  2454298.5381          23123.00                         27.00
+  2454298.5550          22926.00                         28.00
+  2454298.5714          22891.00                         29.00
+  2454298.5879          23023.00                         30.00

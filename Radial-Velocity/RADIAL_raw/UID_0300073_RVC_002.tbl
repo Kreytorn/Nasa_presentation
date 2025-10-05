@@ -1,0 +1,140 @@
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+\                                                             \
+\ GLOBAL PROPERTIES                                           \
+\                                                             \
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+\STAR_ID                                  = "XO-5"
+\STAR_ID_DEFINED                          = "Published star name or ID number of star assigned by survey"
+\NSTED_DEFAULT_ID                         = "XO-5"
+\NSTED_DEFAULT_ID_DEFINED                 = "NStED default name"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\DATA_CATEGORY_DEFINED                    = "Category of time series data"
+\PUBLIC                                   = "Y"
+\PUBLIC_DEFINED                           = "Y if data are public; N if data are proprietary"
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+\                                                             \
+\ TIME SERIES DATA BASIC PROPERTIES                           \
+\                                                             \
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+\NUMBER_OF_POINTS                         = "16"
+\NUMBER_OF_POINTS_DEFINED                 = "Total number of data points in time series"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\TIME_REFERENCE_FRAME_DEFINED             = "Frame of reference of time series"
+\EXPOSURE_TIMESTAMP                       = "Unknown"
+\EXPOSURE_TIMESTAMP_DEFINED               = "Timestamp relative to exposure (Beginning, Midpoint, End, Unknown)"
+\MINIMUM_DATE                             = "2454186.94763"
+\MINIMUM_DATE_DEFINED                     = "Minimum value of date in time series data"
+\MINIMUM_DATE_UNITS                       = "days"
+\MAXIMUM_DATE                             = "2454603.74268"
+\MAXIMUM_DATE_DEFINED                     = "Maximum value of date in time series data"
+\MAXIMUM_DATE_UNITS                       = "days"
+\MINIMUM_VALUE                            = "0.00"
+\MINIMUM_VALUE_DEFINED                    = "Minimum value of time series data"
+\MINIMUM_VALUE_UNITS                      = "m/s"
+\MAXIMUM_VALUE                            = "301.03"
+\MAXIMUM_VALUE_DEFINED                    = "Maximum value of time series data"
+\MAXIMUM_VALUE_UNITS                      = "m/s"
+\DATE_UNITS                               = "days"
+\VALUE_UNITS                              = "m/s"
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+\                                                             \
+\ TIME SERIES DATA CHARACTERISTICS COMPUTED BY NSTED          \
+\                                                             \
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+\MEDIAN_VALUE                             = "136.85"
+\MEDIAN_VALUE_DEFINED                     = "Median value of data points"
+\MEDIAN_VALUE_UNITS                       = "m/s"
+\MEAN_VALUE                               = "1.4E+2"
+\MEAN_VALUE_DEFINED                       = "Mean value of data points"
+\MEAN_VALUE_UNITS                         = "m/s"
+\MEDIAN_UNCERTAINTY                       = "3.145"
+\MEDIAN_UNCERTAINTY_DEFINED               = "Median of uncertainty values"
+\MEDIAN_UNCERTAINTY_UNITS                 = "m/s"
+\MEDIAN_ABSOLUTE_DEVIATION                = "112.725"
+\MEDIAN_ABSOLUTE_DEVIATION_DEFINED        = "Value of median absolute deviation statistic"
+\MEDIAN_ABSOLUTE_DEVIATION_UNITS          = "m/s"
+\DISPERSION                               = "1.2E+2"
+\DISPERSION_DEFINED                       = "Standard deviation with respect to MEDIAN_VALUE"
+\DISPERSION_UNITS                         = "m/s"
+\DISPERSION_MEAN                          = "1.2E+2"
+\DISPERSION_MEAN_DEFINED                  = "Standard deviation with respect to MEAN_VALUE"
+\DISPERSION_MEAN_UNITS                    = "m/s"
+\CHISQUARED                               = "1.3E+3"
+\CHISQUARED_DEFINED                       = "Value of reduced chi-squared statistic with respect to MEDIAN_VALUE"
+\NUMBER_5_SIGMA                           = "0"
+\NUMBER_5_SIGMA_DEFINED                   = "Number of data points beyond 5 times DISPERSION from MEDIAN_VALUE"
+\FRACTION_5_SIGMA                         = "0"
+\FRACTION_5_SIGMA_DEFINED                 = "Fraction of data points beyond 5 times DISPERSION from MEDIAN_VALUE"
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+\                                                             \
+\ REFERENCES AND INFORMATION ABOUT OBSERVING SETUP            \
+\                                                             \
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+\REFERENCES                               = "Pal et al. 2009 (ApJ, 700, 783)"
+\REFERENCES_DEFINED                       = "Literature or other references for data"
+\BIBCODES                                 = "2009ApJ...700..783P"
+\BIBCODES_DEFINED                         = "ADS bibcodes for REFERENCES"
+\TELESCOPE                                = "10m Keck I"
+\TELESCOPE_DEFINED                        = "Telescope used for data acquisition"
+\INSTRUMENT                               = "HIRES"
+\INSTRUMENT_DEFINED                       = "Instrument used for data acquisition"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\WAVELENGTH_CALIBRATION_TECHNIQUE_DEFINED = "Reference spectrum for wavelength calibration"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\OBSERVATORY_SITE_DEFINED                 = "Name or location of observatory"
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+\                                                             \
+\ COMMENTS AND NOTES                                          \
+\                                                             \
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+\NOTE1                                    = "This radial velocity curve contains 16 measurements and is plotted by the NStED visualizer as Radial_Velocity (m/s) vs. BJD (days)."
+\NOTE2                                    = "This data set covers BJD between 2450186.94763 and 2450603.74268 days BJD, and the range of Radial_Velocity is between 0.00 and 301.03 m/s."
+\NOTE3                                    = "NStED serves the data contained in this file as they were reported in the literature or as they were delivered to the archive.  Data were not altered unless an error was discovered.  Any data corrections are listed in the header comments and have been confirmed with the original authors."
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+\                                                             \
+\ NSTED ARCHIVE FILE INFORMATION                              \
+\                                                             \
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+\NSTED_FILE_CREATION_DATE                 = "Tue Jun  7 02:40:19 2011 UTC"
+\CONTACT_LINK                             = "http://nsted.ipac.caltech.edu/applications/Helpdesk"
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+\                                                             \
+\ NSTED INTERNAL KEYWORDS (NEEDED FOR TIME SERIES VIEWER)     \
+\                                                             \
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+\X_AXIS                                   = "BJD"
+\X_AXIS_UNITS                             = "days"
+\Y_AXIS                                   = "Radial_Velocity"
+\Y_AXIS_UNITS                             = "m/s"
+\Y_AXIS_UNCERTAINTY                       = "Radial_Velocity_Uncertainty"
+\Y_AXIS_UNCERTAINTY_UNITS                 = "m/s"
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+\                                                             \
+\ DESCRIPTION OF COLUMN HEADERS                               \
+\                                                             \
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+\COLUMN_BJD                               = "Barycentric Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+\COLUMN_ACCEPTED                          = "1 if value was used by NStED in computing statistics; 0 otherwise"
+\ 
+\ 
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty | Accepted |
+|        double |          double |                      double |      int |
+|          days |             m/s |                         m/s |          |
+  2454186.94763            269.14                          3.21          1  
+  2454187.95384            226.59                          3.08          1  
+  2454188.95403             33.07                          2.79          1  
+  2454216.76639            294.36                          2.70          1  
+  2454247.80697              0.00                          3.37          1  
+  2454248.77938             76.84                          3.83          1  
+  2454249.78531            268.26                          3.36          1  
+  2454251.78153              5.41                          3.75          1  
+  2454428.02826              8.16                          3.02          1  
+  2454430.12240            301.03                          3.71          1  
+  2454455.97787            222.99                          3.41          1  
+  2454547.92199            224.82                          7.25          1  
+  2454548.81658             79.96                          3.08          1  
+  2454548.89652             65.98                          2.84          1  
+  2454602.74168            193.74                          2.61          1  
+  2454603.74268             15.18                          2.83          1  

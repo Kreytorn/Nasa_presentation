@@ -1,0 +1,41 @@
+\STAR_ID                                  = "HD 80606"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "19"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2452075.34680"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2452961.71930"
+\MINIMUM_VALUE                            = "3579.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "4331.00"
+\REFERENCE                                = "Moutou et al. 2009 (A&A, 498, L5)"
+\BIBCODE                                  = "2009A&A...498L...5M"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "ELODIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2452075.34680           3628.00                         12.00
+  2452075.35930           3642.00                         13.00
+  2452279.54340           3701.00                         12.00
+  2452280.57800           3699.00                          9.00
+  2452281.53220           3720.00                         10.00
+  2452308.60070           4314.00                         14.00
+  2452308.61320           4331.00                         16.00
+  2452310.57700           4124.00                         11.00
+  2452310.59040           4110.00                         12.00
+  2452355.44950           3790.00                         18.00
+  2452359.41600           3767.00                         14.00
+  2452359.42890           3757.00                         12.00
+  2452638.58610           3579.00                         11.00
+  2452678.50800           3812.00                         14.00
+  2452681.57100           3824.00                         14.00
+  2452718.44840           3697.00                         11.00
+  2452722.42900           3751.00                         21.00
+  2452722.44230           3704.00                         16.00
+  2452961.71930           3631.00                         14.00

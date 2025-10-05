@@ -1,0 +1,35 @@
+\STAR_ID                                  = "CoRoT-6"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "14"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454642.5591"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454715.4002"
+\MINIMUM_VALUE                            = "-18525.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-17967.00"
+\REFERENCE                                = "Fridlund et al. 2010 (arXiv, 1001, 1426)"
+\BIBCODE                                  = "2010arXiv1001.1426F"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454642.5591         -18465.00                         66.00
+  2454646.4820         -17967.00                         39.00
+  2454679.4155         -18345.00                         44.00
+  2454681.4542         -17999.00                         48.00
+  2454685.3983         -18510.00                         50.00
+  2454689.4129         -18202.00                         63.00
+  2454700.3532         -18011.00                         48.00
+  2454702.3841         -18333.00                         72.00
+  2454704.3410         -18469.00                         44.00
+  2454706.3593         -18229.00                         41.00
+  2454707.3968         -18041.00                         40.00
+  2454711.3270         -18341.00                         49.00
+  2454712.3234         -18525.00                         60.00
+  2454715.4002         -18321.00                         59.00

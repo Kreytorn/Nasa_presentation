@@ -1,0 +1,33 @@
+\STAR_ID                                  = "Beta Gem"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "11"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2450836.7266"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2452565.0000"
+\MINIMUM_VALUE                            = "-64.17"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "24.25"
+\REFERENCE                                = "Hatzes et al. 2006 (A&A, 457, 335)"
+\BIBCODE                                  = "2006A&A...457..335H"
+\TELESCOPE                                = "2.7m Harlan J. Smith (HJS) telescope"
+\INSTRUMENT                               = "2d coude spectrograph (2dCS - high resolution)"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "McDonald Observatory, Texas"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2450836.7266              3.72                           6.4
+  2450939.6445             -8.38                           9.0
+  2451522.9219            -26.92                           7.2
+  2451523.9141            -29.07                           4.8
+  2451525.9219            -30.54                           5.0
+  2451620.7695            -64.17                           4.9
+  2451683.6562            -32.67                           5.2
+  2451980.7500             24.25                           4.3
+  2451981.6406             15.37                           5.4
+  2452189.9844            -32.17                           8.4
+  2452565.0000             -6.17                           5.6

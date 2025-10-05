@@ -1,0 +1,27 @@
+\STAR_ID                                  = "ChaHA 8"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "6"
+\TIME_REFERENCE_FRAME                     = "HJD"
+\MINIMUM_DATE                             = "2451639.61095"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2452383.57565"
+\MINIMUM_VALUE                            = "14787.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "17551.00"
+\REFERENCE                                = "Joergens 2006 (A&A, 446, 1165)"
+\BIBCODE                                  = "2006A&A...446.1165J"
+\TELESCOPE                                = "8.2m Kueyen (UT2)"
+\INSTRUMENT                               = "UVES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon and Telluric Oxygen"
+\OBSERVATORY_SITE                         = "ESO VLT, Paranal Observatory, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           HJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2451639.61095          14787.00                        500.00
+  2451658.72597          14935.00                        500.00
+  2452339.68965          16920.00                         70.00
+  2452355.65264          16912.00                        160.00
+  2452380.61646          17551.00                        230.00
+  2452383.57565          17379.00                         30.00

@@ -1,0 +1,39 @@
+\STAR_ID                            = "WASP-78"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "17"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455843.809136"
+\MAXIMUM_DATE                       = "2455925.588245"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "330.21"
+\MAXIMUM_VALUE                      = "607.83"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Smalley et al. 2012 (2012, A&A, 547A, 61)"
+\BIBCODE                            = "2012A&A...547A..61S"
+\TELESCOPE                          = "1.2m Euler/ESO"
+\INSTRUMENT                         = "CORALIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "ESO La Silla, Chile"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455843.809136            356.46                         34.85
+  2455844.852761            607.83                         40.40
+  2455856.829961            347.73                         38.80
+  2455858.755243            393.17                         40.86
+  2455859.844478            528.18                         33.89
+  2455863.776195            423.26                         28.13
+  2455864.773882            538.95                         28.40
+  2455868.786063            546.33                         32.02
+  2455872.826304            513.09                         34.59
+  2455880.779941            330.21                         23.99
+  2455881.827711            573.39                         27.15
+  2455883.691336            509.27                         26.04
+  2455887.764232            415.97                         23.11
+  2455888.641287            543.11                         28.07
+  2455889.620019            378.00                         25.74
+  2455894.743726            587.54                         23.81
+  2455925.588245            534.59                         20.61

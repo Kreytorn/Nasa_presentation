@@ -1,0 +1,41 @@
+\STAR_ID                                  = "HD 20367"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "19"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2453632.00290"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454555.60469"
+\MINIMUM_VALUE                            = "-14.5"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "23.7"
+\REFERENCE                                = "Wittenmyer et al. 2009 (ApJS, 182, 97)"
+\BIBCODE                                  = "2009ApJS..182...97W"
+\TELESCOPE                                = "2.7m Harlan J. Smith (HJS) telescope"
+\INSTRUMENT                               = "2d coude spectrograph (2dCS)"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "McDonald Observatory, Texas"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453632.00290               2.7                           7.4
+  2453635.96984              -3.7                           8.2
+  2453691.80381              -6.8                           7.9
+  2453808.62780              -7.9                           6.2
+  2453967.90828              11.5                           8.2
+  2453968.90725              11.4                          10.8
+  2454018.98018              -2.3                           6.3
+  2454158.59352              -5.9                           6.7
+  2454189.59664              -2.8                           7.4
+  2454189.61001              -6.9                           7.7
+  2454190.61247             -13.3                           7.9
+  2454191.60150              -1.9                           6.1
+  2454192.60131               4.3                           5.5
+  2454345.84686               0.1                           8.3
+  2454377.85210             -14.5                           6.6
+  2454402.79239              -3.6                           5.9
+  2454460.80432              -5.7                          10.3
+  2454496.58943              23.7                           7.6
+  2454555.60469              21.5                           6.7

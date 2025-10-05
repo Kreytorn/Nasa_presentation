@@ -1,0 +1,30 @@
+\STAR_ID                            = "HAT-P-25"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "8"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455188.913030"
+\MAXIMUM_DATE                       = "2455251.840050"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-77.4"
+\MAXIMUM_VALUE                      = "69.96"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Quinn et al. 2010 (arXiv, 1008, 3565)"
+\BIBCODE                            = "2012ApJ...745...80Q"
+\TELESCOPE                          = "10m Keck"
+\INSTRUMENT                         = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Gas Cell Absorption (Iodine)"
+\OBSERVATORY_SITE                   = "Manua Kea, Hawaii"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455188.913030            -68.72                          2.58
+  2455190.949640             60.74                          2.14
+  2455191.936470            -47.94                          2.31
+  2455192.932170            -49.91                          2.62
+  2455196.884720             -6.40                          2.36
+  2455197.872320             69.96                          3.01
+  2455250.850040            -77.40                          3.34
+  2455251.840050             13.68                          2.98

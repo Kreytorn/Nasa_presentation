@@ -1,0 +1,28 @@
+\STAR_ID                                  = "HD 195019"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "7"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2451068.852"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2451075.795"
+\MINIMUM_VALUE                            = "-222.53"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "292.32"
+\REFERENCE                                = "Fischer et al. 1999 (PASP, 111, 50)"
+\BIBCODE                                  = "1999PASP..111...50F"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+|          JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|      double |          double |                      double |
+|        days |             m/s |                         m/s |
+   2451068.852           -222.53                             6
+   2451069.893           -185.77                             6
+   2451070.913           -106.85                             6
+   2451071.849              0.00                             6
+   2451072.837             92.42                             6
+   2451074.857            244.19                             6
+   2451075.795            292.32                             6

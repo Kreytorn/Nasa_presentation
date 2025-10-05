@@ -1,0 +1,33 @@
+\STAR_ID                                  = "HD 134987"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "11"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2450917.2282"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2451742.9340"
+\MINIMUM_VALUE                            = "-19.2"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "89.3"
+\REFERENCE                                = "Butler et al. 2001 (ApJ, 555, 410)"
+\BIBCODE                                  = "2001ApJ...555..410B"
+\TELESCOPE                                = "3.9m Anglo-Australian Telescope (AAT)"
+\INSTRUMENT                               = "UCLES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Siding Spring Observatory, Australia"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2450917.2282               0.0                           5.6
+  2451003.0032             -14.6                           7.2
+  2451213.2775             -12.1                           4.7
+  2451276.0475             -19.2                           6.5
+  2451382.9573              75.2                           5.4
+  2451413.8811              30.9                           2.5
+  2451630.2677              89.3                           4.1
+  2451683.0609              25.5                           5.0
+  2451706.0960              -0.6                           5.9
+  2451717.9564              -4.8                           4.3
+  2451742.9340              -8.2                           3.5

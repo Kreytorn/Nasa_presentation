@@ -1,0 +1,29 @@
+\STAR_ID                            = "CoRoT-16"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "7"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455012.910100"
+\MAXIMUM_DATE                       = "2455430.784910"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-106.8"
+\MAXIMUM_VALUE                      = "50.0"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Ollivier et al. 2012 (A&A, 541, A149)"
+\BIBCODE                            = "2012A&A...541A.149O"
+\TELESCOPE                          = "10m Keck"
+\INSTRUMENT                         = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Gas Cell Absorption (Iodine)"
+\OBSERVATORY_SITE                   = "Manua Kea, Hawaii"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455012.910100             40.80                         20.20
+  2455014.037450             50.00                         21.70
+  2455368.078120              9.40                         27.40
+  2455368.928430            -43.00                         28.80
+  2455369.118550           -106.80                         58.40
+  2455429.771810             22.20                         27.70
+  2455430.784910             27.40                         18.60

@@ -1,0 +1,50 @@
+\STAR_ID                                  = "Gamma Cephei"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "29"
+\TIME_REFERENCE_FRAME                     = "MJD"
+\MINIMUM_DATE                             = "2446668.05"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2451003.07"
+\MINIMUM_VALUE                            = "-45800.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-43900.00"
+\REFERENCE                                = "Griffin et al. 2002 (Obs, 122, 90)"
+\BIBCODE                                  = "2002Obs...122...90G"
+\TELESCOPE                                = "1.93m"
+\INSTRUMENT                               = "Coravel"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Not Given"
+\OBSERVATORY_SITE                         = "Observatoire de Haute Provence (OHP), France"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|        MJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|     double |          double |                      double |
+|       days |             m/s |                         m/s |
+  2446668.05         -43900.00                        100.00
+  2447080.99         -44400.00                          0.00
+  2447232.78         -44600.00                        100.00
+  2447465.93         -45100.00                        300.00
+  2447613.78         -45200.00                        300.00
+  2447644.14         -44800.00                        100.00
+  2447917.73         -45100.00                        100.00
+  2448282.83         -45700.00                        300.00
+  2448558.93         -45800.00                        300.00
+  2448606.81         -45800.00                        200.00
+  2448636.76         -45600.00                          0.00
+  2448798.06         -45500.00                        100.00
+  2448848.04         -45500.00                        100.00
+  2448977.76         -45700.00                        100.00
+  2449031.77         -45700.00                        100.00
+  2449177.10         -45400.00                        200.00
+  2449347.89         -45300.00                        300.00
+  2449402.74         -45200.00                        400.00
+  2449567.02         -45300.00                        200.00
+  2449696.82         -45500.00                          0.00
+  2449718.84         -45600.00                        200.00
+  2450082.80         -45200.00                          0.00
+  2450442.85         -45300.00                        300.00
+  2450472.84         -45000.00                          0.00
+  2450648.11         -44800.00                        100.00
+  2450700.95         -45000.00                        200.00
+  2450805.80         -44800.00                        100.00
+  2450936.16         -44600.00                          0.00
+  2451003.07         -44700.00                        100.00

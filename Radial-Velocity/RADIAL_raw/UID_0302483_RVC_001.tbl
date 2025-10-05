@@ -1,0 +1,35 @@
+\STAR_ID                            = "WASP-56"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "13"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455647.406300"
+\MAXIMUM_DATE                       = "2455687.497700"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "4605.0"
+\MAXIMUM_VALUE                      = "4745.0"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Faedi et al. 2013 (2013, A&A, 551A, 73)"
+\BIBCODE                            = "2013A&A...551A..73F"
+\TELESCOPE                          = "1.93m OHP"
+\INSTRUMENT                         = "SOPHIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Emission Reference Spectrum (ThAr)"
+\OBSERVATORY_SITE                   = "Observatoire de Haute Provence, France"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455647.406300           4724.00                         12.00
+  2455649.402800           4626.00                         10.00
+  2455651.418900           4721.00                         35.00
+  2455659.538400           4723.00                         11.00
+  2455660.502800           4745.00                         10.00
+  2455668.442500           4621.00                         27.00
+  2455670.346800           4716.00                         11.00
+  2455671.502900           4637.00                         11.00
+  2455672.408800           4627.00                         10.00
+  2455681.445300           4605.00                         11.00
+  2455683.470900           4742.00                         11.00
+  2455685.498600           4620.00                         10.00
+  2455687.497700           4734.00                         10.00

@@ -1,0 +1,25 @@
+\STAR_ID                                  = "CoRoT-3"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "4"
+\TIME_REFERENCE_FRAME                     = "HJD"
+\MINIMUM_DATE                             = "2454341.6815"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454344.6816"
+\MINIMUM_VALUE                            = "-58331.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-53978.00"
+\REFERENCE                                = "Deleuil et al. 2008 (A&A, 491, 889)"
+\BIBCODE                                  = "2008A&A...491..889D"
+\TELESCOPE                                = "3.6m"
+\INSTRUMENT                               = "HARPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          HJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454341.6815         -53978.00                         52.00
+  2454342.6366         -55867.00                         49.00
+  2454343.6556         -58331.00                         54.00
+  2454344.6816         -56683.00                         57.00

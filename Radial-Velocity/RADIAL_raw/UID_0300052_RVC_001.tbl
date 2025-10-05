@@ -1,0 +1,36 @@
+\STAR_ID                                  = "Lupus-TR-3"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "15"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454272.633942"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454275.687073"
+\MINIMUM_VALUE                            = "9111.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "9653.00"
+\REFERENCE                                = "Weldrake et al. 2008 (ApJ, 675, L37)"
+\BIBCODE                                  = "2008ApJ...675L..37W"
+\TELESCOPE                                = "6.5m Magellan II (Clay)"
+\INSTRUMENT                               = "MIKE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "Las Campanas Observatory, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2454272.633942           9454.00                        103.00
+  2454272.661301           9271.00                        118.00
+  2454272.688652           9396.00                        115.00
+  2454273.614632           9486.00                        128.00
+  2454273.641701           9559.00                         98.00
+  2454273.667137           9485.00                        133.00
+  2454273.690788           9653.00                        134.00
+  2454274.612755           9111.00                        126.00
+  2454274.637009           9351.00                        104.00
+  2454274.661842           9397.00                        130.00
+  2454274.683777           9455.00                        176.00
+  2454275.605759           9441.00                        127.00
+  2454275.631256           9231.00                        140.00
+  2454275.658302           9265.00                         99.00
+  2454275.687073           9343.00                         87.00

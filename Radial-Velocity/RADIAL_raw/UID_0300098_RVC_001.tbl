@@ -1,0 +1,30 @@
+\STAR_ID                                  = "Kepler-6"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "9"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454986.087289"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2455044.019956"
+\MINIMUM_VALUE                            = "-75.84"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "68.42"
+\REFERENCE                                = "Dunham et al. 2010 (ApJ, 713, 136L)"
+\BIBCODE                                  = "2010ApJ...713L.136D"
+\TELESCOPE                                = "10m Keck I"
+\INSTRUMENT                               = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Mauna Kea, Hawaii"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2454986.087289             68.42                          4.48
+  2454987.087348            -59.94                          4.59
+  2454988.077695            -67.64                          4.75
+  2454989.019649             48.64                          4.64
+  2454995.112273             18.56                          4.79
+  2455014.881155             51.75                          4.54
+  2455015.984052            -34.79                          4.65
+  2455017.067098            -75.84                          4.94
+  2455044.019956             50.59                          5.42

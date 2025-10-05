@@ -1,0 +1,32 @@
+\STAR_ID                            = "HAT-P-20"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "10"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2454934.841490"
+\MAXIMUM_DATE                       = "2455192.117540"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-1225.77"
+\MAXIMUM_VALUE                      = "1233.55"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Bakos et al. 2010 (arXiv, 1008, 3388)"
+\BIBCODE                            = "2011ApJ...742..116B"
+\TELESCOPE                          = "10m Keck"
+\INSTRUMENT                         = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Gas Cell Absorption (Iodine)"
+\OBSERVATORY_SITE                   = "Manua Kea, Hawaii"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2454934.841490          -1139.51                          2.94
+  2454954.831750           -942.88                          2.24
+  2454956.804810           1092.32                          2.28
+  2454983.738510          -1151.02                          2.39
+  2454984.740640            328.09                          2.14
+  2454986.742960          -1225.77                          2.34
+  2455107.152260           -870.02                          4.89
+  2455109.057520           1233.55                          3.76
+  2455191.102740          -1147.72                          2.07
+  2455192.117540           1100.72                          2.12

@@ -1,0 +1,34 @@
+\STAR_ID                                  = "CoRoT 5"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "13"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454548.583775"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454805.748602"
+\MINIMUM_VALUE                            = "48792.00"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "48933.00"
+\REFERENCE                                = "Rauer et al. 2009 (A&A, 506, 281)"
+\BIBCODE                                  = "2009A&A...506..281R"
+\TELESCOPE                                = "3.6m"
+\INSTRUMENT                               = "HARPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|            BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2454548.583775          48933.00                         14.00
+  2454550.577783          48792.00                         21.00
+  2454551.584161          48865.00                         13.00
+  2454553.525234          48883.00                         10.00
+  2454554.546158          48819.00                         12.00
+  2454556.554191          48929.00                         10.00
+  2454768.852140          48820.00                          9.00
+  2454769.848137          48900.00                          8.00
+  2454771.850953          48851.00                          9.00
+  2454772.841289          48827.00                         10.00
+  2454773.847921          48900.00                          8.00
+  2454802.777527          48929.00                          9.00
+  2454805.748602          48852.00                         12.00

@@ -1,0 +1,44 @@
+\STAR_ID                                  = "HD 212301"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "23"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2452856.82311094"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453579.76714084"
+\MINIMUM_VALUE                            = "4617.90"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "4750.50"
+\REFERENCE                                = "Lo Curto et al. 2006 (ApJ, 451, 345)"
+\BIBCODE                                  = "2006A&A...451..345L"
+\TELESCOPE                                = "3.6m"
+\INSTRUMENT                               = "HARPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|              BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|           double |          double |                      double |
+|             days |             m/s |                         m/s |
+  2452856.82311094           4682.90                          1.70
+  2452857.80050132           4744.90                          1.50
+  2452858.62136607           4645.80                          2.70
+  2452858.88919675           4652.20                          3.10
+  2452859.66580240           4749.70                          3.80
+  2452859.90766115           4750.50                          2.00
+  2453543.83351618           4644.20                          1.70
+  2453544.91732052           4737.70                          2.00
+  2453546.90517819           4748.70                          2.40
+  2453550.83327941           4685.80                          3.50
+  2453551.90755217           4701.90                          2.80
+  2453572.86199991           4617.90                          3.00
+  2453573.82101071           4727.20                          3.50
+  2453574.78693042           4644.10                          3.30
+  2453574.91756610           4642.90                          3.60
+  2453575.72676161           4716.40                          3.30
+  2453575.92553323           4747.30                          4.00
+  2453576.71346667           4692.80                          1.40
+  2453576.86293299           4668.10                          1.20
+  2453577.76521662           4684.90                          4.70
+  2453577.91866426           4706.60                          3.50
+  2453578.82741695           4708.70                          1.50
+  2453579.76714084           4645.70                          1.20

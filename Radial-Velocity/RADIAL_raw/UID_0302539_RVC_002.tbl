@@ -1,0 +1,28 @@
+\STAR_ID                            = "CoRoT-25"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "6"
+\TIME_REFERENCE_FRAME               = "BJD-UTC"
+\MINIMUM_DATE                       = "2455012.823144"
+\MAXIMUM_DATE                       = "2455767.997414"
+\DATE_UNITS                         = "days"
+\MINIMUM_VALUE                      = "-22.83"
+\MAXIMUM_VALUE                      = "18.51"
+\VALUE_UNITS                        = "m/s"
+\REFERENCE                          = "Almenara et al. 2013 (A&A, 555, 118)"
+\BIBCODE                            = "2013A&A...555A.118A"
+\TELESCOPE                          = "10m Keck"
+\INSTRUMENT                         = "HIRES"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Gas Cell Absorption (Iodine)"
+\OBSERVATORY_SITE                   = "Manua Kea, Hawaii"
+\COLUMN_JD                          = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           Time | Radial_Velocity | Radial_Velocity_Uncertainty |
+|         double |          double |                      double |
+|           days |             m/s |                         m/s |
+  2455012.823144             18.51                         11.70
+  2455013.076915             -3.02                         17.80
+  2455013.958030              8.18                         16.80
+  2455014.085841            -22.83                         15.20
+  2455766.967095             -8.52                         15.00
+  2455767.997414              7.69                         15.30

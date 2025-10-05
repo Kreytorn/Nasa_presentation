@@ -1,0 +1,42 @@
+\STAR_ID                                  = "WASP-15"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "21"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2454531.8146"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2454664.5932"
+\MINIMUM_VALUE                            = "-2425.70"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-2276.00"
+\REFERENCE                                = "West et al. 2009 (AJ, 137, 4834)"
+\BIBCODE                                  = "2009AJ....137.4834W"
+\TELESCOPE                                = "1.2m Euler Swiss telescope"
+\INSTRUMENT                               = "CORALIE"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|          BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2454531.8146          -2302.00                         14.80
+  2454532.7221          -2391.40                         18.00
+  2454533.7468          -2374.70                         15.10
+  2454534.8778          -2279.90                         15.00
+  2454535.7341          -2309.00                         13.70
+  2454536.6666          -2412.40                         12.60
+  2454537.7805          -2367.10                          9.90
+  2454538.7459          -2288.60                         10.80
+  2454556.7948          -2315.60                         11.20
+  2454557.7488          -2282.50                         13.30
+  2454558.7334          -2392.50                         10.50
+  2454559.7479          -2392.30                         10.90
+  2454560.6158          -2314.40                         11.80
+  2454589.6590          -2425.70                         12.60
+  2454591.6355          -2295.90                         11.80
+  2454655.4689          -2293.30                         11.00
+  2454656.5165          -2376.10                         10.60
+  2454657.6134          -2319.00                         15.70
+  2454662.5205          -2276.00                          9.50
+  2454663.5879          -2363.40                         13.20
+  2454664.5932          -2387.90                         14.60

@@ -1,0 +1,38 @@
+\STAR_ID                                  = "GJ 876"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "16"
+\TIME_REFERENCE_FRAME                     = "JD"
+\MINIMUM_DATE                             = "2449679.6316"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2451894.5961"
+\MINIMUM_VALUE                            = "-223.27"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "263.53"
+\REFERENCE                                = "Marcy et al. 2001 (ApJ, 556, 296)"
+\BIBCODE                                  = "2001ApJ...556..296M"
+\TELESCOPE                                = "3.0m Shane and 0.6m CAT"
+\INSTRUMENT                               = "Hamilton echelle spectrograph"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Iodine"
+\OBSERVATORY_SITE                         = "Lick Observatory, California"
+\COLUMN_JD                                = "Julian date of observation"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           JD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|       double |          double |                      double |
+|         days |             m/s |                         m/s |
+  2449679.6316             58.07                          19.7
+  2449913.9713             39.56                          29.1
+  2450003.6980            136.89                          46.4
+  2450263.9395           -220.65                          24.4
+  2450300.8446            194.30                          26.5
+  2450326.8829           -189.96                          22.3
+  2450614.9787            -97.98                          25.6
+  2450655.9063            128.76                          24.8
+  2450681.8951           -223.27                          20.5
+  2451004.9431           -185.06                          21.2
+  2451005.9532           -150.76                          23.8
+  2451026.8841            254.04                          24.9
+  2451027.9327            263.53                          19.8
+  2451416.8707            -83.78                          24.4
+  2451446.7224            204.41                          24.8
+  2451894.5961            -17.89                          19.6

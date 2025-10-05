@@ -1,0 +1,53 @@
+\STAR_ID                                  = "GJ 674"
+\DATA_CATEGORY                            = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                         = "32"
+\TIME_REFERENCE_FRAME                     = "BJD"
+\MINIMUM_DATE                             = "2453158.75187"
+\DATE_UNITS                               = "days"
+\MAXIMUM_DATE                             = "2453983.52887"
+\MINIMUM_VALUE                            = "-2746.30"
+\VALUE_UNITS                              = "m/s"
+\MAXIMUM_VALUE                            = "-2720.60"
+\REFERENCE                                = "Bonfils et al. 2007 (A&A, 474, 293)"
+\BIBCODE                                  = "2007A&A...474..293B"
+\TELESCOPE                                = "3.6m"
+\INSTRUMENT                               = "HARPS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE         = "Thorium Argon"
+\OBSERVATORY_SITE                         = "ESO La Silla, Chile"
+\COLUMN_RADIAL_VELOCITY                   = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY       = "Uncertainty in RADIAL_VELOCITY"
+|           BJD | Radial_Velocity | Radial_Velocity_Uncertainty |
+|        double |          double |                      double |
+|          days |             m/s |                         m/s |
+  2453158.75187          -2721.70                          0.70
+  2453205.59954          -2721.70                          0.60
+  2453237.56368          -2724.20                          1.00
+  2453520.79313          -2725.40                          0.70
+  2453580.56872          -2724.00                          0.60
+  2453813.84787          -2740.20                          0.60
+  2453816.86891          -2730.00                          0.60
+  2453861.80848          -2724.60                          0.60
+  2453862.78603          -2720.60                          0.60
+  2453863.81069          -2723.90                          0.60
+  2453864.76679          -2737.20                          0.60
+  2453865.81127          -2728.70                          0.60
+  2453866.75571          -2722.80                          0.60
+  2453867.84813          -2722.80                          0.60
+  2453868.83933          -2733.30                          0.60
+  2453869.80377          -2741.60                          0.60
+  2453870.73864          -2734.20                          0.70
+  2453871.86056          -2727.50                          0.60
+  2453882.74474          -2734.10                          0.60
+  2453886.74877          -2724.00                          0.60
+  2453887.79168          -2734.90                          0.60
+  2453917.72331          -2734.10                          0.70
+  2453919.72680          -2725.30                          0.80
+  2453921.62715          -2739.30                          0.60
+  2453944.58648          -2745.10                          0.70
+  2453947.59141          -2729.40                          1.70
+  2453950.64727          -2734.10                          0.60
+  2453976.52448          -2732.20                          0.60
+  2453980.56922          -2729.90                          0.70
+  2453981.59262          -2741.60                          0.60
+  2453982.61648          -2746.30                          0.60
+  2453983.52887          -2736.00                          0.70
